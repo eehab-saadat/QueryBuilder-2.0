@@ -1,0 +1,1860 @@
+sub_disease_name,section_name,parent_disease_name,level
+"Measles, Mumps and Rubella (MMR) Vaccine",ImmunizationDim,,0
+Measles Rubella Vaccine,ImmunizationDim,,0
+Measles Vaccine,ImmunizationDim,,0
+Rubella Vaccine,ImmunizationDim,,0
+Mumps Vaccine,ImmunizationDim,,0
+Hepatitis B Vaccine,ImmunizationDim,,0
+Inactivated Polio Vaccine (IPV),ImmunizationDim,,0
+DTaP Vaccine,ImmunizationDim,,0
+Meningococcal Vaccine,ImmunizationDim,,0
+Pneumococcal Conjugate Vaccine (PCV),ImmunizationDim,,0
+Influenza Vaccine,ImmunizationDim,,0
+Tdap Vaccine,ImmunizationDim,,0
+Rotavirus Vaccine,ImmunizationDim,,0
+HPV Vaccine,ImmunizationDim,,0
+Hib Vaccine,ImmunizationDim,,0
+Hepatitis A Vaccine,ImmunizationDim,,0
+Varicella Zoster Vaccine (VZV),ImmunizationDim,,0
+HPV Vaccination,ImmunizationDim,,0
+Pneumococcal Vaccination,ImmunizationDim,,0
+Tdap Vaccination,ImmunizationDim,,0
+Serum Creatinine,ResultsDim,,0
+Blood Glucose,ResultsDim,,0
+Digoxin Level,ResultsDim,,0
+Urinalysis,ResultsDim,,0
+Beta Blocker Therapy,ResultsDim,,0
+Ejection Fraction,ResultsDim,,0
+Blood Urea,ResultsDim,,0
+Lead Tests,ResultsDim,,0
+CBC,ResultsDim,,0
+LBP: Red Flag Signs Present: CBC,ResultsDim,,0
+Hemoglobin,ResultsDim,,0
+Urine Protein Tests,ResultsDim,,0
+Chlamydia Screening in Women,ResultsDim,,0
+Colorectal Cancer Screening,ResultsDim,,0
+FOBT Lab Test,ResultsDim,,0
+Triglyceride,ResultsDim,,0
+Cervical Cancer Screening,ResultsDim,,0
+Cervical Cytology,ResultsDim,,0
+Pap Test,ResultsDim,,0
+Alcohol Use Assessment or Substance Abuse,ResultsDim,,0
+PSA Lab Test,ResultsDim,,0
+Microalbumin,ResultsDim,,0
+Pain Assessment,ResultsDim,,0
+Group A Strep Tests,ResultsDim,,0
+LDL,ResultsDim,,0
+Functional Status Assessment,ResultsDim,,0
+Hemoglobin A1c,ResultsDim,,0
+HDL,ResultsDim,,0
+Total Cholesterol,ResultsDim,,0
+Breast Cancer Screening,ResultsDim,,0
+Spirometry,ResultsDim,,0
+Chlamydia Screening,ResultsDim,,0
+HbA1c Lab Test,ResultsDim,,0
+Depression Screening,ResultsDim,,0
+Eye Exam,ResultsDim,,0
+HPV Test,ResultsDim,,0
+GFR,ResultsDim,,0
+Anxiety Assessment,ResultsDim,,0
+International Normalized Ratio,ResultsDim,,0
+Cognitive Impairment Assessment,ResultsDim,,0
+FIT DNA Lab Test,ResultsDim,,0
+Allergies And Adverse Reactions,AllergyDim,,0
+Food Allergy,AllergyDim,Allergies And Adverse Reactions,1
+Allergy to Eggs,AllergyDim,Food Allergy,2
+Egg Substance Allergy,AllergyDim,Food Allergy,2
+Medical Equipment Allergy,AllergyDim,Allergies And Adverse Reactions,1
+Allergy to IUD,AllergyDim,Medical Equipment Allergy,2
+Allergy to Medication,AllergyDim,Allergies And Adverse Reactions,1
+Allergy to ACE Inhibitor and ARB,AllergyDim,Allergy to Medication,2
+Allergy to Anti Neoplastic Therapy,AllergyDim,Allergy to Medication,2
+Allergy to ARB Inhibitor,AllergyDim,Allergy to Medication,2
+Allergy to Beta Blocker Therapy,AllergyDim,Allergy to Medication,2
+Allergy to Neomycin,AllergyDim,Allergy to Medication,2
+Allergy to PolymyxinB,AllergyDim,Allergy to Medication,2
+Allergy to Streptomycin,AllergyDim,Allergy to Medication,2
+Allergy to Streptomycin/Neomycin/PolymyxinB,AllergyDim,Allergy to Medication,2
+Allergy to Tamoxifen Aromatase Inhibitor Therapy,AllergyDim,Allergy to Medication,2
+Vaccine Allergy,AllergyDim,Allergies And Adverse Reactions,1
+Allergy to Influenza Vaccine,AllergyDim,Vaccine Allergy,2
+Allergy to MMR Vaccine,AllergyDim,Vaccine Allergy,2
+Allergy to Pneumococcal Vaccine,AllergyDim,Vaccine Allergy,2
+Allergy to Varicella Zoster Vaccine,AllergyDim,Vaccine Allergy,2
+Vaccine/ Meds Allergy,AllergyDim,Allergies And Adverse Reactions,1
+Allergy to Flu Vaccine/Neomycin,AllergyDim,Vaccine/ Meds Allergy,2
+Allergies And Intolerance,AllergyDim,,0
+Allergy and Intolerance to Medication,AllergyDim,Allergies And Intolerance,1
+Allergy and Intolerance to Beta_Blocker,AllergyDim,Allergy and Intolerance to Medication,2
+Intolerance,AllergyDim,,0
+Intolerance to Medication,AllergyDim,Intolerance,1
+Intolerance to ACE inhibitor or ARB inhibitor,AllergyDim,Intolerance to Medication,2
+Intolerance to Antineoplastic Therapy,AllergyDim,Intolerance to Medication,2
+Intolerance to Beta Blocker Therapy,AllergyDim,Intolerance to Medication,2
+Intolerance Tamoxifen Aromatase Therapy,AllergyDim,Intolerance to Medication,2
+Intolerance to Warfarin Therapy,AllergyDim,Intolerance to Medication,2
+Intolerance to Capecitabine,AllergyDim,Intolerance to Medication,2
+Intolerance to Fluorouracil,AllergyDim,Intolerance to Medication,2
+Intolerance to Leucovorin,AllergyDim,Intolerance to Medication,2
+Intolerance to Oxaliplatin,AllergyDim,Intolerance to Medication,2
+Vaccine Intolerance,AllergyDim,Intolerance,1
+Intolerance to Influenza Vaccine,AllergyDim,Vaccine Intolerance,2
+Encounter,EncountersDim,,0
+Emergency Department Visit,EncountersDim,Encounter,1
+Acute Inpatient or ED Visit,EncountersDim,Emergency Department Visit,2
+Inpatient Visit or ED Visit,EncountersDim,Emergency Department Visit,2
+Inpatient Encounter,EncountersDim,Encounter,1
+Acute Inpatient Encounter,EncountersDim,Inpatient Encounter,2
+Acute Inpatient or Outpatient Encounter,EncountersDim,Inpatient Encounter,2
+Acute Inpatient or ED Encounter,EncountersDim,Inpatient Encounter,2
+Acute or Non-acute Inpatient Encounter,EncountersDim,Inpatient Encounter,2
+Inpatient or Emergency Encounter,EncountersDim,Inpatient Encounter,2
+Inpatient or Observation Encounter,EncountersDim,Inpatient Encounter,2
+Inpatient Discharge Services,EncountersDim,Inpatient Encounter,2
+Non acute Inpatient Encounter,EncountersDim,Inpatient Encounter,2
+Non acute Inpatient or Outpatient Encounter,EncountersDim,Inpatient Encounter,2
+Home Health/ Outpatient Visits,EncountersDim,Encounter,1
+Outpatient Visits,EncountersDim,Encounter,1
+Ambulatory Visits,EncountersDim,Outpatient Visits,2
+AWV,EncountersDim,Encounter,1
+Depression Screening/ Annual Wellness Visits,EncountersDim,AWV,2
+IPPE Visit,EncountersDim,AWV,2
+Psychotherapy/Home Health Visits/Office Visits/AWV,EncountersDim,AWV,2
+Medications,PatientMedicationDim,,0
+5-Alpha-Reductase Inhibitors,PatientMedicationDim,Medications,1
+ACE Inhibitors,PatientMedicationDim,Medications,1
+ACEI And ARB,PatientMedicationDim,Medications,1
+ADHD Medications,PatientMedicationDim,Medications,1
+Alcohol Use Disorder Treatment Medications,PatientMedicationDim,Medications,1
+Alkylating Agents,PatientMedicationDim,Medications,1
+Cyclophosphamide,PatientMedicationDim,Alkylating Agents,2
+Oxaliplatin,PatientMedicationDim,Alkylating Agents,2
+Alpha adrenergic receptor agonists,PatientMedicationDim,Medications,1
+Alpha-2 Adrenergic Receptor Antagonists,PatientMedicationDim,Alpha adrenergic receptor agonists,2
+Alpha-1 Adrenergic Receptor Antagonists,PatientMedicationDim,Alpha adrenergic receptor agonists,2
+Aminoglycosides,PatientMedicationDim,Medications,1
+Neomycin,PatientMedicationDim,Aminoglycosides,2
+Analgesics,PatientMedicationDim,Medications,1
+Angiotensin II Receptor Blockers,PatientMedicationDim,Medications,1
+Anti Thrombotics,PatientMedicationDim,Medications,1
+Anorexiants,PatientMedicationDim,Medications,1
+Lorcaserin,PatientMedicationDim,Anorexiants,2
+Anti Infectives,PatientMedicationDim,Medications,1
+Antiadrenergics,PatientMedicationDim,Medications,1
+Reserpine,PatientMedicationDim,Antiadrenergics,2
+Antiarrhythmics,PatientMedicationDim,Medications,1
+Digoxin,PatientMedicationDim,Antiarrhythmics,2
+Antiasthmatics,PatientMedicationDim,Medications,1
+Antiasthmatics Without Leukotrine Modifiers,PatientMedicationDim,Antiasthmatics,2
+Antibiotics,PatientMedicationDim,Medications,1
+Pneumocystis Jiroveci,PatientMedicationDim,Antibiotics,2
+Polymyxin,PatientMedicationDim,Antibiotics,2
+Parenteral Conversion,PatientMedicationDim,Antibiotics,2
+Antineoplastics,PatientMedicationDim,Medications,1
+Daunorubicin,PatientMedicationDim,Antineoplastics,2
+Doxorubicin,PatientMedicationDim,Antineoplastics,2
+Mitomycin,PatientMedicationDim,Antineoplastics,2
+Arsenic Trioxide,PatientMedicationDim,Antineoplastics,2
+Bosutinib,PatientMedicationDim,Antineoplastics,2
+Pegaspargase,PatientMedicationDim,Antineoplastics,2
+Anticholinergics,PatientMedicationDim,Medications,1
+Anticoagulants,PatientMedicationDim,Medications,1
+Warfarin,PatientMedicationDim,Anticoagulants,2
+Heparin,PatientMedicationDim,Anticoagulants,2
+Anticonvulsants,PatientMedicationDim,Medications,1
+Carbamazepine,PatientMedicationDim,Anticonvulsants,2
+Phenytoin,PatientMedicationDim,Anticonvulsants,2
+Antidepressants,PatientMedicationDim,Medications,1
+Doxepin,PatientMedicationDim,Antidepressants,2
+Tricyclic Antidepressants,PatientMedicationDim,Antidepressants,2
+Antidotes,PatientMedicationDim,Medications,1
+Leucovorin,PatientMedicationDim,Antidotes,2
+Antiepileptic Agents,PatientMedicationDim,Medications,1
+Valproate,PatientMedicationDim,Antiepileptic Agents,2
+Antifungals,PatientMedicationDim,Medications,1
+Aspergillosis treatment,PatientMedicationDim,Antifungals,2
+Candidiasis treatment,PatientMedicationDim,Antifungals,2
+Antigout Agents,PatientMedicationDim,Medications,1
+Antihyperlipidemics,PatientMedicationDim,Medications,1
+Ezetimibe,PatientMedicationDim,Antihyperlipidemics,2
+Antihypertensives,PatientMedicationDim,Medications,1
+Antileukotrienes,PatientMedicationDim,Medications,1
+Antimalarials,PatientMedicationDim,Medications,1
+Hydroxychlorioquine,PatientMedicationDim,Antimalarials,2
+Antimanics,PatientMedicationDim,Medications,1
+Lithium,PatientMedicationDim,Antimanics,2
+Antimetabolites,PatientMedicationDim,Medications,1
+Cladribine,PatientMedicationDim,Antimetabolites,2
+Cytarabine Liposome,PatientMedicationDim,Antimetabolites,2
+Cytarabine,PatientMedicationDim,Antimetabolites,2
+Hydroxyurea,PatientMedicationDim,Antimetabolites,2
+Mercaptopurine,PatientMedicationDim,Antimetabolites,2
+Methotrexate,PatientMedicationDim,Antimetabolites,2
+Nelarabine,PatientMedicationDim,Antimetabolites,2
+Capecitabine/Oxaliplatin,PatientMedicationDim,Antimetabolites,2
+Capecitabine,PatientMedicationDim,Antimetabolites,2
+Fluorouracil,PatientMedicationDim,Antimetabolites,2
+Antimigraine Agents,PatientMedicationDim,Medications,1
+TRIPTAN,PatientMedicationDim,Antimigraine Agents,2
+Antiparkinsonism Agents,PatientMedicationDim,Medications,1
+Antiplatelets,PatientMedicationDim,Medications,1
+Anagrelide,PatientMedicationDim,Antiplatelets,2
+Aspirin and clopidogrel,PatientMedicationDim,Antiplatelets,2
+Clopidogrel,PatientMedicationDim,Antiplatelets,2
+Dipyridamole,PatientMedicationDim,Antiplatelets,2
+Aspirin,PatientMedicationDim,Antiplatelets,2
+Antipsychotics,PatientMedicationDim,Medications,1
+Mood Stabilizers,PatientMedicationDim,Antipsychotics,2
+Typical/Atypical Antipsychotics,PatientMedicationDim,Antipsychotics,2
+Antiretrovirals,PatientMedicationDim,Medications,1
+Antirheumatics,PatientMedicationDim,Medications,1
+Antispasmodics,PatientMedicationDim,Medications,1
+Antithrombotics,PatientMedicationDim,Medications,1
+Antituberculars,PatientMedicationDim,Medications,1
+Antivirals,PatientMedicationDim,Medications,1
+Anxiolytics/Sedatives/Hypnotics,PatientMedicationDim,Medications,1
+Nonbenzodiazepine Hypnotics,PatientMedicationDim,Anxiolytics/Sedatives/Hypnotics,2
+ARB Inhibitors,PatientMedicationDim,Medications,1
+Aromatase Inhibitors,PatientMedicationDim,Medications,1
+Tamoxifen,PatientMedicationDim,Aromatase Inhibitors,2
+Barbiturates,PatientMedicationDim,Medications,1
+Phenobarbitol,PatientMedicationDim,Barbiturates,2
+BCR-ABL Tyrosine Kinase Inhibitors,PatientMedicationDim,Medications,1
+Dasatinib,PatientMedicationDim,BCR-ABL Tyrosine Kinase Inhibitors,2
+Nilotinib,PatientMedicationDim,BCR-ABL Tyrosine Kinase Inhibitors,2
+Ponatinib,PatientMedicationDim,BCR-ABL Tyrosine Kinase Inhibitors,2
+Imatinib/Dasatinib,PatientMedicationDim,BCR-ABL Tyrosine Kinase Inhibitors,2
+Imatinib,PatientMedicationDim,BCR-ABL Tyrosine Kinase Inhibitors,2
+Benzodiazepines,PatientMedicationDim,Medications,1
+Beta Blockers,PatientMedicationDim,Medications,1
+Cardioselective beta blockers,PatientMedicationDim,Beta Blockers,2
+Bisphosphonate,PatientMedicationDim,Medications,1
+Bronchodilators,PatientMedicationDim,Medications,1
+Inhaling Bronchodilators,PatientMedicationDim,Bronchodilators,2
+Long-acting bronchodilator inhalers,PatientMedicationDim,Bronchodilators,2
+Calcineurin Inhibitors,PatientMedicationDim,Medications,1
+Cyclosporine,PatientMedicationDim,Calcineurin Inhibitors,2
+Calcium Channel Blockers/Statins,PatientMedicationDim,Medications,1
+Amlodipine Atorvastatin High Intensity Medications,PatientMedicationDim,Calcium Channel Blockers/Statins,2
+Amlodipine Atorvastatin Moderate Intensity Medications,PatientMedicationDim,Calcium Channel Blockers/Statins,2
+Cardiovascular Agents,PatientMedicationDim,Medications,1
+Nifedipine Medications,PatientMedicationDim,Cardiovascular Agents,2
+Chelating Agents,PatientMedicationDim,Medications,1
+CNS Stimulants,PatientMedicationDim,Medications,1
+Contraceptives,PatientMedicationDim,Medications,1
+Corticosteroids,PatientMedicationDim,Medications,1
+Inhaled Corticosteroids,PatientMedicationDim,Corticosteroids,2
+Prednisone,PatientMedicationDim,Corticosteroids,2
+Intralesional Corticosteroids,PatientMedicationDim,Corticosteroids,2
+Asthma Exclusions Medications,PatientMedicationDim,Corticosteroids,2
+Systemic Corticosteroids,PatientMedicationDim,Corticosteroids,2
+Dapsone and pyrimethamine,PatientMedicationDim,Corticosteroids,2
+Dementia Medications,PatientMedicationDim,Medications,1
+Diabetes Medications,PatientMedicationDim,Medications,1
+Diabetes Medications without Metformin,PatientMedicationDim,Medications,1
+Diuretics,PatientMedicationDim,Medications,1
+ACEI or ARB Diuretics,PatientMedicationDim,Diuretics,2
+Loop Diuretics,PatientMedicationDim,Diuretics,2
+Potassium Sparing Diuretics,PatientMedicationDim,Diuretics,2
+Thiazide Diuretics,PatientMedicationDim,Diuretics,2
+EGFR Inhibitors,PatientMedicationDim,Medications,1
+Cetuximab,PatientMedicationDim,EGFR Inhibitors,2
+Panitumumab,PatientMedicationDim,EGFR Inhibitors,2
+Electrolytes,PatientMedicationDim,Medications,1
+IV Fluids,PatientMedicationDim,Electrolytes,2
+Erythropoiesis-Stimulating Agents (ESAs),PatientMedicationDim,Medications,1
+Erythropoietin,PatientMedicationDim,Erythropoiesis-Stimulating Agents (ESAs),2
+Estrogen Agonists,PatientMedicationDim,Medications,1
+Estrogens/Progestins,PatientMedicationDim,Medications,1
+Glycopeptide Antibiotics,PatientMedicationDim,Medications,1
+Vancomycin,PatientMedicationDim,Glycopeptide Antibiotics,2
+Gonadotropin Releasing Hormones,PatientMedicationDim,Medications,1
+Herbal Products,PatientMedicationDim,Medications,1
+High Risk Medications,PatientMedicationDim,Medications,1
+Hypertonic Medications,PatientMedicationDim,Medications,1
+Sodium Opthalmic Solution,PatientMedicationDim,Hypertonic Medications,2
+Immune globulins,PatientMedicationDim,Medications,1
+RhoDIg,PatientMedicationDim,Immune globulins,2
+Immunizations for bacterial infections,PatientMedicationDim,Medications,1
+HiB Vaccine,PatientMedicationDim,Immunizations for bacterial infections,2
+Pneumococcal Vaccine,PatientMedicationDim,Immunizations for bacterial infections,2
+Immunizations for viral diseases,PatientMedicationDim,Medications,1
+Influenza Vaccine,PatientMedicationDim,Immunizations for viral diseases,2
+Hep A Vaccine,PatientMedicationDim,Immunizations for viral diseases,2
+Hep B Vaccine,PatientMedicationDim,Immunizations for viral diseases,2
+IPV Vaccine,PatientMedicationDim,Immunizations for viral diseases,2
+Measles Vaccine,PatientMedicationDim,Immunizations for viral diseases,2
+Mumps Vaccine,PatientMedicationDim,Immunizations for viral diseases,2
+Rubella Vaccine,PatientMedicationDim,Immunizations for viral diseases,2
+Varicella Zoster Vaccine,PatientMedicationDim,Immunizations for viral diseases,2
+Hepatitis B Vaccine,PatientMedicationDim,Immunizations for viral diseases,2
+Immunosuppressants,PatientMedicationDim,Medications,1
+Incretin Hormones,PatientMedicationDim,Medications,1
+Glucagon-like peptide-1,PatientMedicationDim,Incretin Hormones,2
+Insulins,PatientMedicationDim,Medications,1
+Intermediate Acting Insulin,PatientMedicationDim,Insulins,2
+Long Acting Insulin,PatientMedicationDim,Insulins,2
+Rapid Acting Insulin,PatientMedicationDim,Insulins,2
+Short Acting Insulin,PatientMedicationDim,Insulins,2
+Interferons,PatientMedicationDim,Medications,1
+Peginterferon alfa-2a,PatientMedicationDim,Interferons,2
+Beta2 Agonist,PatientMedicationDim,Medications,1
+Long Acting Inhaled Beta2 Agonist,PatientMedicationDim,Beta2 Agonist,2
+Mitotic Inhibitors,PatientMedicationDim,Medications,1
+Vincristine,PatientMedicationDim,Mitotic Inhibitors,2
+Multikinase inhibitors,PatientMedicationDim,Medications,1
+Crizotinib,PatientMedicationDim,Multikinase inhibitors,2
+Multivitamins and Supplements,PatientMedicationDim,Medications,1
+Calcium Supplements,PatientMedicationDim,Multivitamins and Supplements,2
+Ascorbic Acid,PatientMedicationDim,Multivitamins and Supplements,2
+Folic Acid,PatientMedicationDim,Multivitamins and Supplements,2
+Iron,PatientMedicationDim,Multivitamins and Supplements,2
+NRTIs,PatientMedicationDim,Medications,1
+Entecavir,PatientMedicationDim,NRTIs,2
+Lamivudine,PatientMedicationDim,NRTIs,2
+Telbivudine,PatientMedicationDim,NRTIs,2
+Tenofovir,PatientMedicationDim,NRTIs,2
+NSAIDs,PatientMedicationDim,Medications,1
+Diclofenac,PatientMedicationDim,NSAIDs,2
+Fenoprofen,PatientMedicationDim,NSAIDs,2
+Flurbiprofen,PatientMedicationDim,NSAIDs,2
+Ibuprofen,PatientMedicationDim,NSAIDs,2
+Indomethacin,PatientMedicationDim,NSAIDs,2
+Ketoprofen,PatientMedicationDim,NSAIDs,2
+Meclofenamate,PatientMedicationDim,NSAIDs,2
+Naproxen,PatientMedicationDim,NSAIDs,2
+Oxaprozin,PatientMedicationDim,NSAIDs,2
+Piroxicam,PatientMedicationDim,NSAIDs,2
+Sulindac,PatientMedicationDim,NSAIDs,2
+Tolmetin,PatientMedicationDim,NSAIDs,2
+Ophthalmic Corticosteroids,PatientMedicationDim,Medications,1
+Dexamethasone,PatientMedicationDim,Ophthalmic Corticosteroids,2
+Opioid Use Disorder Treatment Medications,PatientMedicationDim,Medications,1
+Opioids,PatientMedicationDim,Medications,1
+Osteoporosis Medication,PatientMedicationDim,Medications,1
+OTC Medications,PatientMedicationDim,Medications,1
+Peripherally acting antiobesity agents,PatientMedicationDim,Medications,1
+Orlistat,PatientMedicationDim,Peripherally acting antiobesity agents,2
+Potassium Channel Blockers,PatientMedicationDim,Medications,1
+Progestins,PatientMedicationDim,Medications,1
+Proton Pump Inhibitors,PatientMedicationDim,Medications,1
+Omeprazole,PatientMedicationDim,Proton Pump Inhibitors,2
+Retinoids,PatientMedicationDim,Medications,1
+Isotretinoin,PatientMedicationDim,Retinoids,2
+Salicylates,PatientMedicationDim,Medications,1
+Salicylate,PatientMedicationDim,Salicylates,2
+Combined Salicylate,PatientMedicationDim,Salicylates,2
+Selective Serotonin Reuptake Inhibitors,PatientMedicationDim,Medications,1
+Serotonin-norepinephrine Reuptake Inhibitors,PatientMedicationDim,Medications,1
+Skeletal Muscle Relaxants,PatientMedicationDim,Medications,1
+Smoking Cessation Agents,PatientMedicationDim,Medications,1
+Sodium Channel Blockers,PatientMedicationDim,Medications,1
+Statins,PatientMedicationDim,Medications,1
+Atorvastatin,PatientMedicationDim,Statins,2
+Fluvastatin,PatientMedicationDim,Statins,2
+Lovastatin,PatientMedicationDim,Statins,2
+Pitavastatin,PatientMedicationDim,Statins,2
+Rosuvastatin,PatientMedicationDim,Statins,2
+Simvastatin,PatientMedicationDim,Statins,2
+Steroids,PatientMedicationDim,Medications,1
+Corticosteroids,PatientMedicationDim,Steroids,2
+Opthalmic Steroids,PatientMedicationDim,Steroids,2
+Inhaled Steroids,PatientMedicationDim,Steroids,2
+Nasal Steroids,PatientMedicationDim,Steroids,2
+Systemic/Oral Steroids,PatientMedicationDim,Steroids,2
+Systemic Corticosteroids,PatientMedicationDim,Steroids,2
+Glucocorticoids,PatientMedicationDim,Steroids,2
+Sulfonamides,PatientMedicationDim,Medications,1
+Sulfonylureas,PatientMedicationDim,Medications,1
+Thrombolytics,PatientMedicationDim,Medications,1
+Thyroid Drugs,PatientMedicationDim,Medications,1
+Thyroxine,PatientMedicationDim,Thyroid Drugs,2
+Topical Agents,PatientMedicationDim,Medications,1
+Tyrosine Kinase Inhibitors,PatientMedicationDim,Medications,1
+Urinary Antispasmodics,PatientMedicationDim,Medications,1
+Vasodilators,PatientMedicationDim,Medications,1
+Vasopressors,PatientMedicationDim,Medications,1
+Xanthines/Corticosteroids,PatientMedicationDim,Medications,1
+Alcohol or drug use or induced organic mental disorders,ProblemsDim,,0
+Alcohol Abuse,ProblemsDim,Alcohol or drug use or induced organic mental disorders,1
+Alcohol And Drug Dependence,ProblemsDim,Alcohol or drug use or induced organic mental disorders,1
+Alcohol Counselling,ProblemsDim,Alcohol or drug use or induced organic mental disorders,1
+Alcohol Dependence,ProblemsDim,Alcohol or drug use or induced organic mental disorders,1
+Alcohol Drug Dependence,ProblemsDim,Alcohol or drug use or induced organic mental disorders,1
+Alcohol Use Complications,ProblemsDim,Alcohol or drug use or induced organic mental disorders,1
+Alcohol Use Disorder,ProblemsDim,Alcohol or drug use or induced organic mental disorders,1
+Alcohol Use Disorder/Substance Use Disorder,ProblemsDim,Alcohol or drug use or induced organic mental disorders,1
+Alcohol Withdrawal,ProblemsDim,Alcohol or drug use or induced organic mental disorders,1
+Alcoholism,ProblemsDim,Alcohol or drug use or induced organic mental disorders,1
+Benzodiazepine Withdrawal,ProblemsDim,Alcohol or drug use or induced organic mental disorders,1
+Drug Abuse,ProblemsDim,Alcohol or drug use or induced organic mental disorders,1
+Drug Abuse Dependence,ProblemsDim,Alcohol or drug use or induced organic mental disorders,1
+Drug Dependence,ProblemsDim,Alcohol or drug use or induced organic mental disorders,1
+Drug Overuse,ProblemsDim,Alcohol or drug use or induced organic mental disorders,1
+Drug Use Complication,ProblemsDim,Alcohol or drug use or induced organic mental disorders,1
+Drug Use Disorders,ProblemsDim,Alcohol or drug use or induced organic mental disorders,1
+Illicit Drug Use,ProblemsDim,Alcohol or drug use or induced organic mental disorders,1
+Mild Substance Use,ProblemsDim,Alcohol or drug use or induced organic mental disorders,1
+Opioid Abuse,ProblemsDim,Alcohol or drug use or induced organic mental disorders,1
+Psychotic Complications Of Substance Abuse,ProblemsDim,Alcohol or drug use or induced organic mental disorders,1
+Substance Abuse,ProblemsDim,Alcohol or drug use or induced organic mental disorders,1
+Substance Use Disorder,ProblemsDim,Alcohol or drug use or induced organic mental disorders,1
+"Allergy , Intolerance & Adverse Reactions",ProblemsDim,,0
+Adverse Reaction,ProblemsDim,"Allergy , Intolerance & Adverse Reactions",1
+Ace Inhibitor-Induced Renal Failure,ProblemsDim,Adverse Reaction,2
+Adverse Effect Of Beta-Adrenoreceptor Antagonists,ProblemsDim,Adverse Reaction,2
+Adverse Reaction To Tamoxifen,ProblemsDim,Adverse Reaction,2
+Adverse Reactions Associated With The Use Of Ace Inhibitors (ACEi) And Angiotensin Ii Receptor Blockers (Arbs),ProblemsDim,Adverse Reaction,2
+Adverse Reactions Of Influenza Vaccine,ProblemsDim,Adverse Reaction,2
+Adverse Reactions Of Tetanus Vaccine,ProblemsDim,Adverse Reaction,2
+"Adverse Reactions Of These Vaccines (Mm, Vzv, And Flu)",ProblemsDim,Adverse Reaction,2
+Allergy,ProblemsDim,"Allergy , Intolerance & Adverse Reactions",1
+Allergy To Antineoplastic Therapy,ProblemsDim,Allergy,2
+Allergy To Contraceptive Device,ProblemsDim,Allergy,2
+Allergy To Egg Substance,ProblemsDim,Allergy,2
+Allergy To Eggs,ProblemsDim,Allergy,2
+Allergy and Intolerance,ProblemsDim,"Allergy , Intolerance & Adverse Reactions",1
+Allergy and Intolerance to Medication,ProblemsDim,Allergy and Intolerance,2
+Anaphylactic Reaction,ProblemsDim,"Allergy , Intolerance & Adverse Reactions",1
+Anaphylactic Reaction Hep B,ProblemsDim,Anaphylactic Reaction,2
+Anaphylactic Reaction To Hep B Vaccine,ProblemsDim,Anaphylactic Reaction,2
+Anaphylactic Reaction To Ipv Vaccine,ProblemsDim,Anaphylactic Reaction,2
+Anaphylactic Reaction To Rv Vaccine,ProblemsDim,Anaphylactic Reaction,2
+Anaphylactic Shocks,ProblemsDim,Anaphylactic Reaction,2
+Anaphylactoid Reactions,ProblemsDim,Anaphylactic Reaction,2
+Anaphylaxis,ProblemsDim,Anaphylactic Reaction,2
+Medication Contraindications,ProblemsDim,"Allergy , Intolerance & Adverse Reactions",1
+Aspirin Contraindications,ProblemsDim,Medication Contraindications,2
+Beta Blocker Therapy,ProblemsDim,Medication Contraindications,2
+Chelation Therapy,ProblemsDim,Medication Contraindications,2
+Contradiction To A Beta Blocker,ProblemsDim,Medication Contraindications,2
+Contraindications To Ace Inhibitors (Aceis) And Angiotensin II Receptor Blockers (Arbs) In Heart Failure (Hf),ProblemsDim,Medication Contraindications,2
+Contraindications To Use Of Beta-Blockers In Benign Prostatic Hyperplasia (Bph),ProblemsDim,Medication Contraindications,2
+Vaccine Contaidications,ProblemsDim,"Allergy , Intolerance & Adverse Reactions",1
+Encephalitis,ProblemsDim,Vaccine Contaidications,2
+"Encephalitis, Meningitis",ProblemsDim,Vaccine Contaidications,2
+Encephalopathy,ProblemsDim,Vaccine Contaidications,2
+Hypersensitive Reaction,ProblemsDim,"Allergy , Intolerance & Adverse Reactions",1
+"End-Stage Kidney Disease, Hypertension",ProblemsDim,Hypersensitive Reaction,2
+Hypersensitive Reaction Towards Angiotensive Converting Enzyme Inhibitors And Angiotensive Receptor Blockers,ProblemsDim,Hypersensitive Reaction,2
+Hypersensitivity Angiitis,ProblemsDim,Hypersensitive Reaction,2
+Hypersensitivity Pneumonitis,ProblemsDim,Hypersensitive Reaction,2
+Hypersensitivity Reaction,ProblemsDim,Hypersensitive Reaction,2
+Intolerance,ProblemsDim,"Allergy , Intolerance & Adverse Reactions",1
+Immunocompromised States,ProblemsDim,Intolerance,2
+Inability To Tolerate Ace Inhibitors (Angiotensin-Converting Enzyme Inhibitors) Or Arbs (Angiotensin II Receptor Blockers),ProblemsDim,Intolerance,2
+Influenza Vaccine Allergy,ProblemsDim,Intolerance,2
+Infusion Related Reaction,ProblemsDim,Intolerance,2
+Intolerance To Ace Inhibitor,ProblemsDim,Intolerance,2
+Intolerance To Ace Inhibitors (Angiotensin-Converting Enzyme Inhibitors) And Arbs (Angiotensin II Receptor Blockers),ProblemsDim,Intolerance,2
+Intolerance To Ace Inhibitors Or Arbs (Angiotensin Receptor Blockers),ProblemsDim,Intolerance,2
+Intolerance To Antineoplastic Therapy,ProblemsDim,Intolerance,2
+Intolerance To Beta Blocker Therapy,ProblemsDim,Intolerance,2
+Intolerance To Influence Vaccine,ProblemsDim,Intolerance,2
+Intolerance To Influenza Vaccine,ProblemsDim,Intolerance,2
+Intolerance To Tamoxifen Or Aromatase Inhibitor Therapy Allergen,ProblemsDim,Intolerance,2
+"Intolerance To Tamoxifen, Aromatase Therapy",ProblemsDim,Intolerance,2
+Intolerance To Warfarin Therapy,ProblemsDim,Intolerance,2
+Medication Allergy,ProblemsDim,"Allergy , Intolerance & Adverse Reactions",1
+Miscellaneous,ProblemsDim,"Allergy , Intolerance & Adverse Reactions",1
+Neomycin Allergy,ProblemsDim,"Allergy , Intolerance & Adverse Reactions",1
+Pneumococcal Vaccine Allergy,ProblemsDim,"Allergy , Intolerance & Adverse Reactions",1
+Polymyxin B Allergy,ProblemsDim,"Allergy , Intolerance & Adverse Reactions",1
+Tamoxifen Allergy,ProblemsDim,"Allergy , Intolerance & Adverse Reactions",1
+Transfusion Reaction,ProblemsDim,"Allergy , Intolerance & Adverse Reactions",1
+Vaccine Allergy,ProblemsDim,"Allergy , Intolerance & Adverse Reactions",1
+"Vaccine Allergy To Measles, Mumps And Rubella",ProblemsDim,"Allergy , Intolerance & Adverse Reactions",1
+Vaccine Causing Adverse Effect,ProblemsDim,"Allergy , Intolerance & Adverse Reactions",1
+Vaccine Contraindications,ProblemsDim,"Allergy , Intolerance & Adverse Reactions",1
+Burns,ProblemsDim,,0
+Severe Burn,ProblemsDim,Burns,1
+Burns And Frostbite,ProblemsDim,Burns,1
+Cancer,ProblemsDim,,0
+Severe Burn,ProblemsDim,Cancer,1
+Bladder Cancer,ProblemsDim,Cancer,1
+Breast And Prostate Cancer,ProblemsDim,Cancer,1
+Breast Cancer,ProblemsDim,Cancer,1
+Cancers except NonMelanoma,ProblemsDim,Cancer,1
+Cervical Cancer,ProblemsDim,Cancer,1
+Colorectal Cancer,ProblemsDim,Cancer,1
+Head And Neck Cancer,ProblemsDim,Cancer,1
+Hepatocellular Carcinoma,ProblemsDim,Cancer,1
+Kidney Cancer,ProblemsDim,Cancer,1
+Leukemia,ProblemsDim,Cancer,1
+Liver Cancer,ProblemsDim,Cancer,1
+Lung And Brain Cancer,ProblemsDim,Cancer,1
+Lung Cancer,ProblemsDim,Cancer,1
+"Lung, And Brain Cancer",ProblemsDim,Cancer,1
+Lymphatic Tissue Cancer,ProblemsDim,Cancer,1
+Lymphoid Malignancy/ Lymphoma,ProblemsDim,Cancer,1
+Lymphomas,ProblemsDim,Cancer,1
+Lymphoreticular Cancer,ProblemsDim,Cancer,1
+Melanoma,ProblemsDim,Cancer,1
+Metastatic Cancer,ProblemsDim,Cancer,1
+Myelodysplastic Syndromes,ProblemsDim,Cancer,1
+Neoplasm related pain,ProblemsDim,Cancer,1
+Non Hodgkin Lymphoma,ProblemsDim,Cancer,1
+Ovarian Cancer,ProblemsDim,Cancer,1
+Peritoneal Cancer,ProblemsDim,Cancer,1
+Prostate Cancer,ProblemsDim,Cancer,1
+Secondary Malignancy,ProblemsDim,Cancer,1
+Secondary Malignancy/ Metastatic Cancer,ProblemsDim,Cancer,1
+Skin Cancer,ProblemsDim,Cancer,1
+Thyroid Cancer,ProblemsDim,Cancer,1
+"Thyroid, Melanoma  And Neurofibromatosis",ProblemsDim,Cancer,1
+Hematological Disorders/Blood Disorder,ProblemsDim,,0
+Anemia,ProblemsDim,Hematological Disorders/Blood Disorder,1
+Anemia,ProblemsDim,Anemia,2
+Anemia Of Chronic Disease (Acd),ProblemsDim,Anemia,2
+Anemias And Bleeding Disorders,ProblemsDim,Anemia,2
+Anemic Disorder,ProblemsDim,Anemia,2
+Aplastic Anemia,ProblemsDim,Anemia,2
+Atypical Hyperplasia,ProblemsDim,Anemia,2
+Hemorrhagic and Thrombotic Disorders,ProblemsDim,Hematological Disorders/Blood Disorder,1
+Autoimmune Disease,ProblemsDim,Hemorrhagic and Thrombotic Disorders,2
+Autoimmune Thrombocytopenia,ProblemsDim,Hemorrhagic and Thrombotic Disorders,2
+Beta Thalassemia,ProblemsDim,Hemorrhagic and Thrombotic Disorders,2
+Bleeding And Coagulation Abnormalities,ProblemsDim,Hemorrhagic and Thrombotic Disorders,2
+Bleeding And Coagulation Disorders Exclusions,ProblemsDim,Hemorrhagic and Thrombotic Disorders,2
+Bleeding Complications,ProblemsDim,Hemorrhagic and Thrombotic Disorders,2
+Bleeding Disorders,ProblemsDim,Hemorrhagic and Thrombotic Disorders,2
+Bone Marrow Failure,ProblemsDim,Anemia,2
+Central Venous Catheter Bloodstream Infection,ProblemsDim,Anemia,2
+Hemolytic Anemia,ProblemsDim,Hematological Disorders/Blood Disorder,1
+Chronic Hemolytic Anemia,ProblemsDim,Hemolytic Anemia,2
+Coagulation Disorder/ Bleeding Disorders,ProblemsDim,Hemorrhagic and Thrombotic Disorders,2
+Congenital Thrombocytopenia,ProblemsDim,Hemorrhagic and Thrombotic Disorders,2
+Pancytopenia,ProblemsDim,Hematological Disorders/Blood Disorder,1
+Deep Vein Thrombosis,ProblemsDim,Hemorrhagic and Thrombotic Disorders,2
+Disseminated Intravascular Coagulation (Dic),ProblemsDim,Hemorrhagic and Thrombotic Disorders,2
+Blood Disorders,ProblemsDim,Hematological Disorders/Blood Disorder,1
+Hematologic Disorders,ProblemsDim,Blood Disorders,2
+Blood Cancer,ProblemsDim,Hematological Disorders/Blood Disorder,1
+Hematologic Malignancies,ProblemsDim,Blood Cancer,2
+Hematological Diseases,ProblemsDim,Blood Disorders,2
+Hematological Disorders,ProblemsDim,Blood Disorders,2
+Sickle-cell anaemia,ProblemsDim,Hemolytic Anemia,2
+Acquired Hemolytic Anemia,ProblemsDim,Hemolytic Anemia,2
+Autoimmune hemolytic anemia,ProblemsDim,Hemolytic Anemia,2
+Hemophilia,ProblemsDim,Hemorrhagic and Thrombotic Disorders,2
+Bleeding Disorder,ProblemsDim,Hemorrhagic and Thrombotic Disorders,2
+Autoimmune Thrombocytopenia/ITP,ProblemsDim,Hemorrhagic and Thrombotic Disorders,2
+Hemolytic Uremic Syndrome,ProblemsDim,Hemorrhagic and Thrombotic Disorders,2
+Polycythemia,ProblemsDim,Hematological Disorders/Blood Disorder,1
+Nutritional Anemia,ProblemsDim,Anemia,2
+Sickle Cell Anemia,ProblemsDim,Anemia,2
+Vitamin B12 Deficiency Anemia,ProblemsDim,Anemia,2
+Thalassemia,ProblemsDim,Hemolytic Anemia,2
+Disorders of Spleen,ProblemsDim,Hematological Disorders/Blood Disorder,1
+Splenectomy,ProblemsDim,Disorders of Spleen,2
+Splenic Sequestration Crisis,ProblemsDim,Disorders of Spleen,2
+Splenomegaly,ProblemsDim,Disorders of Spleen,2
+Thrombocythemia,ProblemsDim,Hemorrhagic and Thrombotic Disorders,2
+Thrombocytopenia,ProblemsDim,Hemorrhagic and Thrombotic Disorders,2
+Thrombocytosis,ProblemsDim,Hemorrhagic and Thrombotic Disorders,2
+Thromboembolism,ProblemsDim,Hemorrhagic and Thrombotic Disorders,2
+Thrombolic Event,ProblemsDim,Hemorrhagic and Thrombotic Disorders,2
+Thrombophlebitis,ProblemsDim,Hemorrhagic and Thrombotic Disorders,2
+Thrombosis,ProblemsDim,Hemorrhagic and Thrombotic Disorders,2
+Thrombosis Embolism,ProblemsDim,Hemorrhagic and Thrombotic Disorders,2
+Thrombotic Complications,ProblemsDim,Hemorrhagic and Thrombotic Disorders,2
+Venous Thrombosis,ProblemsDim,Hemorrhagic and Thrombotic Disorders,2
+Leukocytosis,ProblemsDim,Hematological Disorders/Blood Disorder,1
+Leukopenia,ProblemsDim,Hematological Disorders/Blood Disorder,1
+Lichen Planus,ProblemsDim,Hematological Disorders/Blood Disorder,1
+Lymphocytopenia,ProblemsDim,Hematological Disorders/Blood Disorder,1
+Macrocytosis,ProblemsDim,Hematological Disorders/Blood Disorder,1
+Multiple Sclerosis,ProblemsDim,Hematological Disorders/Blood Disorder,1
+Myelodysplasia,ProblemsDim,Hematological Disorders/Blood Disorder,1
+Myelosuppression,ProblemsDim,Hematological Disorders/Blood Disorder,1
+Myelosuppression/ Bone Marrow Dysfunction,ProblemsDim,Hematological Disorders/Blood Disorder,1
+Neutropenia,ProblemsDim,Hematological Disorders/Blood Disorder,1
+Nutritional Deficiency Anemias,ProblemsDim,Hematological Disorders/Blood Disorder,1
+Phlebitis,ProblemsDim,Hematological Disorders/Blood Disorder,1
+Photosensitivity,ProblemsDim,Hematological Disorders/Blood Disorder,1
+Rh Negative,ProblemsDim,Hematological Disorders/Blood Disorder,1
+Rh(D) Negative/Rhesus Isoimmunization,ProblemsDim,Hematological Disorders/Blood Disorder,1
+Septicemia,ProblemsDim,Hematological Disorders/Blood Disorder,1
+Severe Combined Immunodeficiency,ProblemsDim,Hematological Disorders/Blood Disorder,1
+Sickle Cell Anemia,ProblemsDim,Hematological Disorders/Blood Disorder,1
+Sickle Cell System,ProblemsDim,Hematological Disorders/Blood Disorder,1
+Spleen Disorders,ProblemsDim,Hematological Disorders/Blood Disorder,1
+Splenectomy,ProblemsDim,Hematological Disorders/Blood Disorder,1
+Splenic Sequestration Crisis,ProblemsDim,Hematological Disorders/Blood Disorder,1
+Splenomegaly,ProblemsDim,Hematological Disorders/Blood Disorder,1
+Stem Cell Transplant,ProblemsDim,Hematological Disorders/Blood Disorder,1
+Thalassemia,ProblemsDim,Hematological Disorders/Blood Disorder,1
+Thrombocythemia,ProblemsDim,Hematological Disorders/Blood Disorder,1
+Thrombocytopenia,ProblemsDim,Hematological Disorders/Blood Disorder,1
+Thrombocytosis,ProblemsDim,Hematological Disorders/Blood Disorder,1
+Thromboembolism,ProblemsDim,Hematological Disorders/Blood Disorder,1
+Thrombolic Event,ProblemsDim,Hematological Disorders/Blood Disorder,1
+Thrombophlebitis,ProblemsDim,Hematological Disorders/Blood Disorder,1
+Thrombosis,ProblemsDim,Hematological Disorders/Blood Disorder,1
+Thrombosis Embolism,ProblemsDim,Hematological Disorders/Blood Disorder,1
+Thrombotic Complications,ProblemsDim,Hematological Disorders/Blood Disorder,1
+Venous Thrombosis,ProblemsDim,Hematological Disorders/Blood Disorder,1
+Vitamin B12 Deficiency Anemia,ProblemsDim,Hematological Disorders/Blood Disorder,1
+Diseases and disorders of the circulatory system,ProblemsDim,,0
+Postprocedural Hemorrhage,ProblemsDim,Diseases and disorders of the circulatory system,1
+Abdominal Aortic Aneurysm (Aaa),ProblemsDim,Diseases and disorders of the circulatory system,1
+Abnormal Ecg,ProblemsDim,Diseases and disorders of the circulatory system,1
+Abnormal Electrocardiogram,ProblemsDim,Diseases and disorders of the circulatory system,1
+Acute Myocardial Infarction,ProblemsDim,Diseases and disorders of the circulatory system,1
+Acute Myocardial Infarction / Circulatory System,ProblemsDim,Diseases and disorders of the circulatory system,1
+Acute Myocardial Infarction / Ischemic Vascular Disease (Ivd) / Coronary Artery Disease (Cad ),ProblemsDim,Diseases and disorders of the circulatory system,1
+Advance Stage Of Congestive Heart Failure,ProblemsDim,Diseases and disorders of the circulatory system,1
+Aneurysm,ProblemsDim,Diseases and disorders of the circulatory system,1
+Angina,ProblemsDim,Diseases and disorders of the circulatory system,1
+Angina Pectoris,ProblemsDim,Diseases and disorders of the circulatory system,1
+Angiopathy,ProblemsDim,Diseases and disorders of the circulatory system,1
+Antibiotic Allergy In Cardiovascular Disease,ProblemsDim,Diseases and disorders of the circulatory system,1
+Aortic Insufficiency,ProblemsDim,Diseases and disorders of the circulatory system,1
+Aortic Stenosis,ProblemsDim,Diseases and disorders of the circulatory system,1
+Arrhythmia,ProblemsDim,Diseases and disorders of the circulatory system,1
+Arrythmia,ProblemsDim,Diseases and disorders of the circulatory system,1
+Atherosclerosis,ProblemsDim,Diseases and disorders of the circulatory system,1
+Atherosclerosis / Ischemic Vascular Disease (Ivd),ProblemsDim,Diseases and disorders of the circulatory system,1
+Atherosclerosis Of Extremity With Ulceration Or Gangrene,ProblemsDim,Diseases and disorders of the circulatory system,1
+Atherosclerotic Disease,ProblemsDim,Diseases and disorders of the circulatory system,1
+Atresia And Stenosis Of The Aorta,ProblemsDim,Diseases and disorders of the circulatory system,1
+Atrial Fibrillation,ProblemsDim,Diseases and disorders of the circulatory system,1
+Atrial Fibrillation (Afib),ProblemsDim,Diseases and disorders of the circulatory system,1
+Atrial Fibrillation Exclusions,ProblemsDim,Diseases and disorders of the circulatory system,1
+Atrial Fibrillation/Atrial Flutter,ProblemsDim,Diseases and disorders of the circulatory system,1
+Atrioventricular (Av) Block,ProblemsDim,Diseases and disorders of the circulatory system,1
+Atrioventricular Block,ProblemsDim,Diseases and disorders of the circulatory system,1
+Bradycardia,ProblemsDim,Diseases and disorders of the circulatory system,1
+Bruising,ProblemsDim,Diseases and disorders of the circulatory system,1
+Capillary Leak Syndrome,ProblemsDim,Diseases and disorders of the circulatory system,1
+Cardiac Arrest,ProblemsDim,Diseases and disorders of the circulatory system,1
+Cardiac Arrhythmia,ProblemsDim,Diseases and disorders of the circulatory system,1
+Cardiac Conduction Disorders,ProblemsDim,Diseases and disorders of the circulatory system,1
+Cardiac Defibrillator,ProblemsDim,Diseases and disorders of the circulatory system,1
+Cardiac Disease,ProblemsDim,Diseases and disorders of the circulatory system,1
+Cardiac Pacemaker,ProblemsDim,Diseases and disorders of the circulatory system,1
+Cardiac Pacemaker In Situ,ProblemsDim,Diseases and disorders of the circulatory system,1
+Cardiac Pacer,ProblemsDim,Diseases and disorders of the circulatory system,1
+Cardiac Shock,ProblemsDim,Diseases and disorders of the circulatory system,1
+Cardiomegaly,ProblemsDim,Diseases and disorders of the circulatory system,1
+Cardiomegaly/Left Ventricular Hypertrophy,ProblemsDim,Diseases and disorders of the circulatory system,1
+Cardiomyopathy,ProblemsDim,Diseases and disorders of the circulatory system,1
+Cardiorespiratory Arrest,ProblemsDim,Diseases and disorders of the circulatory system,1
+Cardiovascular Disease,ProblemsDim,Diseases and disorders of the circulatory system,1
+Cardiovascular Disease)/Peripheral Vascular Disease,ProblemsDim,Diseases and disorders of the circulatory system,1
+"Cardiovascular Disease, Coronary Artery Disease",ProblemsDim,Diseases and disorders of the circulatory system,1
+"Cardiovascular Disease, Hypertension",ProblemsDim,Diseases and disorders of the circulatory system,1
+Cardiovascular Disease/Coronary Heart Disease,ProblemsDim,Diseases and disorders of the circulatory system,1
+Cardiovascular Disease/Hypertension (High Blood Pressure),ProblemsDim,Diseases and disorders of the circulatory system,1
+Cerebral Hemorrhage,ProblemsDim,Diseases and disorders of the circulatory system,1
+Cerebral Infarction And Occlusion/Stenosis Of The Vertebral Artery,ProblemsDim,Diseases and disorders of the circulatory system,1
+Cerebral Ischemia,ProblemsDim,Diseases and disorders of the circulatory system,1
+Cerebrovascular Accident,ProblemsDim,Diseases and disorders of the circulatory system,1
+Chronic Heart Disease,ProblemsDim,Diseases and disorders of the circulatory system,1
+Chronic Heart Failure,ProblemsDim,Diseases and disorders of the circulatory system,1
+Circulatory System Disorders,ProblemsDim,Diseases and disorders of the circulatory system,1
+Complications Of The Arteriovenous Fistula,ProblemsDim,Diseases and disorders of the circulatory system,1
+Congenital Heart Defect,ProblemsDim,Diseases and disorders of the circulatory system,1
+Congestive Heart Failure,ProblemsDim,Diseases and disorders of the circulatory system,1
+Congestive Heart Failure (Chf),ProblemsDim,Diseases and disorders of the circulatory system,1
+"Congestive Heart Failure, Chronic Obstructive Pulmonary Disease",ProblemsDim,Diseases and disorders of the circulatory system,1
+"Congestive Heart Failure, Valve Disease",ProblemsDim,Diseases and disorders of the circulatory system,1
+Control Of Hemorrhage,ProblemsDim,Diseases and disorders of the circulatory system,1
+Coronary Artery Bypass Grafting,ProblemsDim,Diseases and disorders of the circulatory system,1
+Coronary Artery Disease,ProblemsDim,Diseases and disorders of the circulatory system,1
+Coronary Artery Disease And No Myocardial Infarction,ProblemsDim,Diseases and disorders of the circulatory system,1
+Coronary Artery Disease/Myocardial Infarction,ProblemsDim,Diseases and disorders of the circulatory system,1
+Coronary Heart Disease (Chd),ProblemsDim,Diseases and disorders of the circulatory system,1
+Coronary Heart Disease (Chd)/ Myocardial Infarction,ProblemsDim,Diseases and disorders of the circulatory system,1
+Coronary Heart Disease (Chd)/Ischemic Heart Disease,ProblemsDim,Diseases and disorders of the circulatory system,1
+Coronary Heart Failure,ProblemsDim,Diseases and disorders of the circulatory system,1
+Cutaneous Vasculitis Ulcerations,ProblemsDim,Diseases and disorders of the circulatory system,1
+Deep Vein Thrombosis,ProblemsDim,Diseases and disorders of the circulatory system,1
+Diastolic Blood Pressure,ProblemsDim,Diseases and disorders of the circulatory system,1
+Diastolic Heart Failure,ProblemsDim,Diseases and disorders of the circulatory system,1
+Edema,ProblemsDim,Diseases and disorders of the circulatory system,1
+Edema Of The Face,ProblemsDim,Diseases and disorders of the circulatory system,1
+Endocarditis,ProblemsDim,Diseases and disorders of the circulatory system,1
+Essential Hypertension,ProblemsDim,Diseases and disorders of the circulatory system,1
+Family History F Heart Disease,ProblemsDim,Diseases and disorders of the circulatory system,1
+Family History Of Premature Coronary Heart Disease,ProblemsDim,Diseases and disorders of the circulatory system,1
+Gangrene,ProblemsDim,Diseases and disorders of the circulatory system,1
+Heart Arrythmias,ProblemsDim,Diseases and disorders of the circulatory system,1
+Heart Damage,ProblemsDim,Diseases and disorders of the circulatory system,1
+Heart Disease,ProblemsDim,Diseases and disorders of the circulatory system,1
+Heart Disorders,ProblemsDim,Diseases and disorders of the circulatory system,1
+Heart Failure,ProblemsDim,Diseases and disorders of the circulatory system,1
+Heart Infection,ProblemsDim,Diseases and disorders of the circulatory system,1
+Heart Murmur,ProblemsDim,Diseases and disorders of the circulatory system,1
+Heart Transplant,ProblemsDim,Diseases and disorders of the circulatory system,1
+Hemorrhage,ProblemsDim,Diseases and disorders of the circulatory system,1
+Hemorrhagic Stroke,ProblemsDim,Diseases and disorders of the circulatory system,1
+Hypertension,ProblemsDim,Diseases and disorders of the circulatory system,1
+Hypertensive Emergency,ProblemsDim,Diseases and disorders of the circulatory system,1
+Hypertensive Encephalopathy,ProblemsDim,Diseases and disorders of the circulatory system,1
+Hypotension,ProblemsDim,Diseases and disorders of the circulatory system,1
+Hypoxemia,ProblemsDim,Diseases and disorders of the circulatory system,1
+Hypoxia,ProblemsDim,Diseases and disorders of the circulatory system,1
+Intercranial Hemorrhage,ProblemsDim,Diseases and disorders of the circulatory system,1
+Interruption Of Aortic Arch,ProblemsDim,Diseases and disorders of the circulatory system,1
+Intracerebral Hemorrhage,ProblemsDim,Diseases and disorders of the circulatory system,1
+Intracranial Hemorrhage,ProblemsDim,Diseases and disorders of the circulatory system,1
+Ischemic Heart Disease,ProblemsDim,Diseases and disorders of the circulatory system,1
+Ischemic Stroke,ProblemsDim,Diseases and disorders of the circulatory system,1
+Ischemic Vascular Disease,ProblemsDim,Diseases and disorders of the circulatory system,1
+Ischemic Vascular Disease (Ivd),ProblemsDim,Diseases and disorders of the circulatory system,1
+Left Sided Heart Failure,ProblemsDim,Diseases and disorders of the circulatory system,1
+Left Ventricular Dysfunction,ProblemsDim,Diseases and disorders of the circulatory system,1
+Left Ventricular Systolic Dysfunction,ProblemsDim,Diseases and disorders of the circulatory system,1
+Limb Ischemia,ProblemsDim,Diseases and disorders of the circulatory system,1
+Long Qt Syndrome (Lqts),ProblemsDim,Diseases and disorders of the circulatory system,1
+Mitral Insufficiency,ProblemsDim,Diseases and disorders of the circulatory system,1
+Mitral Valve Disease,ProblemsDim,Diseases and disorders of the circulatory system,1
+Moderate To Severe Left Ventricular Systolic Dysfunction (LSVD),ProblemsDim,Diseases and disorders of the circulatory system,1
+Myocardial Infarction,ProblemsDim,Diseases and disorders of the circulatory system,1
+Myocardial Ischemia,ProblemsDim,Diseases and disorders of the circulatory system,1
+Myocarditis,ProblemsDim,Diseases and disorders of the circulatory system,1
+Nonhaemorrhagic Stroke,ProblemsDim,Diseases and disorders of the circulatory system,1
+Nonrheumatic Mitral Valve Disorders,ProblemsDim,Diseases and disorders of the circulatory system,1
+Non-St-Elevation Myocardial Infarction (Nstemi),ProblemsDim,Diseases and disorders of the circulatory system,1
+Nontraumatic Subarachnoid Hemorrhage,ProblemsDim,Diseases and disorders of the circulatory system,1
+Orthostatic Hypotension,ProblemsDim,Diseases and disorders of the circulatory system,1
+Pacemaker/,ProblemsDim,Diseases and disorders of the circulatory system,1
+Pallor,ProblemsDim,Diseases and disorders of the circulatory system,1
+Pericardial Effusion,ProblemsDim,Diseases and disorders of the circulatory system,1
+"Perioperative Hemorrhage, Hematoma",ProblemsDim,Diseases and disorders of the circulatory system,1
+Peripheral Arterial Disease,ProblemsDim,Diseases and disorders of the circulatory system,1
+Peripheral Arterial Occlusive Disease,ProblemsDim,Diseases and disorders of the circulatory system,1
+Peripheral Artery Disease,ProblemsDim,Diseases and disorders of the circulatory system,1
+Peripheral Edema,ProblemsDim,Diseases and disorders of the circulatory system,1
+Peripheral Vascular Disease,ProblemsDim,Diseases and disorders of the circulatory system,1
+Persistent Contraindication To All Antagonist In The Management Congenital Heart Defects (Chds),ProblemsDim,Diseases and disorders of the circulatory system,1
+Pitting Edema,ProblemsDim,Diseases and disorders of the circulatory system,1
+Portal Hypertension,ProblemsDim,Diseases and disorders of the circulatory system,1
+Postmastectomy Lymphedema Syndrome,ProblemsDim,Diseases and disorders of the circulatory system,1
+Pulmonary Hypertension,ProblemsDim,Diseases and disorders of the circulatory system,1
+Pulmonary_Hypertension,ProblemsDim,Diseases and disorders of the circulatory system,1
+Raynaud Phenomenon,ProblemsDim,Diseases and disorders of the circulatory system,1
+Respiratory And Pulmonary System,ProblemsDim,Diseases and disorders of the circulatory system,1
+Restingangina,ProblemsDim,Diseases and disorders of the circulatory system,1
+Right Heart Failure,ProblemsDim,Diseases and disorders of the circulatory system,1
+Right Sided Heart Failure,ProblemsDim,Diseases and disorders of the circulatory system,1
+Sequelae After Cerebrovascular Accident,ProblemsDim,Diseases and disorders of the circulatory system,1
+Shock Complications In Obstetrics And Gynecology,ProblemsDim,Diseases and disorders of the circulatory system,1
+Shock Following Terminated Pregnancy,ProblemsDim,Diseases and disorders of the circulatory system,1
+Shock/Cardiac Arrest,ProblemsDim,Diseases and disorders of the circulatory system,1
+Steroid-Induced Diabetes Mellitus,ProblemsDim,Diseases and disorders of the circulatory system,1
+Stroke,ProblemsDim,Diseases and disorders of the circulatory system,1
+Subarachnoid And Extradural Hemorrhages,ProblemsDim,Diseases and disorders of the circulatory system,1
+Supraventricular Disease,ProblemsDim,Diseases and disorders of the circulatory system,1
+Supraventricular Tachycardia,ProblemsDim,Diseases and disorders of the circulatory system,1
+Syncope,ProblemsDim,Diseases and disorders of the circulatory system,1
+Systolic Blood Pressure (Sbp),ProblemsDim,Diseases and disorders of the circulatory system,1
+Systolic Heart Failure,ProblemsDim,Diseases and disorders of the circulatory system,1
+Tachycardia,ProblemsDim,Diseases and disorders of the circulatory system,1
+Tetrology Fallot,ProblemsDim,Diseases and disorders of the circulatory system,1
+Thoracic Aortic Aneurysm,ProblemsDim,Diseases and disorders of the circulatory system,1
+Torsade'S De Pointes,ProblemsDim,Diseases and disorders of the circulatory system,1
+Transient Ischemic Attack,ProblemsDim,Diseases and disorders of the circulatory system,1
+Transient Ischemic Attack (Tia) Or Cardiovascular Disease (Cvd),ProblemsDim,Diseases and disorders of the circulatory system,1
+Transient Ischemic Attack (Tia) Or Stroke,ProblemsDim,Diseases and disorders of the circulatory system,1
+Tricuspid Regurgitation,ProblemsDim,Diseases and disorders of the circulatory system,1
+Truncus Arteriosus,ProblemsDim,Diseases and disorders of the circulatory system,1
+Unstable Angina,ProblemsDim,Diseases and disorders of the circulatory system,1
+Valve Disease,ProblemsDim,Diseases and disorders of the circulatory system,1
+Valvular Heart Disease,ProblemsDim,Diseases and disorders of the circulatory system,1
+Valvular Heart Disease / Cardiovascular Disease,ProblemsDim,Diseases and disorders of the circulatory system,1
+Variceal Hemorrhage,ProblemsDim,Diseases and disorders of the circulatory system,1
+Vascular And Ischemic Disorders,ProblemsDim,Diseases and disorders of the circulatory system,1
+Vascular Disease,ProblemsDim,Diseases and disorders of the circulatory system,1
+Vasculitis,ProblemsDim,Diseases and disorders of the circulatory system,1
+Ventricular Septal Defect,ProblemsDim,Diseases and disorders of the circulatory system,1
+Diseases and disorders of the circulatory system / Diseases and disorders of the kidney and urinary tract,ProblemsDim,,0
+"Chronic Kidney Disease, Cerebrovascular Accident, Heart Failure",ProblemsDim,Diseases and disorders of the circulatory system / Diseases and disorders of the kidney and urinary tract,1
+Diseases and disorders of the circulatory system / Diseases and disorders of the musculoskeletal system and connective tissue,ProblemsDim,,0
+"Chronic Kidney Disease, Cerebrovascular Accident, Heart Failure",ProblemsDim,Diseases and disorders of the circulatory system / Diseases and disorders of the musculoskeletal system and connective tissue,1
+Stroke,ProblemsDim,Diseases and disorders of the circulatory system / Diseases and disorders of the musculoskeletal system and connective tissue,1
+Diseases and disorders of the digestive system,ProblemsDim,,0
+Abdominal Epigastric Pain,ProblemsDim,Diseases and disorders of the digestive system,1
+Acute Cecitis,ProblemsDim,Diseases and disorders of the digestive system,1
+Ascites,ProblemsDim,Diseases and disorders of the digestive system,1
+Bacterial disease,ProblemsDim,Diseases and disorders of the digestive system,1
+Barretts Eesophagus,ProblemsDim,Diseases and disorders of the digestive system,1
+Barretts Esophagus,ProblemsDim,Diseases and disorders of the digestive system,1
+Bowel Incontinence,ProblemsDim,Diseases and disorders of the digestive system,1
+Bowel infarction/ Intestinal ischemia,ProblemsDim,Diseases and disorders of the digestive system,1
+Celiac Disease,ProblemsDim,Diseases and disorders of the digestive system,1
+Cholera,ProblemsDim,Diseases and disorders of the digestive system,1
+Chronic Malabsorption Syndromes,ProblemsDim,Diseases and disorders of the digestive system,1
+Colitis,ProblemsDim,Diseases and disorders of the digestive system,1
+Colostomy,ProblemsDim,Diseases and disorders of the digestive system,1
+Constipation,ProblemsDim,Diseases and disorders of the digestive system,1
+Dehydration,ProblemsDim,Diseases and disorders of the digestive system,1
+Diarrhea,ProblemsDim,Diseases and disorders of the digestive system,1
+Digestive System,ProblemsDim,Diseases and disorders of the digestive system,1
+Diverticulitis,ProblemsDim,Diseases and disorders of the digestive system,1
+Dyspepsia,ProblemsDim,Diseases and disorders of the digestive system,1
+Dysphagia,ProblemsDim,Diseases and disorders of the digestive system,1
+Enterocolitis,ProblemsDim,Diseases and disorders of the digestive system,1
+Epigastric_burning,ProblemsDim,Diseases and disorders of the digestive system,1
+Esophageal,ProblemsDim,Diseases and disorders of the digestive system,1
+Esophageal GI Bleed,ProblemsDim,Diseases and disorders of the digestive system,1
+Esophageal Ulcer,ProblemsDim,Diseases and disorders of the digestive system,1
+Esophageal Varices,ProblemsDim,Diseases and disorders of the digestive system,1
+Esophageal Varicies With Bleeding,ProblemsDim,Diseases and disorders of the digestive system,1
+Esophagitis,ProblemsDim,Diseases and disorders of the digestive system,1
+Esophagus Stomach Duodenum,ProblemsDim,Diseases and disorders of the digestive system,1
+Fecal Incontinence,ProblemsDim,Diseases and disorders of the digestive system,1
+Flatulence,ProblemsDim,Diseases and disorders of the digestive system,1
+Gastric Procedure Complication,ProblemsDim,Diseases and disorders of the digestive system,1
+Gastritis,ProblemsDim,Diseases and disorders of the digestive system,1
+Gastroesophageal Reflux,ProblemsDim,Diseases and disorders of the digestive system,1
+Gastroesophageal reflux disease (GERD),ProblemsDim,Diseases and disorders of the digestive system,1
+Gastrointestinal Fistula,ProblemsDim,Diseases and disorders of the digestive system,1
+Gastrointestinal Hemorrhage,ProblemsDim,Diseases and disorders of the digestive system,1
+Gastrointestinal Obstruction,ProblemsDim,Diseases and disorders of the digestive system,1
+Gastrointestinal Perforation,ProblemsDim,Diseases and disorders of the digestive system,1
+Gastrointestinal System,ProblemsDim,Diseases and disorders of the digestive system,1
+Gastrostomy,ProblemsDim,Diseases and disorders of the digestive system,1
+"Hematemesis, Melena",ProblemsDim,Diseases and disorders of the digestive system,1
+"Hemorrhage, Acute Ulcer",ProblemsDim,Diseases and disorders of the digestive system,1
+Hemorrhagic Diarrhea,ProblemsDim,Diseases and disorders of the digestive system,1
+Hemorrhoids,ProblemsDim,Diseases and disorders of the digestive system,1
+Hiatal Hernia,ProblemsDim,Diseases and disorders of the digestive system,1
+Hyperperistalsis,ProblemsDim,Diseases and disorders of the digestive system,1
+Ileus,ProblemsDim,Diseases and disorders of the digestive system,1
+Induced Vomit,ProblemsDim,Diseases and disorders of the digestive system,1
+Inflammatory Bowel Disease,ProblemsDim,Diseases and disorders of the digestive system,1
+Intestinal Obstruction,ProblemsDim,Diseases and disorders of the digestive system,1
+Intestinal Obstruction Perforation,ProblemsDim,Diseases and disorders of the digestive system,1
+Intestinal Transplant Status,ProblemsDim,Diseases and disorders of the digestive system,1
+Loose Stools,ProblemsDim,Diseases and disorders of the digestive system,1
+Major Bowel,ProblemsDim,Diseases and disorders of the digestive system,1
+Melena,ProblemsDim,Diseases and disorders of the digestive system,1
+Mucositis,ProblemsDim,Diseases and disorders of the digestive system,1
+Nausea,ProblemsDim,Diseases and disorders of the digestive system,1
+Nausea Vomiting,ProblemsDim,Diseases and disorders of the digestive system,1
+Obstruction of Colon,ProblemsDim,Diseases and disorders of the digestive system,1
+Oral Health Conditions,ProblemsDim,Diseases and disorders of the digestive system,1
+Oral Mucosal System,ProblemsDim,Diseases and disorders of the digestive system,1
+Paralytic Ileus,ProblemsDim,Diseases and disorders of the digestive system,1
+Peptic Ulcer,ProblemsDim,Diseases and disorders of the digestive system,1
+Peritonitis,ProblemsDim,Diseases and disorders of the digestive system,1
+Peritonitis Perforation,ProblemsDim,Diseases and disorders of the digestive system,1
+Rectal Pain,ProblemsDim,Diseases and disorders of the digestive system,1
+Recurrent Vomiting,ProblemsDim,Diseases and disorders of the digestive system,1
+Small intestinal bacterial overgrowth (SIBO),ProblemsDim,Diseases and disorders of the digestive system,1
+Thirst,ProblemsDim,Diseases and disorders of the digestive system,1
+Toxic Megacolon,ProblemsDim,Diseases and disorders of the digestive system,1
+Ulcerative Esophagitis,ProblemsDim,Diseases and disorders of the digestive system,1
+Upper Gastrointestinal Bleeding,ProblemsDim,Diseases and disorders of the digestive system,1
+Vomiting,ProblemsDim,Diseases and disorders of the digestive system,1
+"Diseases and disorders of the ear, nose, mouth and throat",ProblemsDim,,0
+Aasopharyngitis,ProblemsDim,"Diseases and disorders of the ear, nose, mouth and throat",1
+Acute Nasopharyngitis,ProblemsDim,"Diseases and disorders of the ear, nose, mouth and throat",1
+Acute Pharyngitis,ProblemsDim,"Diseases and disorders of the ear, nose, mouth and throat",1
+Acute Pharyngitis And Tonsillitis,ProblemsDim,"Diseases and disorders of the ear, nose, mouth and throat",1
+Acute Sinusitis,ProblemsDim,"Diseases and disorders of the ear, nose, mouth and throat",1
+Acute Tonsillitis,ProblemsDim,"Diseases and disorders of the ear, nose, mouth and throat",1
+Chronic Sinusitis,ProblemsDim,"Diseases and disorders of the ear, nose, mouth and throat",1
+Dental Caries,ProblemsDim,"Diseases and disorders of the ear, nose, mouth and throat",1
+Dysgeusia,ProblemsDim,"Diseases and disorders of the ear, nose, mouth and throat",1
+Epistaxis,ProblemsDim,"Diseases and disorders of the ear, nose, mouth and throat",1
+Gingival Hemorrhage,ProblemsDim,"Diseases and disorders of the ear, nose, mouth and throat",1
+Gingivitis,ProblemsDim,"Diseases and disorders of the ear, nose, mouth and throat",1
+Glossodynia,ProblemsDim,"Diseases and disorders of the ear, nose, mouth and throat",1
+Mouth Candidiasis,ProblemsDim,"Diseases and disorders of the ear, nose, mouth and throat",1
+Mouth Ulcer /Tongue Ulcer,ProblemsDim,"Diseases and disorders of the ear, nose, mouth and throat",1
+Mouth Ulcers / Canker Sores,ProblemsDim,"Diseases and disorders of the ear, nose, mouth and throat",1
+Nasopharyngitis,ProblemsDim,"Diseases and disorders of the ear, nose, mouth and throat",1
+Oropharyngeal Symptoms,ProblemsDim,"Diseases and disorders of the ear, nose, mouth and throat",1
+Periodontal Disease,ProblemsDim,"Diseases and disorders of the ear, nose, mouth and throat",1
+Pharyngitis,ProblemsDim,"Diseases and disorders of the ear, nose, mouth and throat",1
+Respiratory Disease,ProblemsDim,"Diseases and disorders of the ear, nose, mouth and throat",1
+Rhinitis,ProblemsDim,"Diseases and disorders of the ear, nose, mouth and throat",1
+Rhinitis and Sinusitis,ProblemsDim,"Diseases and disorders of the ear, nose, mouth and throat",1
+Rhinorrhea,ProblemsDim,"Diseases and disorders of the ear, nose, mouth and throat",1
+Sinusitis,ProblemsDim,"Diseases and disorders of the ear, nose, mouth and throat",1
+Sore Throat,ProblemsDim,"Diseases and disorders of the ear, nose, mouth and throat",1
+Taste Disorder,ProblemsDim,"Diseases and disorders of the ear, nose, mouth and throat",1
+Tonsillitis,ProblemsDim,"Diseases and disorders of the ear, nose, mouth and throat",1
+Traumatic Hemotympanum,ProblemsDim,"Diseases and disorders of the ear, nose, mouth and throat",1
+Vertigo,ProblemsDim,"Diseases and disorders of the ear, nose, mouth and throat",1
+Voice Disorder,ProblemsDim,"Diseases and disorders of the ear, nose, mouth and throat",1
+Xerostomia,ProblemsDim,"Diseases and disorders of the ear, nose, mouth and throat",1
+Diseases and disorders of the ENT,ProblemsDim,,0
+Otitis Media,ProblemsDim,Diseases and disorders of the ENT,1
+Bilateral Deafness,ProblemsDim,Diseases and disorders of the ENT,1
+Chronic Otitis Media,ProblemsDim,Diseases and disorders of the ENT,1
+Deafness,ProblemsDim,Diseases and disorders of the ENT,1
+Earache,ProblemsDim,Diseases and disorders of the ENT,1
+Hearing Loss,ProblemsDim,Diseases and disorders of the ENT,1
+Tinnitus,ProblemsDim,Diseases and disorders of the ENT,1
+Diseases and disorders of the eye,ProblemsDim,,0
+Hypertensive Retinopathy,ProblemsDim,Diseases and disorders of the eye,1
+Aneurysm,ProblemsDim,Diseases and disorders of the eye,1
+Angioedema,ProblemsDim,Diseases and disorders of the eye,1
+Anterior Uveitis,ProblemsDim,Diseases and disorders of the eye,1
+Bilateral Blindness,ProblemsDim,Diseases and disorders of the eye,1
+Blindness,ProblemsDim,Diseases and disorders of the eye,1
+Burning Sensation Of The Eyes,ProblemsDim,Diseases and disorders of the eye,1
+Cataract,ProblemsDim,Diseases and disorders of the eye,1
+Conjunctival Edema,ProblemsDim,Diseases and disorders of the eye,1
+Conjunctival Hemorrhage,ProblemsDim,Diseases and disorders of the eye,1
+Conjunctival Hyperemia,ProblemsDim,Diseases and disorders of the eye,1
+Conjunctivitis,ProblemsDim,Diseases and disorders of the eye,1
+Corneal Edema,ProblemsDim,Diseases and disorders of the eye,1
+Corneal Erosion/Corneal Abrasion/Corneal Ulcer,ProblemsDim,Diseases and disorders of the eye,1
+Cystoid Macular Edema (Cme),ProblemsDim,Diseases and disorders of the eye,1
+Decreased Intraocular Pressure,ProblemsDim,Diseases and disorders of the eye,1
+Diabetes Mellitus Type 1,ProblemsDim,Diseases and disorders of the eye,1
+Diabetic Cataract,ProblemsDim,Diseases and disorders of the eye,1
+Diabetic Retinopathy,ProblemsDim,Diseases and disorders of the eye,1
+Endophthalmitis,ProblemsDim,Diseases and disorders of the eye,1
+Epiphora,ProblemsDim,Diseases and disorders of the eye,1
+Exophthalmos,ProblemsDim,Diseases and disorders of the eye,1
+Exudative Macular Degeneration,ProblemsDim,Diseases and disorders of the eye,1
+Eye Disorder,ProblemsDim,Diseases and disorders of the eye,1
+Eye Pain,ProblemsDim,Diseases and disorders of the eye,1
+Eyelid Edema,ProblemsDim,Diseases and disorders of the eye,1
+Glaucoma,ProblemsDim,Diseases and disorders of the eye,1
+Glaucoma glaucoma,ProblemsDim,Diseases and disorders of the eye,1
+Hemophthalmias,ProblemsDim,Diseases and disorders of the eye,1
+Hemorrhagic Conjunctivitis,ProblemsDim,Diseases and disorders of the eye,1
+Keratitis,ProblemsDim,Diseases and disorders of the eye,1
+Keratoconjunctivitis Sicca,ProblemsDim,Diseases and disorders of the eye,1
+Macular Degeneration,ProblemsDim,Diseases and disorders of the eye,1
+Macular Edema,ProblemsDim,Diseases and disorders of the eye,1
+"Myopia, Hyperopia",ProblemsDim,Diseases and disorders of the eye,1
+Nystagmus,ProblemsDim,Diseases and disorders of the eye,1
+Ocular Hypertension,ProblemsDim,Diseases and disorders of the eye,1
+Optic Neuritis,ProblemsDim,Diseases and disorders of the eye,1
+Posterior Uveitis,ProblemsDim,Diseases and disorders of the eye,1
+Primary Open Angle Glaucoma,ProblemsDim,Diseases and disorders of the eye,1
+Primary Open-Angle Glaucoma (Poag),ProblemsDim,Diseases and disorders of the eye,1
+Raised Intraocular Pressure,ProblemsDim,Diseases and disorders of the eye,1
+Reduced Visual Aucity,ProblemsDim,Diseases and disorders of the eye,1
+Retinal Detachment,ProblemsDim,Diseases and disorders of the eye,1
+Retinal Round Hole Without Detachment,ProblemsDim,Diseases and disorders of the eye,1
+Retinopathy,ProblemsDim,Diseases and disorders of the eye,1
+Retinopathy With Macular Edema,ProblemsDim,Diseases and disorders of the eye,1
+Vision Problem,ProblemsDim,Diseases and disorders of the eye,1
+Visual Defects,ProblemsDim,Diseases and disorders of the eye,1
+Visual Disturbances,ProblemsDim,Diseases and disorders of the eye,1
+Visual Symptoms,ProblemsDim,Diseases and disorders of the eye,1
+Vitreomacular Traction,ProblemsDim,Diseases and disorders of the eye,1
+Vitreous Detachment,ProblemsDim,Diseases and disorders of the eye,1
+Vitreous Hemorrhage,ProblemsDim,Diseases and disorders of the eye,1
+Vitreous Opacities,ProblemsDim,Diseases and disorders of the eye,1
+Diseases and disorders of the female reproductive system,ProblemsDim,,0
+Absence Of Cervix,ProblemsDim,Diseases and disorders of the female reproductive system,1
+Amenorrhea,ProblemsDim,Diseases and disorders of the female reproductive system,1
+Gynecological Examination,ProblemsDim,Diseases and disorders of the female reproductive system,1
+Hysterectomy,ProblemsDim,Diseases and disorders of the female reproductive system,1
+Infertility,ProblemsDim,Diseases and disorders of the female reproductive system,1
+Inflammatory Diseases Of Female Reproductive Organs,ProblemsDim,Diseases and disorders of the female reproductive system,1
+Intrauterine Device (Iud) Monitoring,ProblemsDim,Diseases and disorders of the female reproductive system,1
+Irregular Menstruation,ProblemsDim,Diseases and disorders of the female reproductive system,1
+Menopause,ProblemsDim,Diseases and disorders of the female reproductive system,1
+Menorrhagia,ProblemsDim,Diseases and disorders of the female reproductive system,1
+Other Female Reproductive Conditions,ProblemsDim,Diseases and disorders of the female reproductive system,1
+Ovarian Failure,ProblemsDim,Diseases and disorders of the female reproductive system,1
+Polycystic Ovaries,ProblemsDim,Diseases and disorders of the female reproductive system,1
+Vaginal Bleeding,ProblemsDim,Diseases and disorders of the female reproductive system,1
+Vaginal Hemorrhage,ProblemsDim,Diseases and disorders of the female reproductive system,1
+Vaginal Stenosis,ProblemsDim,Diseases and disorders of the female reproductive system,1
+Diseases and disorders of the hepatobiliary system and pancreas,ProblemsDim,,0
+Acute Hepatitis C,ProblemsDim,Diseases and disorders of the hepatobiliary system and pancreas,1
+Acute Liver Failure,ProblemsDim,Diseases and disorders of the hepatobiliary system and pancreas,1
+Acute Pancreatitis,ProblemsDim,Diseases and disorders of the hepatobiliary system and pancreas,1
+Acute Pancreatitis And Intestinal Malabsorption,ProblemsDim,Diseases and disorders of the hepatobiliary system and pancreas,1
+Autoimmune Hepatitis,ProblemsDim,Diseases and disorders of the hepatobiliary system and pancreas,1
+Biliary Disease,ProblemsDim,Diseases and disorders of the hepatobiliary system and pancreas,1
+Cholelithiasis,ProblemsDim,Diseases and disorders of the hepatobiliary system and pancreas,1
+Chronic Hepatitis,ProblemsDim,Diseases and disorders of the hepatobiliary system and pancreas,1
+Chronic Hepatitis B,ProblemsDim,Diseases and disorders of the hepatobiliary system and pancreas,1
+Chronic Hepatitis C,ProblemsDim,Diseases and disorders of the hepatobiliary system and pancreas,1
+Chronic Liver Disease,ProblemsDim,Diseases and disorders of the hepatobiliary system and pancreas,1
+Chronic Liver Failure,ProblemsDim,Diseases and disorders of the hepatobiliary system and pancreas,1
+Chronic Pancreatitis,ProblemsDim,Diseases and disorders of the hepatobiliary system and pancreas,1
+Chronic_Hepatitis,ProblemsDim,Diseases and disorders of the hepatobiliary system and pancreas,1
+Cirrhosis,ProblemsDim,Diseases and disorders of the hepatobiliary system and pancreas,1
+Cirrhosis of Liver,ProblemsDim,Diseases and disorders of the hepatobiliary system and pancreas,1
+Decompensated Cirrhosis,ProblemsDim,Diseases and disorders of the hepatobiliary system and pancreas,1
+Digestive System,ProblemsDim,Diseases and disorders of the hepatobiliary system and pancreas,1
+End Stage Liver Disease,ProblemsDim,Diseases and disorders of the hepatobiliary system and pancreas,1
+Hep B Vaccine Administration,ProblemsDim,Diseases and disorders of the hepatobiliary system and pancreas,1
+Hepatic,ProblemsDim,Diseases and disorders of the hepatobiliary system and pancreas,1
+Hepatic Coma / Hepatic encephalopathy (HE),ProblemsDim,Diseases and disorders of the hepatobiliary system and pancreas,1
+Hepatic Encephalopathy,ProblemsDim,Diseases and disorders of the hepatobiliary system and pancreas,1
+Hepatic System,ProblemsDim,Diseases and disorders of the hepatobiliary system and pancreas,1
+Hepatitis,ProblemsDim,Diseases and disorders of the hepatobiliary system and pancreas,1
+Hepatitis A,ProblemsDim,Diseases and disorders of the hepatobiliary system and pancreas,1
+Hepatitis A Infection,ProblemsDim,Diseases and disorders of the hepatobiliary system and pancreas,1
+Hepatitis B,ProblemsDim,Diseases and disorders of the hepatobiliary system and pancreas,1
+Hepatitis C,ProblemsDim,Diseases and disorders of the hepatobiliary system and pancreas,1
+Hepatitis C Chronic infection,ProblemsDim,Diseases and disorders of the hepatobiliary system and pancreas,1
+Hepatomegaly,ProblemsDim,Diseases and disorders of the hepatobiliary system and pancreas,1
+"Hepatomegaly, Splenomegaly",ProblemsDim,Diseases and disorders of the hepatobiliary system and pancreas,1
+Jaundice,ProblemsDim,Diseases and disorders of the hepatobiliary system and pancreas,1
+Liver Abscess,ProblemsDim,Diseases and disorders of the hepatobiliary system and pancreas,1
+Liver Cirrhosis,ProblemsDim,Diseases and disorders of the hepatobiliary system and pancreas,1
+Liver Damage,ProblemsDim,Diseases and disorders of the hepatobiliary system and pancreas,1
+Liver Disease,ProblemsDim,Diseases and disorders of the hepatobiliary system and pancreas,1
+Liver Disorders,ProblemsDim,Diseases and disorders of the hepatobiliary system and pancreas,1
+Liver System,ProblemsDim,Diseases and disorders of the hepatobiliary system and pancreas,1
+Liver Transplant Complications,ProblemsDim,Diseases and disorders of the hepatobiliary system and pancreas,1
+Pancreas Transplant,ProblemsDim,Diseases and disorders of the hepatobiliary system and pancreas,1
+Pancreatic And Gland Disorders,ProblemsDim,Diseases and disorders of the hepatobiliary system and pancreas,1
+Pancreatitis,ProblemsDim,Diseases and disorders of the hepatobiliary system and pancreas,1
+Diseases and disorders of the hepatobiliary system and pancreas / Diseases and disorders of the kidney and urinary tract,ProblemsDim,,0
+Hepatorenal Syndrome,ProblemsDim,Diseases and disorders of the hepatobiliary system and pancreas / Diseases and disorders of the kidney and urinary tract,1
+Diseases and disorders of the kidney and urinary tract,ProblemsDim,,0
+Acute Kidney Failure,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Acute Renal Failure,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Acute Renal Insufficiency /Acute Kidney Injury,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Acute Renal Insufficiency/Acute Kidney Injury,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Albuminuria,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Bladder Diverticulum,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Chronic Kidney Disease,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+"Chronic Kidney Disease (Ckd) , End-Stage Kidney Disease",ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+"Chronic Kidney Disease (Ckd) Stage 2, 3, 4",ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Chronic Kidney Disease 4,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Chronic Kidney Disease 5,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Chronic Kidney Disease Stage 5,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Chronic Kidney Disease Stage 6,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Chronic Renal Failure,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Ckd (Chronic Kidney Disease) With Proteinuria,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Cystitis,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Diabetic Nephropathy,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Dialysis,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Dialysis System,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Dysuria,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+End Stage Renal Disease,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+End-Stage Kidney Disease,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+End-Stage Renal Disease,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+End-Stage Renal Disease (Esrd) And Renal Failure,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Glomerulonephritis And Nephrotic Syndrome,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Glucosuria,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Glycosuria,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Hematuria,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Hemorrhagic Cystitis,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Hypertensive Renal Disease With Renal Failure,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Impaired Renal Tubular Function,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Kidney Complications,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Kidney Disease,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Kidney Renal Failure,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Kidney Transplant,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Kidney Transplantation,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Nephropathy,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Nephropathy Treatment,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Nephrotic Syndrome,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Peritoneal Dialysis,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Polyuria,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Proteinuria,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Renal Artery Atherosclerosis,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Renal Artery Stenosis,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Renal Disease,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Renal Disorders,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Renal Failure,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Renal Function Tests Outside Reference Range,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Renal Impairment,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Renal Tubular Acidosis (Rta),ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Solitary Kidney Disease,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Urinary Hesitancy,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Urinary Incontinence,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Urinary Retention,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Urinary Tract Infection,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Urinary Tract Infection (Uti),ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Urine Color,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Urolithiasis,ProblemsDim,Diseases and disorders of the kidney and urinary tract,1
+Diseases and disorders of the kidney and urinary tract / Diseases and disorders of the circulatory system,ProblemsDim,,0
+Chronic Kidney Disease,ProblemsDim,Diseases and disorders of the kidney and urinary tract / Diseases and disorders of the circulatory system,1
+Chronic Kidney Disease (Ckd) Caused Or Exacerbated By Hypertension,ProblemsDim,Diseases and disorders of the kidney and urinary tract / Diseases and disorders of the circulatory system,1
+Chronic Kidney Disease (Ckd)/Hypertension (High Blood Pressure),ProblemsDim,Diseases and disorders of the kidney and urinary tract / Diseases and disorders of the circulatory system,1
+Hypertensive Chronic Kidney Disease,ProblemsDim,Diseases and disorders of the kidney and urinary tract / Diseases and disorders of the circulatory system,1
+Diseases and disorders of the kidney and urinary tract / Diseases and disorders of the male reproductive system / Diseases and disorders of the female reproductive system,ProblemsDim,,0
+Urogenital Disorders,ProblemsDim,Diseases and disorders of the kidney and urinary tract / Diseases and disorders of the male reproductive system / Diseases and disorders of the female reproductive system,1
+Diseases and disorders of the male reproductive system,ProblemsDim,,0
+Benign Prostatic Hyperplasia (Bph),ProblemsDim,Diseases and disorders of the male reproductive system,1
+Enlarged Prostate Gland,ProblemsDim,Diseases and disorders of the male reproductive system,1
+Epididmytitis,ProblemsDim,Diseases and disorders of the male reproductive system,1
+Erectile Dysfunction (Ed),ProblemsDim,Diseases and disorders of the male reproductive system,1
+Impotence,ProblemsDim,Diseases and disorders of the male reproductive system,1
+Priapism,ProblemsDim,Diseases and disorders of the male reproductive system,1
+Prostate Cancer,ProblemsDim,Diseases and disorders of the male reproductive system,1
+Prostate Dysplasia,ProblemsDim,Diseases and disorders of the male reproductive system,1
+Sterility,ProblemsDim,Diseases and disorders of the male reproductive system,1
+Diseases and disorders of the male reproductive system / Diseases and disorders of the female reproductive system,ProblemsDim,,0
+Genital Herpes,ProblemsDim,Diseases and disorders of the male reproductive system / Diseases and disorders of the female reproductive system,1
+Sexual Dysfunction,ProblemsDim,Diseases and disorders of the male reproductive system / Diseases and disorders of the female reproductive system,1
+Diseases and disorders of the musculoskeletal system and connective tissue,ProblemsDim,,0
+"Infection Of Bone, Joint And Muscle",ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Abnormal Gait,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Acute Gout,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Amputation Complication,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Amputation Of Limb,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Amputation System,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Ankylosing Spondylitis,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Arthralgia,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Arthritis,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Arthropathy,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Aspiration Joint,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Bilateral Amputation,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Bilateral Amputee Feet And Legs,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Bilateral Amputees,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Bilateral Traumatic Amputation,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Bone Pain,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Bone Pelvic Pain,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Bursitis And Tendinitis,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Bursitis Tendinitis,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Emaciation,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Exercise Counseling,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Exercise Counselling,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Fasciitis,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Fatigue,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Fibromyalgia,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Foot Amputation,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Foot Deformity,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Fracture,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Fracture And Dislocation Of Hip,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+"Fracture Of Femur, Hip And Pelvis",ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Fracture Of Hip And Spine,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Fractures,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+"Fractures Involving The Hip, Spine, And Distal Radius (Wrist)",ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Frailty,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Gait Disturbance,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Gout,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Gout Tophi/Gouty Tophus,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+"Hip And Femur Bone, Excluding Major Joint-Related Concerns",ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Hip Fracture,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Hip Pain,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Hip Pelvic Fracture,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Hyperhidrosis,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Jaw Pain,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Joint Pain,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Leg Weakness,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Limb Pain,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Lower Extremity Amputation,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Lower Extremity Effusion,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Lower Limb Amputation,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Major Joint Lower Extremity,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Major Joint Upper Extremity,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Malaise,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Malaise And Fatigue,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Mitochondrial Myopathy,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Muscle Atrophy And Neck Pain,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Muscle Pain And Cramp,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Muscle Spasm,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Muscle Weakness And Neck Pain,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Muscoskeletal Disorders,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Muscular Atrophy,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Muscular Dystrophy,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Muscular Pian And Disease,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Musculoskeletal Pain,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Myalgia,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Myoneural Disorders,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Myopathy,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Myositis,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Neck And Back Ache,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Neck And Backaches,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Osteoarthritis,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Osteodystrophies,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Osteonecrosis,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Osteopenia,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Osteoporosis,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Osteoporosis/Fragility/Fracture,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Pain Of The Sternum,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Pelvic Fracture,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Physical Activity Counseling,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Physical Activity Counselling,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Physical Restraint,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Postoperative Complications,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Pressure Ulcer,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Psoriatic Arthritis,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Rhabdomyolysis,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Rheumatoid Arthritis,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Rheumatoid Arthritis (Ra),ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Rheumatoid Arthritis And Inflammatory Connective Tissue Disease,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Right Unilateral Amputation,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Spasticity And Neck Pain,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Statin Muscle Symptoms,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Tendinitis,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Tendon Rupture,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Trauma-Related Neck Pain,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Traumatic Amputations,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Unilateral Amputation,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Vertebra Fracture,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Weakness,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue,1
+Diseases and disorders of the musculoskeletal system and connective tissue / Diseases and disorders of the nervous system,ProblemsDim,,0
+Neuromuscular Disorder,ProblemsDim,Diseases and disorders of the musculoskeletal system and connective tissue / Diseases and disorders of the nervous system,1
+Diseases and disorders of the nervous system,ProblemsDim,,0
+Bulbar Onset Lateral Sclerosis,ProblemsDim,Diseases and disorders of the nervous system,1
+Acute Brain Spinal Injury,ProblemsDim,Diseases and disorders of the nervous system,1
+Acute Cerebellar Syndrome,ProblemsDim,Diseases and disorders of the nervous system,1
+Alzheimer Disease,ProblemsDim,Diseases and disorders of the nervous system,1
+Alzheimer Related Dementia,ProblemsDim,Diseases and disorders of the nervous system,1
+Alzheimer's Disease,ProblemsDim,Diseases and disorders of the nervous system,1
+Amyotrophic Lateral Sclerosis,ProblemsDim,Diseases and disorders of the nervous system,1
+Amytrophic Lateral Sclerosis,ProblemsDim,Diseases and disorders of the nervous system,1
+Anomaly Of Central Nervous System,ProblemsDim,Diseases and disorders of the nervous system,1
+Anorexic Damage,ProblemsDim,Diseases and disorders of the nervous system,1
+Anoxic Brain Damage / Ischemic Brain Injury / Anoxic Encephalopathy,ProblemsDim,Diseases and disorders of the nervous system,1
+Autistic Disorder,ProblemsDim,Diseases and disorders of the nervous system,1
+Bacterial Meningitis,ProblemsDim,Diseases and disorders of the nervous system,1
+Brain Damage,ProblemsDim,Diseases and disorders of the nervous system,1
+Central Nervous System (Cns) Infections,ProblemsDim,Diseases and disorders of the nervous system,1
+Cerebral Palsy,ProblemsDim,Diseases and disorders of the nervous system,1
+Cerebrospinal Fluid Leak,ProblemsDim,Diseases and disorders of the nervous system,1
+Cervical Spinal Lesion,ProblemsDim,Diseases and disorders of the nervous system,1
+Charcot-Marie-Tooth (Cmt) Syndrome,ProblemsDim,Diseases and disorders of the nervous system,1
+Chills,ProblemsDim,Diseases and disorders of the nervous system,1
+Cholinergic Crisis,ProblemsDim,Diseases and disorders of the nervous system,1
+Cns Infection,ProblemsDim,Diseases and disorders of the nervous system,1
+Cognitive Decline,ProblemsDim,Diseases and disorders of the nervous system,1
+Cognitive Impairment,ProblemsDim,Diseases and disorders of the nervous system,1
+Coma,ProblemsDim,Diseases and disorders of the nervous system,1
+"Coma, Anorexic Damage",ProblemsDim,Diseases and disorders of the nervous system,1
+Confusion,ProblemsDim,Diseases and disorders of the nervous system,1
+Congenital Disorders,ProblemsDim,Diseases and disorders of the nervous system,1
+Consciousness,ProblemsDim,Diseases and disorders of the nervous system,1
+Cranial Nerve Palsies,ProblemsDim,Diseases and disorders of the nervous system,1
+Degenerative Neurological Disorder,ProblemsDim,Diseases and disorders of the nervous system,1
+Dementia,ProblemsDim,Diseases and disorders of the nervous system,1
+Diabetic Neuropathy,ProblemsDim,Diseases and disorders of the nervous system,1
+Disorientation,ProblemsDim,Diseases and disorders of the nervous system,1
+Dorsal Spinal Lesion,ProblemsDim,Diseases and disorders of the nervous system,1
+Drowsy,ProblemsDim,Diseases and disorders of the nervous system,1
+Dysesthesia,ProblemsDim,Diseases and disorders of the nervous system,1
+"Encephalitis, Meningitis",ProblemsDim,Diseases and disorders of the nervous system,1
+Encephalopathy,ProblemsDim,Diseases and disorders of the nervous system,1
+Epilepsy,ProblemsDim,Diseases and disorders of the nervous system,1
+Fasciculation,ProblemsDim,Diseases and disorders of the nervous system,1
+Fever,ProblemsDim,Diseases and disorders of the nervous system,1
+Functional Impairment,ProblemsDim,Diseases and disorders of the nervous system,1
+Guillain Barre Syndrome,ProblemsDim,Diseases and disorders of the nervous system,1
+Hemiplegia,ProblemsDim,Diseases and disorders of the nervous system,1
+Hemiplegia Hemiparesis,ProblemsDim,Diseases and disorders of the nervous system,1
+"Hemiplegia/Paraplegia/Quadriplegia / 
+Upper Motor Neuron And Lower Motor Neurons Lesion / Traumatic Brain Injury",ProblemsDim,Diseases and disorders of the nervous system,1
+Huntington Disease,ProblemsDim,Diseases and disorders of the nervous system,1
+Hydrocephalus,ProblemsDim,Diseases and disorders of the nervous system,1
+Hypoesthesia,ProblemsDim,Diseases and disorders of the nervous system,1
+Hypothermia,ProblemsDim,Diseases and disorders of the nervous system,1
+Infection Of Central Nervous System,ProblemsDim,Diseases and disorders of the nervous system,1
+Intracerebral Sarcoidosis,ProblemsDim,Diseases and disorders of the nervous system,1
+Language Problem,ProblemsDim,Diseases and disorders of the nervous system,1
+Lethargy,ProblemsDim,Diseases and disorders of the nervous system,1
+Leukoencephalopathy,ProblemsDim,Diseases and disorders of the nervous system,1
+Lumbosacral Radiculopathy,ProblemsDim,Diseases and disorders of the nervous system,1
+Mass Lesion Brain,ProblemsDim,Diseases and disorders of the nervous system,1
+Meningitis,ProblemsDim,Diseases and disorders of the nervous system,1
+Migraine,ProblemsDim,Diseases and disorders of the nervous system,1
+Minimal Conscience,ProblemsDim,Diseases and disorders of the nervous system,1
+Monoplegia,ProblemsDim,Diseases and disorders of the nervous system,1
+Monoplegia Paralytic Syndromes,ProblemsDim,Diseases and disorders of the nervous system,1
+Motor Neuropathy,ProblemsDim,Diseases and disorders of the nervous system,1
+Multiple Sclerosis,ProblemsDim,Diseases and disorders of the nervous system,1
+Myasthenia Gravis,ProblemsDim,Diseases and disorders of the nervous system,1
+Nerve Pain,ProblemsDim,Diseases and disorders of the nervous system,1
+Neuritis,ProblemsDim,Diseases and disorders of the nervous system,1
+Neurodegenerative Disease,ProblemsDim,Diseases and disorders of the nervous system,1
+Neurodegenerative Disorder,ProblemsDim,Diseases and disorders of the nervous system,1
+Neurologic Impairment,ProblemsDim,Diseases and disorders of the nervous system,1
+Neurological Conditions,ProblemsDim,Diseases and disorders of the nervous system,1
+Neurological Disorder,ProblemsDim,Diseases and disorders of the nervous system,1
+Neurological Disturbance,ProblemsDim,Diseases and disorders of the nervous system,1
+Neuropathy,ProblemsDim,Diseases and disorders of the nervous system,1
+Neurotoxicity,ProblemsDim,Diseases and disorders of the nervous system,1
+Numbness,ProblemsDim,Diseases and disorders of the nervous system,1
+Other Malaise,ProblemsDim,Diseases and disorders of the nervous system,1
+Paralysis,ProblemsDim,Diseases and disorders of the nervous system,1
+Paraplegia,ProblemsDim,Diseases and disorders of the nervous system,1
+Paresis,ProblemsDim,Diseases and disorders of the nervous system,1
+Paresthesia,ProblemsDim,Diseases and disorders of the nervous system,1
+"Parkinson , Huntington Disease",ProblemsDim,Diseases and disorders of the nervous system,1
+"Parkinson Disease, Sclerosis, Huntington",ProblemsDim,Diseases and disorders of the nervous system,1
+Parkinsonism,ProblemsDim,Diseases and disorders of the nervous system,1
+Peripheral Neuritis,ProblemsDim,Diseases and disorders of the nervous system,1
+Peripheral Neuropathy,ProblemsDim,Diseases and disorders of the nervous system,1
+Persistent Vegetative State,ProblemsDim,Diseases and disorders of the nervous system,1
+Postherpetic Neuralgia,ProblemsDim,Diseases and disorders of the nervous system,1
+Post-Traumatic Amnesia (Pta),ProblemsDim,Diseases and disorders of the nervous system,1
+Post-Traumatic Seizures,ProblemsDim,Diseases and disorders of the nervous system,1
+Progressive Neurologic Disorders,ProblemsDim,Diseases and disorders of the nervous system,1
+Quadriplegia,ProblemsDim,Diseases and disorders of the nervous system,1
+Restless Leg Syndrome,ProblemsDim,Diseases and disorders of the nervous system,1
+Restless Legs Syndrome (Rls),ProblemsDim,Diseases and disorders of the nervous system,1
+Rigor,ProblemsDim,Diseases and disorders of the nervous system,1
+Sciatica,ProblemsDim,Diseases and disorders of the nervous system,1
+Sclerosis,ProblemsDim,Diseases and disorders of the nervous system,1
+Seizures,ProblemsDim,Diseases and disorders of the nervous system,1
+"Seizures, Convulsions",ProblemsDim,Diseases and disorders of the nervous system,1
+Sensory Neuropathy,ProblemsDim,Diseases and disorders of the nervous system,1
+Severe Dementia,ProblemsDim,Diseases and disorders of the nervous system,1
+Short-Term Memory Deficits,ProblemsDim,Diseases and disorders of the nervous system,1
+Slurred Speech,ProblemsDim,Diseases and disorders of the nervous system,1
+Spinal Cord Disorders,ProblemsDim,Diseases and disorders of the nervous system,1
+Spinal Fusion,ProblemsDim,Diseases and disorders of the nervous system,1
+Spinal Injuries,ProblemsDim,Diseases and disorders of the nervous system,1
+Spinal Stenosis,ProblemsDim,Diseases and disorders of the nervous system,1
+Traumatic Injury,ProblemsDim,Diseases and disorders of the nervous system,1
+Trigeminal Neuralgia,ProblemsDim,Diseases and disorders of the nervous system,1
+Vertebral Fractures Without Spinal Cord Injury,ProblemsDim,Diseases and disorders of the nervous system,1
+Diseases and disorders of the nervous system / Diseases and disorders of the circulatory system,ProblemsDim,,0
+Dizziness,ProblemsDim,Diseases and disorders of the nervous system / Diseases and disorders of the circulatory system,1
+Unconsciousness,ProblemsDim,Diseases and disorders of the nervous system / Diseases and disorders of the circulatory system,1
+Diseases and disorders of the nervous system / Diseases and disorders of the musculoskeletal system and connective tissue,ProblemsDim,,0
+Dysarthria,ProblemsDim,Diseases and disorders of the nervous system / Diseases and disorders of the musculoskeletal system and connective tissue,1
+Diseases and disorders of the respiratory system,ProblemsDim,,0
+Active Tuberculosis (TB),ProblemsDim,Diseases and disorders of the respiratory system,1
+Acute Asthma,ProblemsDim,Diseases and disorders of the respiratory system,1
+Acute Bronchitis,ProblemsDim,Diseases and disorders of the respiratory system,1
+Acute Chest Syndrome,ProblemsDim,Diseases and disorders of the respiratory system,1
+Acute Chronic obstructive pulmonary disease (COPD),ProblemsDim,Diseases and disorders of the respiratory system,1
+Acute Exacerbation of Chronic obstructive pulmonary disease (COPD),ProblemsDim,Diseases and disorders of the respiratory system,1
+Acute interstitial pneumonia,ProblemsDim,Diseases and disorders of the respiratory system,1
+Acute Respiratory Failure,ProblemsDim,Diseases and disorders of the respiratory system,1
+Asbestosis,ProblemsDim,Diseases and disorders of the respiratory system,1
+Asthma,ProblemsDim,Diseases and disorders of the respiratory system,1
+Asthma Assessment,ProblemsDim,Diseases and disorders of the respiratory system,1
+Asthma Unspecified,ProblemsDim,Diseases and disorders of the respiratory system,1
+Breathlessness,ProblemsDim,Diseases and disorders of the respiratory system,1
+Bronchitis,ProblemsDim,Diseases and disorders of the respiratory system,1
+Bronchitis Unspecified,ProblemsDim,Diseases and disorders of the respiratory system,1
+Bronchospasm,ProblemsDim,Diseases and disorders of the respiratory system,1
+Brucellosis,ProblemsDim,Diseases and disorders of the respiratory system,1
+Chronic Bronchitis,ProblemsDim,Diseases and disorders of the respiratory system,1
+Chronic Lung Disorders,ProblemsDim,Diseases and disorders of the respiratory system,1
+Chronic Obstructive Pulmonary Disease (COPD),ProblemsDim,Diseases and disorders of the respiratory system,1
+Chronic Obstructive Pulmonary Disease (COPD) /  Dyspnea,ProblemsDim,Diseases and disorders of the respiratory system,1
+Chronic Obstructive Pulmonary Disease (COPD) / Asthma,ProblemsDim,Diseases and disorders of the respiratory system,1
+Chronic obstructive pulmonary disease (COPD) Cough,ProblemsDim,Diseases and disorders of the respiratory system,1
+"Chronic obstructive pulmonary disease (COPD), Emphysema Chronic Bronchitis",ProblemsDim,Diseases and disorders of the respiratory system,1
+Chronic Obstructive Pulmonary Disease (COPD)/ Asthma/ Bronchitis,ProblemsDim,Diseases and disorders of the respiratory system,1
+Chronic Resp Fumes Vapors,ProblemsDim,Diseases and disorders of the respiratory system,1
+Chronic Respitory Condition Fumes Vapors,ProblemsDim,Diseases and disorders of the respiratory system,1
+Chronic Sinusitis,ProblemsDim,Diseases and disorders of the respiratory system,1
+Circulatory And Respiratory Disorders,ProblemsDim,Diseases and disorders of the respiratory system,1
+Coccidioidomycosis,ProblemsDim,Diseases and disorders of the respiratory system,1
+Community Acquired Pneumonia,ProblemsDim,Diseases and disorders of the respiratory system,1
+Cough,ProblemsDim,Diseases and disorders of the respiratory system,1
+Coughing Wheezing,ProblemsDim,Diseases and disorders of the respiratory system,1
+Cystic Fibrosis,ProblemsDim,Diseases and disorders of the respiratory system,1
+"Deep Vein Thrombosis, Pulmonary Embolism",ProblemsDim,Diseases and disorders of the respiratory system,1
+Dry Cough,ProblemsDim,Diseases and disorders of the respiratory system,1
+Dyspnea,ProblemsDim,Diseases and disorders of the respiratory system,1
+Dyspnea Cough Wheezing Cough,ProblemsDim,Diseases and disorders of the respiratory system,1
+Emphysema,ProblemsDim,Diseases and disorders of the respiratory system,1
+Hemoptysis,ProblemsDim,Diseases and disorders of the respiratory system,1
+Hoarseness Sore Throat,ProblemsDim,Diseases and disorders of the respiratory system,1
+Infectious Diseases,ProblemsDim,Diseases and disorders of the respiratory system,1
+Intermittent Asthma,ProblemsDim,Diseases and disorders of the respiratory system,1
+Interstitial Lung Disease,ProblemsDim,Diseases and disorders of the respiratory system,1
+Larynx Edema,ProblemsDim,Diseases and disorders of the respiratory system,1
+Latent Tuberculosis,ProblemsDim,Diseases and disorders of the respiratory system,1
+Lower Respiratory Tract Infection,ProblemsDim,Diseases and disorders of the respiratory system,1
+Lung Infections,ProblemsDim,Diseases and disorders of the respiratory system,1
+Lung Transplan,ProblemsDim,Diseases and disorders of the respiratory system,1
+Lung_Diseases,ProblemsDim,Diseases and disorders of the respiratory system,1
+Lung_Disorder,ProblemsDim,Diseases and disorders of the respiratory system,1
+Lung_Fibrosis,ProblemsDim,Diseases and disorders of the respiratory system,1
+Lung_Transplant,ProblemsDim,Diseases and disorders of the respiratory system,1
+Obstructive Chronic Bronchitis,ProblemsDim,Diseases and disorders of the respiratory system,1
+Orthopnea,ProblemsDim,Diseases and disorders of the respiratory system,1
+Oxygen_Dependence,ProblemsDim,Diseases and disorders of the respiratory system,1
+Oxygen_Dependent,ProblemsDim,Diseases and disorders of the respiratory system,1
+Persistent Asthma,ProblemsDim,Diseases and disorders of the respiratory system,1
+Pleural Effusion,ProblemsDim,Diseases and disorders of the respiratory system,1
+Pneumonia,ProblemsDim,Diseases and disorders of the respiratory system,1
+Pulmonary Edema,ProblemsDim,Diseases and disorders of the respiratory system,1
+Pulmonary Embolism,ProblemsDim,Diseases and disorders of the respiratory system,1
+Pulmonary Embolism (Pe) And Deep Vein Thrombosis (Dvt),ProblemsDim,Diseases and disorders of the respiratory system,1
+Pulmonary Fibrosis,ProblemsDim,Diseases and disorders of the respiratory system,1
+Pulmonary Hemorrhage,ProblemsDim,Diseases and disorders of the respiratory system,1
+Pulmonary_edema,ProblemsDim,Diseases and disorders of the respiratory system,1
+Pulmonary_Embolism,ProblemsDim,Diseases and disorders of the respiratory system,1
+Rales,ProblemsDim,Diseases and disorders of the respiratory system,1
+Respiratory And Pulmonary Disease,ProblemsDim,Diseases and disorders of the respiratory system,1
+Respiratory Arrest,ProblemsDim,Diseases and disorders of the respiratory system,1
+Respiratory Complications,ProblemsDim,Diseases and disorders of the respiratory system,1
+Respiratory Disease,ProblemsDim,Diseases and disorders of the respiratory system,1
+Respiratory Distress,ProblemsDim,Diseases and disorders of the respiratory system,1
+Respiratory Distress Syndrome (RDS),ProblemsDim,Diseases and disorders of the respiratory system,1
+Respiratory Failure,ProblemsDim,Diseases and disorders of the respiratory system,1
+Respiratory Infections,ProblemsDim,Diseases and disorders of the respiratory system,1
+Respiratory Signs,ProblemsDim,Diseases and disorders of the respiratory system,1
+Respiratory Sypmtoms,ProblemsDim,Diseases and disorders of the respiratory system,1
+Restrictive Lung Disease,ProblemsDim,Diseases and disorders of the respiratory system,1
+Severe Asthma,ProblemsDim,Diseases and disorders of the respiratory system,1
+Silicosis,ProblemsDim,Diseases and disorders of the respiratory system,1
+"Simple Pneumonia, Respiratory Infections",ProblemsDim,Diseases and disorders of the respiratory system,1
+Tachypnea,ProblemsDim,Diseases and disorders of the respiratory system,1
+Tracheal Stricture,ProblemsDim,Diseases and disorders of the respiratory system,1
+Tracheostomy,ProblemsDim,Diseases and disorders of the respiratory system,1
+Tracheostomy status,ProblemsDim,Diseases and disorders of the respiratory system,1
+Tuberculosis,ProblemsDim,Diseases and disorders of the respiratory system,1
+Tuberculosis (TB),ProblemsDim,Diseases and disorders of the respiratory system,1
+Tuberculosis Screening Test,ProblemsDim,Diseases and disorders of the respiratory system,1
+Upper Respiratory Infection,ProblemsDim,Diseases and disorders of the respiratory system,1
+Upper Respiratory Tract Infection,ProblemsDim,Diseases and disorders of the respiratory system,1
+"Viral Pneumonia, Influenza",ProblemsDim,Diseases and disorders of the respiratory system,1
+Wheezing,ProblemsDim,Diseases and disorders of the respiratory system,1
+Diseases and disorders of the respiratory system / Diseases and disorders of the circulatory system,ProblemsDim,,0
+Shock,ProblemsDim,Diseases and disorders of the respiratory system / Diseases and disorders of the circulatory system,1
+"Diseases and disorders of the skin, subcutaneous tissue and breast",ProblemsDim,,0
+Absence Of Left Breast,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Absence Of Right Breast,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Acanthosis Nigricans,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Acne,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Acne Vulgaris,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Acneiform Eruption,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Alopecia / Scalp Diseases,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Breast Examination,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Breast Feeding,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Bullous Blistering And Exfoliative Skin,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Cellulitis,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Cheilitis,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Dermatitis,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Dermatomyositis,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+"Diseases & Disorders Of The Skin, Subcutaneous Tissue & Breast",ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Dry Skin,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Erythema,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Erythema Nodosum,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Exfoliative Dermatitis,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Folliculitis,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Foot Ulcer,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Genital Ulceration,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Hirsutism,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+History Of Bilateral Mastectomy,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Hyperpigmentation,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Hypertrichosis,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Injection Site Infection,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Left Mastectomy,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Lip Ulcer,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Maculopapular Rashes,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Mammogram Screening,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Morphea,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Nail Discoloration,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Nail Diseases,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Necrotizing Fasciitis,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Palpable Breast mass,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Paronychia,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Pemphigus,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Petechiae,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Poikiloderma,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Pressure Ulcer,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Pruritic Rash,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Pruritus,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Psoriasis,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Psoriasis / Autoimmune Disease,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Psoriasis_Vulgaris,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Pyoderma Gangrenosum (Pg),ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Rash,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Right Mastectomy,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Seborrhea,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Skin Atrophy,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Skin Blister,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Skin Disorders,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Skin Fissure,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Skin Infection,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Skin Lesion,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Skin Loss,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Skin Plaques,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Skin Striae,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Skin Ulcer,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Stevens-Johnson Syndrome (Sjs),ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Toxic Epidermal Necrolysis (Ten),ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Ulcer,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Ulcerative Keratitis,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Unilateral Mastectomy,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Urticaria,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Wound Dehiscence,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+Xeroderma,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast",1
+"Diseases and disorders of the skin, subcutaneous tissue and breast / Diseases and disorders of the digestive system",ProblemsDim,,0
+Anthrax,ProblemsDim,"Diseases and disorders of the skin, subcutaneous tissue and breast / Diseases and disorders of the digestive system",1
+"Endocrine, nutritional and metabolic diseases and disorders",ProblemsDim,,0
+Hyperuricemia,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Hypoproteinemia,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Acidosis,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Adrenal Cushing's Syndrome,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Adrenal Insufficiency/Adrenal Dysfunction,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+"Amyloidosis, Porphyria",ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Azotemia,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Carbohydrate Intake,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Chronic And Acute Health Conditions,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Decrease Appetite,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Diabetes And Its Complications,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Diabetes Mellitus,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Diabetes Mellitus 1 Excluding,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Diabetes Mellitus 1 Excluding Angiopathy,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Diabetes Mellitus 1 Excluding Coma,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Diabetes Mellitus 1 Excluding Dermatitis,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Diabetes Mellitus 1 Excluding Gangrene Angiopathy,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Diabetes Mellitus 1 Excluding Hyperglycemia,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Diabetes Mellitus 1 Excluding Hyperosmolar Coma,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Diabetes Mellitus 1 Excluding Hypoglycemia,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Diabetes Mellitus 2 Excluding Angiopathy,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Diabetes Mellitus 2 Excluding Cataract,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Diabetes Mellitus 2 Excluding Dermatitis,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Diabetes Mellitus 2 Excluding Hyperglycemia,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Diabetes Mellitus 2 Excluding Hyperosmolar Coma,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Diabetes Mellitus 2 Excluding Hyperosmolarity,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Diabetes Mellitus 2 Excluding Hypoglycemia,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Diabetes Mellitus 2 Excluding Macular Edema,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Diabetes Mellitus 2 Excluding Nephropathy,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Diabetes Mellitus 2 Excluding Skin Ulcer,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Diabetes Mellitus 2 Without Retinopathy,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Diabetes Mellitus Type 1,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Diabetes with Acute Complications,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Diabetes With Chronic Complications,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Diabetes with Complications,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Diaphoresis,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Dietary Counseling,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Dietary Recommendations,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Disorders Of Metabolism,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Dyslipidemia,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Elevated Carcinoembryonic Antigen,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Fasting Blood Glucose,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Gestational Diabetes Mellitus (Gdm) Or Steroid-Induced Diabetes,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Gland Disorders,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Growth Hormone Deficiency,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Hemochromatosis,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Hyperbilirubinemia,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Hypercholesterolemia,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Hyperglycemia,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Hyperkalemia,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Hyperlipidemia,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Hyperparathyroidism,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Hyperphosphatemia,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Hypertriglyceridemia,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Hypoalbuminemia,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Hypocalcemia,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Hypochloremia,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Hypoglycemia,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Hypokalemia,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Hypokalemic Alkalosis,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Hypomagnesemia,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Hyponatremia,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Hypophosphatemia,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Hypothalamic-Pituitary-Adrenal (Hpa) Axis Suppression,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Hypothyroidism,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Ketoacidosis,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+"Lipidoses, Glycogenosis",ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Malnutrition,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Metabolic Disorder,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Metabolic Disorders,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Metabolic Syndrome,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Mucopolysaccharidosis,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Nutritional Deficiency,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Nutritional Intake Barrier,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Pituitary And Adrenal Gland Disorders,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Prediabetes,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Steroid Induced Diabetes,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Steroid-Induced Diabetes / Drug-Induced Diabetes Mellitus,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Type1 Diabetes Mellitus without Complications,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Type2 Diabetes Mellitus,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Uncontrolled Diabetes,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+Uric Acid Crystalluria,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders",1
+"Endocrine, nutritional and metabolic diseases and disorders / Diseases and disorders of the kidney and urinary tract",ProblemsDim,,0
+Diabetes Type 1 With Kidney Complications,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders / Diseases and disorders of the kidney and urinary tract",1
+Diabetes Type 2 With Kidney Complications,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders / Diseases and disorders of the kidney and urinary tract",1
+Diabetes With Microalbuminuria,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders / Diseases and disorders of the kidney and urinary tract",1
+Diabetes With Renal Manifestations,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders / Diseases and disorders of the kidney and urinary tract",1
+Type1 Diabetes Mellitus without Renal Complications,ProblemsDim,"Endocrine, nutritional and metabolic diseases and disorders / Diseases and disorders of the kidney and urinary tract",1
+"Endocrine, nutritional and metabolic diseases/disorders",ProblemsDim,,0
+Cushing's Syndrome,ProblemsDim,"Endocrine, nutritional and metabolic diseases/disorders",1
+Factors influencing health status and other contacts with health services,ProblemsDim,,0
+BMI,ProblemsDim,Factors influencing health status and other contacts with health services,1
+Bmi/Overweight/Obesity,ProblemsDim,Factors influencing health status and other contacts with health services,1
+Body Mass Index,ProblemsDim,Factors influencing health status and other contacts with health services,1
+Body Mass Index (Bmi),ProblemsDim,Factors influencing health status and other contacts with health services,1
+Morbid Obesity,ProblemsDim,Factors influencing health status and other contacts with health services,1
+Non-Tobacco User,ProblemsDim,Factors influencing health status and other contacts with health services,1
+Normal Bmi,ProblemsDim,Factors influencing health status and other contacts with health services,1
+Obesity,ProblemsDim,Factors influencing health status and other contacts with health services,1
+Overweight,ProblemsDim,Factors influencing health status and other contacts with health services,1
+Overweight / Obesity,ProblemsDim,Factors influencing health status and other contacts with health services,1
+Underweight,ProblemsDim,Factors influencing health status and other contacts with health services,1
+Weight Assessment Counseling For Children And Adolescents,ProblemsDim,Factors influencing health status and other contacts with health services,1
+Weight Gain,ProblemsDim,Factors influencing health status and other contacts with health services,1
+Weight Loss,ProblemsDim,Factors influencing health status and other contacts with health services,1
+Human immunodeficiency virus infections,ProblemsDim,,0
+Aids,ProblemsDim,Human immunodeficiency virus infections,1
+HIV,ProblemsDim,Human immunodeficiency virus infections,1
+HIV (Type 2),ProblemsDim,Human immunodeficiency virus infections,1
+HIV Behavior,ProblemsDim,Human immunodeficiency virus infections,1
+HIV/ Aids,ProblemsDim,Human immunodeficiency virus infections,1
+HIV/Aids,ProblemsDim,Human immunodeficiency virus infections,1
+"HIVs, Aids",ProblemsDim,Human immunodeficiency virus infections,1
+Human Immunodeficiency Virus,ProblemsDim,Human immunodeficiency virus infections,1
+Opportunistic Infections,ProblemsDim,Human immunodeficiency virus infections,1
+"Infectious and parasitic diseases, systemic or unspecified sites",ProblemsDim,,0
+Abscess,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Anaplasmosis,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Arthritis/ Arthropathy,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Aspergillosis,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Babesiosis,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Bacteremia,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Bacterial Infection,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Bacterial Infectious Agent,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Botulism,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Candida Auris Infection,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Candidal Infection,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Cerebral Ischemia Infarction,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Chancoid,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Chlamydia,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Chlamydia Trachomatis Infection,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+COVID19,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+COVID19 CONFIRM CASE,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+COVID19 Cough,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+COVID19 Fever,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+COVID19 Infection,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+COVID19 RESPDIS,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+COVID19 Respiratory Illness,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+COVID19 Symptoms,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Cryptosporidiosis,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Cyclosporiasis,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Dengue,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Diphtheria,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Ehrlichiosis,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Epstein-Barr Virus Disease,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Epstein-Barr Virus Infection,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Fistula,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Fungal Infection,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Gastrointestinal System,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Gonococcal Infections,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Gonorrhea,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Haemophilus Influenzae Disease,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Herpes Simplex Infection,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Herpes Zoster,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Infection,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Infections,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Infectious Disease And Sexually Transmitted Diseases,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Infectious Diseases,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Lyme Disease,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Measles,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Meningitis,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Meningococcal Disease,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Mumps,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Opportunistic Infection,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Opportunistic Infections,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Pneumatosis Cystoides,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Pneumocystis,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Rabies,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Respiratory Disease,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Rubella,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Sacroiliitis,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Sarcoidosis,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Sepsis,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+"Septicemia, Sepsis, Sris",ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Sexual Transmitted Infection,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Sexually Transmitted Infection (STI) /Papillomavirus Infection,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Shingles,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Syphilis,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Typhoid,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Varicella-Zoster Infection,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Varicella-Zoster Virus (Vzv),ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Varicella-Zoster Virus Infection,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Viral Disease,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Viral Meningitis,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+Wound Infection,ProblemsDim,"Infectious and parasitic diseases, systemic or unspecified sites",1
+"Injuries, poisonings and toxic effects of drugs",ProblemsDim,,0
+Accidental Puncture Laceration,ProblemsDim,"Injuries, poisonings and toxic effects of drugs",1
+Chest Trauma,ProblemsDim,"Injuries, poisonings and toxic effects of drugs",1
+Falling Injury,ProblemsDim,"Injuries, poisonings and toxic effects of drugs",1
+Head Injury,ProblemsDim,"Injuries, poisonings and toxic effects of drugs",1
+Minor Blunt Head Trauma,ProblemsDim,"Injuries, poisonings and toxic effects of drugs",1
+Poisoning,ProblemsDim,"Injuries, poisonings and toxic effects of drugs",1
+Poisoning By Drugs,ProblemsDim,"Injuries, poisonings and toxic effects of drugs",1
+Trauma,ProblemsDim,"Injuries, poisonings and toxic effects of drugs",1
+"Trauma, Injury",ProblemsDim,"Injuries, poisonings and toxic effects of drugs",1
+Tumor Lysis Syndrome (Tls),ProblemsDim,"Injuries, poisonings and toxic effects of drugs",1
+Mental diseases and disorders,ProblemsDim,,0
+Aggressive Behaviour,ProblemsDim,Mental diseases and disorders,1
+Agitation,ProblemsDim,Mental diseases and disorders,1
+Anorexia,ProblemsDim,Mental diseases and disorders,1
+Anorexia Bulimia,ProblemsDim,Mental diseases and disorders,1
+Anorexia Nervosa,ProblemsDim,Mental diseases and disorders,1
+Anxiety,ProblemsDim,Mental diseases and disorders,1
+Appetite Loss,ProblemsDim,Mental diseases and disorders,1
+Attention Deficit Disorder (ADD),ProblemsDim,Mental diseases and disorders,1
+Attention Deficit Hyperactivity Disorder,ProblemsDim,Mental diseases and disorders,1
+Autism,ProblemsDim,Mental diseases and disorders,1
+Autism And Related Disorder,ProblemsDim,Mental diseases and disorders,1
+Autism Spectrum Disorders (Asd),ProblemsDim,Mental diseases and disorders,1
+Bipolar And Unipolar Depression,ProblemsDim,Mental diseases and disorders,1
+Bipolar Disorder,ProblemsDim,Mental diseases and disorders,1
+Bipolar Disorder/Unipolar Disorder,ProblemsDim,Mental diseases and disorders,1
+Bipolar Disorder/Unipolar Disorder/Depression,ProblemsDim,Mental diseases and disorders,1
+Bulimia Nervosa,ProblemsDim,Mental diseases and disorders,1
+Catatonic Behaviour,ProblemsDim,Mental diseases and disorders,1
+Delirium And Other Psychoses,ProblemsDim,Mental diseases and disorders,1
+Delusion,ProblemsDim,Mental diseases and disorders,1
+Delusional Disorder,ProblemsDim,Mental diseases and disorders,1
+Dementia,ProblemsDim,Mental diseases and disorders,1
+Demoralization And Apathy,ProblemsDim,Mental diseases and disorders,1
+Depression,ProblemsDim,Mental diseases and disorders,1
+"Depression, Dysthymia",ProblemsDim,Mental diseases and disorders,1
+"Depression, Paranoid Disorder",ProblemsDim,Mental diseases and disorders,1
+Diminished Emotions,ProblemsDim,Mental diseases and disorders,1
+Dysthymia,ProblemsDim,Mental diseases and disorders,1
+Dysthymic Disorder,ProblemsDim,Mental diseases and disorders,1
+Eating Disorder,ProblemsDim,Mental diseases and disorders,1
+Euphoria,ProblemsDim,Mental diseases and disorders,1
+Excessive Daytime Sleepiness (Eds),ProblemsDim,Mental diseases and disorders,1
+Feeling Irritable,ProblemsDim,Mental diseases and disorders,1
+Generalized Anxiety Disorder,ProblemsDim,Mental diseases and disorders,1
+Hallucination,ProblemsDim,Mental diseases and disorders,1
+Impulse Control Disorder,ProblemsDim,Mental diseases and disorders,1
+Insomnia,ProblemsDim,Mental diseases and disorders,1
+Intentional Self Harm,ProblemsDim,Mental diseases and disorders,1
+Irritation,ProblemsDim,Mental diseases and disorders,1
+Major Depressive Disorder (Mdd),ProblemsDim,Mental diseases and disorders,1
+Mania,ProblemsDim,Mental diseases and disorders,1
+Mental And Behavioral Disorder,ProblemsDim,Mental diseases and disorders,1
+Mental Health,ProblemsDim,Mental diseases and disorders,1
+Mental Illness,ProblemsDim,Mental diseases and disorders,1
+Mental State Disorder,ProblemsDim,Mental diseases and disorders,1
+Mood Disorders,ProblemsDim,Mental diseases and disorders,1
+Mood Swings,ProblemsDim,Mental diseases and disorders,1
+Narcolepsy,ProblemsDim,Mental diseases and disorders,1
+Nervosa,ProblemsDim,Mental diseases and disorders,1
+Oculomotor Disorders/Ocular Motor Dysfunction,ProblemsDim,Mental diseases and disorders,1
+Overeating,ProblemsDim,Mental diseases and disorders,1
+Personality Disorder,ProblemsDim,Mental diseases and disorders,1
+Personality Disorders,ProblemsDim,Mental diseases and disorders,1
+Psychosis,ProblemsDim,Mental diseases and disorders,1
+Psychosis/Schizophrenia/Bipolar Disorder,ProblemsDim,Mental diseases and disorders,1
+Psychotic Disorders,ProblemsDim,Mental diseases and disorders,1
+Reactive Unspecified Psychosis,ProblemsDim,Mental diseases and disorders,1
+Relaxation And Sleep Therapy,ProblemsDim,Mental diseases and disorders,1
+Schizophrenia,ProblemsDim,Mental diseases and disorders,1
+Sleep Apnea,ProblemsDim,Mental diseases and disorders,1
+Sleep Behavior Disorder,ProblemsDim,Mental diseases and disorders,1
+Sleep Disorder,ProblemsDim,Mental diseases and disorders,1
+Sleep Studies,ProblemsDim,Mental diseases and disorders,1
+Somnolence,ProblemsDim,Mental diseases and disorders,1
+Stress Disorder,ProblemsDim,Mental diseases and disorders,1
+"Wandering, In Disease",ProblemsDim,Mental diseases and disorders,1
+Mental diseases and disorders / Diseases and disorders of the nervous system,ProblemsDim,,0
+Developmental Delay,ProblemsDim,Mental diseases and disorders / Diseases and disorders of the nervous system,1
+Mental Behaviour Disorder,ProblemsDim,Mental diseases and disorders / Diseases and disorders of the nervous system,1
+Neurodevelopmental Disorder,ProblemsDim,Mental diseases and disorders / Diseases and disorders of the nervous system,1
+Pervasive Developmental Disorder,ProblemsDim,Mental diseases and disorders / Diseases and disorders of the nervous system,1
+"Myeloproliferative diseases and disorders, poorly differentiated neoplasms",ProblemsDim,,0
+Myelodysplastic Syndrome (Mds),ProblemsDim,"Myeloproliferative diseases and disorders, poorly differentiated neoplasms",1
+Newborns and other neonates with conditions originating in perinatal period,ProblemsDim,,0
+Arteriovenous Malformations,ProblemsDim,Newborns and other neonates with conditions originating in perinatal period,1
+Autosomal Deletion Syndrome,ProblemsDim,Newborns and other neonates with conditions originating in perinatal period,1
+Chromosomal Anomalies,ProblemsDim,Newborns and other neonates with conditions originating in perinatal period,1
+Cleft Palate,ProblemsDim,Newborns and other neonates with conditions originating in perinatal period,1
+Congenital Anomalies,ProblemsDim,Newborns and other neonates with conditions originating in perinatal period,1
+Congenital Disorders,ProblemsDim,Newborns and other neonates with conditions originating in perinatal period,1
+Congenital Syphilis,ProblemsDim,Newborns and other neonates with conditions originating in perinatal period,1
+Down Syndrome,ProblemsDim,Newborns and other neonates with conditions originating in perinatal period,1
+Genetic Diseases,ProblemsDim,Newborns and other neonates with conditions originating in perinatal period,1
+Neonatal Disorder,ProblemsDim,Newborns and other neonates with conditions originating in perinatal period,1
+Newborn,ProblemsDim,Newborns and other neonates with conditions originating in perinatal period,1
+Newborn Weight,ProblemsDim,Newborns and other neonates with conditions originating in perinatal period,1
+"Pregnancy, childbirth and the puerperium",ProblemsDim,,0
+Abortion Complicated By Shock,ProblemsDim,"Pregnancy, childbirth and the puerperium",1
+Abortion Related Shock,ProblemsDim,"Pregnancy, childbirth and the puerperium",1
+Atypical Pregnancy Situations,ProblemsDim,"Pregnancy, childbirth and the puerperium",1
+Birth Related Problems,ProblemsDim,"Pregnancy, childbirth and the puerperium",1
+Complication Of Pregnancy,ProblemsDim,"Pregnancy, childbirth and the puerperium",1
+Complications Of Pregnancy,ProblemsDim,"Pregnancy, childbirth and the puerperium",1
+Delivery,ProblemsDim,"Pregnancy, childbirth and the puerperium",1
+Ectopic Pregnancy,ProblemsDim,"Pregnancy, childbirth and the puerperium",1
+Embolism In Obstetrics And Gynecology,ProblemsDim,"Pregnancy, childbirth and the puerperium",1
+Follow-Up Visit In Case Of Preterm Premature Rupture Of Membranes (Pprom) Complicated Deliveries,ProblemsDim,"Pregnancy, childbirth and the puerperium",1
+Gestational Diabetes Mellitus,ProblemsDim,"Pregnancy, childbirth and the puerperium",1
+Gestational Hypertension,ProblemsDim,"Pregnancy, childbirth and the puerperium",1
+Gestational Sac Absent,ProblemsDim,"Pregnancy, childbirth and the puerperium",1
+Hellp Syndrome,ProblemsDim,"Pregnancy, childbirth and the puerperium",1
+Live Birth / Outcome Of Delivery,ProblemsDim,"Pregnancy, childbirth and the puerperium",1
+Live Birth Or Delivery,ProblemsDim,"Pregnancy, childbirth and the puerperium",1
+Miscarriage,ProblemsDim,"Pregnancy, childbirth and the puerperium",1
+Miscarriage Complications,ProblemsDim,"Pregnancy, childbirth and the puerperium",1
+Multigravida/Pregnancy,ProblemsDim,"Pregnancy, childbirth and the puerperium",1
+Multiple Births,ProblemsDim,"Pregnancy, childbirth and the puerperium",1
+Multiple Pregnancies,ProblemsDim,"Pregnancy, childbirth and the puerperium",1
+Non Live Birth,ProblemsDim,"Pregnancy, childbirth and the puerperium",1
+Non-Live Births / Complications Of Pregnancy Termination,ProblemsDim,"Pregnancy, childbirth and the puerperium",1
+Obstetric And Gynecological Encounters,ProblemsDim,"Pregnancy, childbirth and the puerperium",1
+Obstetric Trauma,ProblemsDim,"Pregnancy, childbirth and the puerperium",1
+Ppc (Perinatal Periods Of Care) Live Births,ProblemsDim,"Pregnancy, childbirth and the puerperium",1
+Pre Eclampsia,ProblemsDim,"Pregnancy, childbirth and the puerperium",1
+Pregnancy,ProblemsDim,"Pregnancy, childbirth and the puerperium",1
+Pregnancy And Childbirth Complications,ProblemsDim,"Pregnancy, childbirth and the puerperium",1
+Pregnancy Circumstances And Planning,ProblemsDim,"Pregnancy, childbirth and the puerperium",1
+Pregnancy Complication,ProblemsDim,"Pregnancy, childbirth and the puerperium",1
+Pregnancy Complications,ProblemsDim,"Pregnancy, childbirth and the puerperium",1
+Pregnancy Diagnosis,ProblemsDim,"Pregnancy, childbirth and the puerperium",1
+Pregnancy Related Conditions,ProblemsDim,"Pregnancy, childbirth and the puerperium",1
+Pregnancy-Related Complications,ProblemsDim,"Pregnancy, childbirth and the puerperium",1
+Pregnancy-Related Complications/Live Birth,ProblemsDim,"Pregnancy, childbirth and the puerperium",1
+Prenatal Bundled Services,ProblemsDim,"Pregnancy, childbirth and the puerperium",1
+Preterm Premature Rupture Of Membranes (Pprom) Complicated Deliveries,ProblemsDim,"Pregnancy, childbirth and the puerperium",1
+Preterm Premature Rupture Of Membranes (Pprom) Complicated Deliveries/Miscarriage,ProblemsDim,"Pregnancy, childbirth and the puerperium",1
+Primigravida,ProblemsDim,"Pregnancy, childbirth and the puerperium",1
+"Pulmonary Embolism, Abortion",ProblemsDim,"Pregnancy, childbirth and the puerperium",1
+Reproductive Health Care,ProblemsDim,"Pregnancy, childbirth and the puerperium",1
+Respiratory Disease,ProblemsDim,"Pregnancy, childbirth and the puerperium",1
+Varied Pregnancy Presentations,ProblemsDim,"Pregnancy, childbirth and the puerperium",1
+Surgery,ProceduresDim,,0
+Cardiac Surgery,ProceduresDim,Surgery,1
+Coronary bypass with chest & donor incisions,ProceduresDim,Cardiac Surgery,2
+Coronary bypass graft with chest incision,ProceduresDim,Cardiac Surgery,2
+Carotid endarterectomy,ProceduresDim,Cardiac Surgery,2
+Heart transplant,ProceduresDim,Cardiac Surgery,2
+Pacemaker surgery,ProceduresDim,Cardiac Surgery,2
+General Surgery,ProceduresDim,Surgery,1
+Appendix surgery,ProceduresDim,General Surgery,2
+"Bile duct, liver or pancreatic surgery",ProceduresDim,General Surgery,2
+Breast surgery,ProceduresDim,General Surgery,2
+Gallbladder surgery,ProceduresDim,General Surgery,2
+Colon surgery,ProceduresDim,General Surgery,2
+Gastric surgery,ProceduresDim,General Surgery,2
+Herniorrhaphy,ProceduresDim,General Surgery,2
+Liver transplant,ProceduresDim,General Surgery,2
+Rectal surgery,ProceduresDim,General Surgery,2
+Small bowel surgery,ProceduresDim,General Surgery,2
+Spleen surgery,ProceduresDim,General Surgery,2
+Thyroid and/or parathyroid surgery,ProceduresDim,General Surgery,2
+Exploratory laparotomy,ProceduresDim,General Surgery,2
+Gynecological Surgery,ProceduresDim,Surgery,1
+Cesarean section,ProceduresDim,Gynecological Surgery,2
+Abdominal hysterectomy,ProceduresDim,Gynecological Surgery,2
+Ovarian surgery,ProceduresDim,Gynecological Surgery,2
+Vaginal hysterectomy,ProceduresDim,Gynecological Surgery,2
+Neck surgery,ProceduresDim,Surgery,1
+Neurosurgery,ProceduresDim,Surgery,1
+Craniotomy,ProceduresDim,Neurosurgery,2
+Spinal fusion,ProceduresDim,Neurosurgery,2
+Laminectomy,ProceduresDim,Neurosurgery,2
+Ventricular shunt,ProceduresDim,Neurosurgery,2
+Orthopedic Surgery,ProceduresDim,Surgery,1
+Limb amputation,ProceduresDim,Orthopedic Surgery,2
+Open reduction of fracture,ProceduresDim,Orthopedic Surgery,2
+Hip prosthesis,ProceduresDim,Orthopedic Surgery,2
+Knee prosthesis,ProceduresDim,Orthopedic Surgery,2
+Thoracic Surgery,ProceduresDim,Surgery,1
+Thoracic surgery,ProceduresDim,Thoracic Surgery,2
+Urological Surgery,ProceduresDim,Surgery,1
+Kidney transplant,ProceduresDim,Urological Surgery,2
+Kidney surgery,ProceduresDim,Urological Surgery,2
+Prostate surgery,ProceduresDim,Urological Surgery,2
+Vascular Surgery,ProceduresDim,Surgery,1
+Abdominal aortic aneurysm repair,ProceduresDim,Vascular Surgery,2
+AV shunt for dialysis,ProceduresDim,Vascular Surgery,2
+Peripheral vascular bypass surgery,ProceduresDim,Vascular Surgery,2
+Vital Signs,VitalSignDim,,0
+BMI,VitalSignDim,Vital Signs,1
+Height,VitalSignDim,Vital Signs,1
+Temperature,VitalSignDim,Vital Signs,1
+Head Circumference,VitalSignDim,Vital Signs,1
+Blood Pressure,VitalSignDim,Vital Signs,1
+Diastolic Blood Pressure,VitalSignDim,Blood Pressure,2
+Systolic Blood Pressure,VitalSignDim,Blood Pressure,2
+Pulse Oximetry,VitalSignDim,Vital Signs,1

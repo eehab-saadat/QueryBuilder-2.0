@@ -1,0 +1,3198 @@
+"sub_disease_name","section_name"
+Antibiotics,PatientMedicationDim
+Medications,PatientMedicationDim
+Dementia Medications,PatientMedicationDim
+Diabetes Medications without Metformin,PatientMedicationDim
+Glucagon-like peptide-1,PatientMedicationDim
+Incretin Hormones,PatientMedicationDim
+Anticonvulsants,PatientMedicationDim
+ADHD Medications,PatientMedicationDim
+Antipsychotics,PatientMedicationDim
+Typical/Atypical Antipsychotics,PatientMedicationDim
+Osteoporosis Medication,PatientMedicationDim
+Antirheumatics,PatientMedicationDim
+Insulins,PatientMedicationDim
+Statins,PatientMedicationDim
+Corticosteroids,PatientMedicationDim
+Steroids,PatientMedicationDim
+ACEI And ARBs,PatientMedicationDim
+Pitavastatin,PatientMedicationDim
+NSAIDs,PatientMedicationDim
+Xanthines/Corticosteroids,PatientMedicationDim
+Diuretics,PatientMedicationDim
+Immunizations for bacterial infections,PatientMedicationDim
+Pneumococcal Vaccine,PatientMedicationDim
+Systemic Corticosteroids,PatientMedicationDim
+Janumet,PatientMedicationDim
+Metformin,PatientMedicationDim
+Metformin Combination Therapy,PatientMedicationDim
+Sitagliptin,PatientMedicationDim
+Antiasthmatics,PatientMedicationDim
+Antileukotrienes,PatientMedicationDim
+Corticosteriods,PatientMedicationDim
+Simvastatin,PatientMedicationDim
+Lovastatin,PatientMedicationDim
+Ertugliflozin,PatientMedicationDim
+Segluromet,PatientMedicationDim
+Beta Blockers,PatientMedicationDim
+Contraceptives,PatientMedicationDim
+High Risk Medications,PatientMedicationDim
+Urinary Antispasmodics,PatientMedicationDim
+Antiplatelets,PatientMedicationDim
+Aspirin and clopidogrel,PatientMedicationDim
+Anxiolytics/Sedatives/Hypnotics,PatientMedicationDim
+Nonbenzodiazepine Hypnotics,PatientMedicationDim
+Antispasmodics,PatientMedicationDim
+Rosuvastatin,PatientMedicationDim
+Asthma Exclusions Medications,PatientMedicationDim
+Antihyperlipidemics,PatientMedicationDim
+Ezetimibe,PatientMedicationDim
+Atorvastatin,PatientMedicationDim
+Alcohol Use Disorder Treatment Medications,PatientMedicationDim
+Opioid Use Disorder Treatment Medications,PatientMedicationDim
+Doxepin,PatientMedicationDim
+Bronchodilators,PatientMedicationDim
+Inhaling Bronchodilators,PatientMedicationDim
+Long-acting bronchodilator inhalers,PatientMedicationDim
+Antiarrhythmics,PatientMedicationDim
+Digoxin,PatientMedicationDim
+Alogliptin,PatientMedicationDim
+OTC Medications,PatientMedicationDim
+Antiasthmatics Without Leukotrine Modifiers,PatientMedicationDim
+Antiepileptic Agents,PatientMedicationDim
+Valproate,PatientMedicationDim
+ACE Inhibitors,PatientMedicationDim
+ACEI or ARB Diuretics,PatientMedicationDim
+Estrogen Agonists,PatientMedicationDim
+Glyburide,PatientMedicationDim
+ARB Inhibitors,PatientMedicationDim
+Basic Metabolic Panel,ResultsDim
+LFTs,ResultsDim
+CT / MRI Abd Pelvis,ResultsDim
+Imaging,ResultsDim
+CEA Test (Carcinoembryonic Antigen),ResultsDim
+Cancer Screening,ResultsDim
+Leukemia,ResultsDim
+RFTs,ResultsDim
+estimated glomerular filtration rate (eGFR) EGFR,ResultsDim
+Diabetes Screening,ResultsDim
+Glycemic Level,ResultsDim
+HbA6c Tests,ResultsDim
+Chlamydia Screening,ResultsDim
+Pregnancy test,ResultsDim
+Genetic Testing,ResultsDim
+Electrolyte Test Electrolytes/ Sodium,ResultsDim
+Sweat Chloride Test,ResultsDim
+Biochemical Tests,ResultsDim
+Natriuretic peptide (BNP) Test,ResultsDim
+Vitamin D Level,ResultsDim
+Vitamin Levels,ResultsDim
+Vitamin panel,ResultsDim
+FPC Rh,ResultsDim
+HCV Antibody Test,ResultsDim
+Hapatitis Serological Marker,ResultsDim
+LAB Result Positive,ResultsDim
+Lab Result,ResultsDim
+Free T4,ResultsDim
+Free Thyroid T4,ResultsDim
+Thyroid Function Tests,ResultsDim
+CBC with Blast cells,ResultsDim
+Peripheral Blood Bone Marrow (BM) Blasts,ResultsDim
+Peripheral blood smears,ResultsDim
+Blast cells,ResultsDim
+Blasts,ResultsDim
+Coagulation Profile,ResultsDim
+Optic Disc Examination for Structural Abnormality,ResultsDim
+Thrombin time,ResultsDim
+HbA1c Level Less Than 7,ResultsDim
+CBC,ResultsDim
+Retic Count,ResultsDim
+Reticulocytes,ResultsDim
+Dipstick,ResultsDim
+HIV 2 Ag Ab Test,ResultsDim
+HIV Testing/ HIV Screening,ResultsDim
+Gamma Glutamyl Transferase,ResultsDim
+Creatine Kinase,ResultsDim
+Enzyme Test/ MS ENZYME,ResultsDim
+Sodium,ResultsDim
+Arterial Blood Gas (ABGs),ResultsDim
+Bicarbonate,ResultsDim
+Biocarbonate,ResultsDim
+Casts Urine,ResultsDim
+Urine Analysis,ResultsDim
+HgbS  Quantitation,ResultsDim
+Urinary Epithelial Cells,ResultsDim
+Urine Nitrite Test,ResultsDim
+Nephropathy Screening Test,ResultsDim
+Prostate Cancer Screening,ResultsDim
+Prostate Specific Antigen Test,ResultsDim
+Serum Sodium,ResultsDim
+Electrolyte Test Electrolyte/ Chloride,ResultsDim
+Serum Chloride,ResultsDim
+Serum Calcium,ResultsDim
+Serum Creatinine,ResultsDim
+Serum Osmolality,ResultsDim
+Serum lipase,ResultsDim
+Electrolyte Test Electrolytes/ Magnesium,ResultsDim
+Magnesium in Blood,ResultsDim
+Comprehensive Metabolic Panel,ResultsDim
+Serum Protein,ResultsDim
+Alkaline Phosphatase  CBC ALT AST,ResultsDim
+Aspartateaminotransferase    (AST),ResultsDim
+Iron Studies,ResultsDim
+Total Iron Binding Capacity,ResultsDim
+Vitamin B12 Level,ResultsDim
+Blood Glucose,ResultsDim
+Hypothyroidism TPOAb,ResultsDim
+Thyroid Function Test,ResultsDim
+Carcinoembryonic Antigen (CEA) assay,ResultsDim
+Digoxin Level,ResultsDim
+ALT Serum,ResultsDim
+ANA,ResultsDim
+Autoimmune panel test,ResultsDim
+Serum ANA,ResultsDim
+Anti GAD Antibody Test,ResultsDim
+PAP Test,ResultsDim
+T1DM Serological Markers,ResultsDim
+CD4 Count,ResultsDim
+CD7  Count,ResultsDim
+Immune system Testing,ResultsDim
+Schistocytes Presence,ResultsDim
+Serum Transferrin,ResultsDim
+Thyroglobulin/ Throid peroxidase (Antibody),ResultsDim
+Thyroid Screening/ Antibody Testing/ Thyroid Function Tests,ResultsDim
+COPD Oxygen Saturation,ResultsDim
+Oxygen saturation,ResultsDim
+Transferrin Receptor Testing,ResultsDim
+HIV 1 2 Ag Ab Test,ResultsDim
+HIV RNA Viral Load,ResultsDim
+Occult Blood Stool Test,ResultsDim
+Stool Culture,ResultsDim
+Serum Iron,ResultsDim
+RFT GFR,ResultsDim
+Creatinine Clearance,ResultsDim
+Autoimmune Disease Blood Tests,ResultsDim
+Dietary Recommendations,ResultsDim
+Human Leukocyte Antigen HLA B27,ResultsDim
+Free T3,ResultsDim
+Free Thyroid T3,ResultsDim
+Thyroid Stimulating Hormone (TSH),ResultsDim
+Spinal Imaging,ResultsDim
+Parathyroid Hormone Test (PTH),ResultsDim
+Pyruvate Kinase Test,ResultsDim
+Ketones Test,ResultsDim
+Ketones Test Blood,ResultsDim
+Urinary pH,ResultsDim
+Adult Depression screening,ResultsDim
+Depression Screening,ResultsDim
+Mental Health Screening,ResultsDim
+Urine Analysis For Crystals,ResultsDim
+MCV blood test,ResultsDim
+Peripheral blood smears =RDI,ResultsDim
+G6PD / Enzyme Test,ResultsDim
+Glucose-7-phosphate dehydrogenase Test,ResultsDim
+Cardiovascular  Assessment,ResultsDim
+Ejection Fraction (EF),ResultsDim
+Left Ventricular Ejection Fraction (LVEF),ResultsDim
+Left Ventricular Ejection Fraction LVEF Assessment,ResultsDim
+Urine Culture,ResultsDim
+Plasma Serum Bilirubin Total (TSB),ResultsDim
+Echocardiography,ResultsDim
+GFR SC Urea AST ALT Bilirubin,ResultsDim
+Urea Level,ResultsDim
+Anti-intrinsic Factor Antibody Test,ResultsDim
+Intrinsic Factor Antibodies Test,ResultsDim
+Test for Pernicious Anemia,ResultsDim
+Arterial Blood Gas (ABGs)/ Pulse Oximetry,ResultsDim
+PaO2,ResultsDim
+SaO2,ResultsDim
+SaO2 (Oxygen Saturation),ResultsDim
+aretrial oxygen saturation,ResultsDim
+Antibody testing,ResultsDim
+Blood Typing,ResultsDim
+Diagnostic Testing,ResultsDim
+Hepatic Iron,ResultsDim
+Rh PPC,ResultsDim
+Rh Status Baby,ResultsDim
+Rh Status Mother,ResultsDim
+RhD Test,ResultsDim
+Hb electrophoresis,ResultsDim
+HbA,ResultsDim
+Hemoglobin  A,ResultsDim
+Babesia Diagnostic Test,ResultsDim
+Babesia Microscopic Examination,ResultsDim
+Specimen from Urine,ResultsDim
+Brucella Species Detection,ResultsDim
+Brucella Species Detection by nuclic acid,ResultsDim
+Antibody Test,ResultsDim
+FPC Obstetric Panel,ResultsDim
+Herpes Simplex Antibody Detection,ResultsDim
+Obstetric testing,ResultsDim
+Prenatal Ultrasound,ResultsDim
+Serum Clonazepam,ResultsDim
+Sexually Transmitted Viral Disease Herpes Simplex Detection,ResultsDim
+TORCH Screening,ResultsDim
+Vancomycin Levels,ResultsDim
+Viral Test TORCH Screening,ResultsDim
+Disease Diagnostics,ResultsDim
+Human Immunodeficiency Virus HIV Tests,ResultsDim
+Infection Test,ResultsDim
+Viral Loads,ResultsDim
+Bacterial Identification,ResultsDim
+Gramstain,ResultsDim
+Infectious Diseases,ResultsDim
+Lead Screening,ResultsDim
+Lead levels,ResultsDim
+Toxicology Screening Panels,ResultsDim
+Fecal Occult Blood Test (FOBT) 17,ResultsDim
+Lifestyle Reccomendations,ResultsDim
+Helmet Cells,ResultsDim
+Hematocrit (Hct),ResultsDim
+Platelet Count,ResultsDim
+Platelets/ Platelet count,ResultsDim
+Complete Blood Count,ResultsDim
+Haemoglobin,ResultsDim
+Chlamydia Tests,ResultsDim
+STDs Screening / Sexual Health Screening,ResultsDim
+Consultant Report,ResultsDim
+Sexually Active Women Identification Tests,ResultsDim
+Sputum Stain,ResultsDim
+HIV 1 3 Ag Ab Test,ResultsDim
+Anti HCV,ResultsDim
+HBV Serum Fibrosis,ResultsDim
+Hepatitis C Antibody Test,ResultsDim
+Hepatitis Serological Marker,ResultsDim
+Colorectal Cancer Screening,ResultsDim
+Fecal Occult Blood Test (FOBT),ResultsDim
+Albumin,ResultsDim
+Serum Albumin,ResultsDim
+Protein in Urine,ResultsDim
+Quantitative Urine Albumin Test,ResultsDim
+Fasting Blood Glucose,ResultsDim
+Glucose HbA1c Tests,ResultsDim
+AST ALT Bilirubin,ResultsDim
+Complete Lipid Panel Result,ResultsDim
+HDL High Density Lipoprotein Low Density Lipoprotein LDL,ResultsDim
+High Density Lipoprotein HDL,ResultsDim
+Lipid Panel,ResultsDim
+Lipid Profile/ lipid Panel,ResultsDim
+Triglycerides Lab Test,ResultsDim
+Random Blood Glucose,ResultsDim
+Tumor marker,ResultsDim
+Biomarkers Testing/ Detection,ResultsDim
+Breast Cancer Receptors Test,ResultsDim
+ER Or PR Test,ResultsDim
+Cervical Cytology,ResultsDim
+Cervical Smear/ Cervical Cytology,ResultsDim
+Cervical cancer screening,ResultsDim
+Therapeutic Drug Monitoring,ResultsDim
+cardiac glycoside Level,ResultsDim
+Cardiovascular Assessment,ResultsDim
+Anticonvulsant Level,ResultsDim
+Phenytoin  Level,ResultsDim
+Anticonvulsant Level/ Barbiturate Level,ResultsDim
+Phenobarbital Level,ResultsDim
+Primidone Level,ResultsDim
+WBC COUNT,ResultsDim
+Babesia ImmunoBlots IgG Ab,ResultsDim
+Cyclospora Detection,ResultsDim
+Fungal test/ Fungal Detection Test,ResultsDim
+Fungus Culture,ResultsDim
+HBsAg,ResultsDim
+Hep A Nucleic Acid,ResultsDim
+HepA antibodies (IgM or IgG) Concentration,ResultsDim
+Hepatitis A Qualitative Test,ResultsDim
+Hepatitis B HBsAg,ResultsDim
+Hepatitis B Test,ResultsDim
+HBA2 Gene Mutations,ResultsDim
+HBA4 Gene Mutations,ResultsDim
+HBA6 Gene Mutations,ResultsDim
+HBA7 Gene Mutations,ResultsDim
+HCV RNA,ResultsDim
+Hepatitis C,ResultsDim
+Hepatitis C Qualitative Test,ResultsDim
+Hepatitis C Quantitative Test,ResultsDim
+Antibiotic Cephalosporin Sensitivity Testing,ResultsDim
+Antibiotic susceptibility testing,ResultsDim
+CephR Cefotaxime Sensitivity Testing,ResultsDim
+Lab Tests During Preg,ResultsDim
+STD,ResultsDim
+Screening For Syphilis,ResultsDim
+Syphilis Serology,ResultsDim
+Positive Finding,ResultsDim
+Urine Volume 6hr,ResultsDim
+Antibiotic Carbapenem Resistance Study,ResultsDim
+Carbapenem-Resistant Enterobacterales CPCRE Culture,ResultsDim
+Anthrax Tests Nucleic Acid,ResultsDim
+CDiff toxigenic culture,ResultsDim
+Clostridium Difficile CDiff ToxinA ToxinB,ResultsDim
+Clostridium difficile Detection Test,ResultsDim
+Anti HBs,ResultsDim
+Urine Glucose,ResultsDim
+Alprazolam Levels,ResultsDim
+Benzodiazepine,ResultsDim
+Amikacin,ResultsDim
+Serum Antibiotic Aminogylcosides,ResultsDim
+Assessments,ResultsDim
+C Reactive Protein Quantitation,ResultsDim
+Inflammatory Marker Assessment,ResultsDim
+Creatinine,ResultsDim
+Creatinine Serum,ResultsDim
+Renal clearance creatinine,ResultsDim
+Glucose-6-phosphate dehydrogenase Test,ResultsDim
+Lactic Acidosis,ResultsDim
+Metabolic acidosis,ResultsDim
+MPM Blood Urea Nitrogen,ResultsDim
+Anti HBc,ResultsDim
+Diagnostic Testing Hepatitis Serolo+369:932gical Marker,ResultsDim
+HCV RIBA (Recombinant Immunoblot Assay),ResultsDim
+Congenital Syphilis Tests,ResultsDim
+Specimen,ResultsDim
+Specimen from NonBlood,ResultsDim
+Specimen from Lung tissue,ResultsDim
+Pesticide Related illness test,ResultsDim
+Blood Urine,ResultsDim
+Microorganisms Detection in Urine,ResultsDim
+Urinalysis,ResultsDim
+Albumin Test,ResultsDim
+Albuminuria,ResultsDim
+Microalbumin,ResultsDim
+Microalbumin Test,ResultsDim
+Microalbuminuria,ResultsDim
+Microalbuminuria Test,ResultsDim
+Nephropathy Scr Tests,ResultsDim
+Morphine  Level,ResultsDim
+Opioid Level,ResultsDim
+Chancroid Tests,ResultsDim
+HBV DNA,ResultsDim
+HBA5 Gene Mutations,ResultsDim
+HCV RNA & PCR,ResultsDim
+Fecal Occult Blood Test (FOBT) 15,ResultsDim
+Typhoid Detection/ Salmonella paratyphi Detection,ResultsDim
+Group A Strep Detection,ResultsDim
+CBC with Peripheral smear,ResultsDim
+Elliptocytes,ResultsDim
+Microscopy,ResultsDim
+Squamous Cell Detection,ResultsDim
+Hematology,ResultsDim
+Osmotic Fragility,ResultsDim
+LDL-C  Level,ResultsDim
+LDL-C (Low-Density Lipoprotein Cholesterol),ResultsDim
+Lipid Profile,ResultsDim
+Low Density Lipoprotein LDL  Level,ResultsDim
+Tobacco Use History,ResultsDim
+Anti HBc IgM,ResultsDim
+Anthrax Culture,ResultsDim
+Anthrax Detection Test,ResultsDim
+Anthrax Tests Culture,ResultsDim
+Clostridium botulinum Detection,ResultsDim
+Clostridium botulinum Toxin Detection,ResultsDim
+Cryptosporidiosis Tests,ResultsDim
+Report,ResultsDim
+Oxygen Partial Pressure (PaO2),ResultsDim
+pH,ResultsDim
+pH gases,ResultsDim
+g Anti Jo1 Antibody Test,ResultsDim
+Gonorrhea Tests Nucleic Acid,ResultsDim
+High Virulence Bacteria Present,ResultsDim
+Nucleic Acid Amplification Test (NAAT),ResultsDim
+Toxoplasma Antibody Detection,ResultsDim
+Toxoplasma gondii Detection,ResultsDim
+Typhoid Detection/ Salmonella typhi Detection,ResultsDim
+Molecular Diagnostics,ResultsDim
+Molecular Testing,ResultsDim
+Breast Cancer Stage 1C to IIIC,ResultsDim
+Breast Cancer Staging,ResultsDim
+Cancer Staging,ResultsDim
+HbA1c Laboratory Test,ResultsDim
+HbA4c Test,ResultsDim
+HIV 1 Ag Ab Test,ResultsDim
+Specimen from Blood,ResultsDim
+Specimen from Sputum,ResultsDim
+Electrolytes,ResultsDim
+aPTT,ResultsDim
+Total Cholesterol Lab Test,ResultsDim
+WBC Count In Urine,ResultsDim
+RBC Count,ResultsDim
+Leukocyte Esterase Nitrate Urinalysis,ResultsDim
+Serology Test for Measles,ResultsDim
+HBA8 Gene Mutations,ResultsDim
+HDV RNA,ResultsDim
+Infection Test Neutrophils,ResultsDim
+Neutrophils,ResultsDim
+PMN Cell  Count,ResultsDim
+Specimen from Pleural Fluid,ResultsDim
+Urine Urobilinogen,ResultsDim
+Specimen from Endotracheala spirate,ResultsDim
+Estimated GFR Lab Test,ResultsDim
+"PT, PTT",ResultsDim
+Ketones Test Urine,ResultsDim
+Ketonuria,ResultsDim
+Urinary Ketones,ResultsDim
+Bilirubin Total Quant,ResultsDim
+Fecal Occult Blood Test (FOBT) 14,ResultsDim
+Chronic Hepatitis B Necroinflammation,ResultsDim
+Hepatic Testing,ResultsDim
+Liver Disease,ResultsDim
+Oral Glucose Tolerance Test (OGTT),ResultsDim
+Urine Microalbumin Test,ResultsDim
+LDL  Level,ResultsDim
+PEEP,ResultsDim
+Spirometry,ResultsDim
+Uric Acid Test,ResultsDim
+Hydrocodone   Level,ResultsDim
+Oxycodone   Level,ResultsDim
+Alkaline Phosphatase  (ALP),ResultsDim
+Electrolyte Test Electrolytes,ResultsDim
+Electrolyte Test Electrolytes/ Potassium,ResultsDim
+Potassium,ResultsDim
+Serum potassium,ResultsDim
+HBA16 Gene Mutations,ResultsDim
+Synovial Fluid Analysis,ResultsDim
+Synovial Fluid PCR for Bburgdorferi,ResultsDim
+Blood Cancer,ResultsDim
+Urine Volume Test,ResultsDim
+Ehrlichiosis Detection,ResultsDim
+Urinary Antigen Test (UAT),ResultsDim
+CephR Ceftazidime Sensitivity Testing,ResultsDim
+Cytomegalovirus Antibody Detection,ResultsDim
+Cytomegalovirus Detection,ResultsDim
+Human Papilloma Virus (HPV),ResultsDim
+Anti HDV Total,ResultsDim
+Disease Screening of Brain,ResultsDim
+Meningococcal Disease Screening,ResultsDim
+meningococcal Detection,ResultsDim
+POS MRSA Isolates,ResultsDim
+Rubella Antibody Detection,ResultsDim
+Rubella Detection,ResultsDim
+Fecal Occult Blood Test (FOBT) 16,ResultsDim
+IgG4 Quantitation,ResultsDim
+IgM Quantitation,ResultsDim
+Immunoglobulin Panel,ResultsDim
+MDRO Detection,ResultsDim
+MRSA Detection,ResultsDim
+Electrolyte Test Electrolytes/ Phosphate,ResultsDim
+Phosphate serum,ResultsDim
+Phosphorus,ResultsDim
+Toxicology Testing,ResultsDim
+LDLC Lab Test,ResultsDim
+CNS Stimulants,PatientMedicationDim
+Kidney Management,ProceduresDim
+Cardiovascular Procedures,ProceduresDim
+Patient Care Management,ProceduresDim
+Anesthesia,ProceduresDim
+Surgical Procedures,ProceduresDim
+Cardiac Surgery,ProceduresDim
+Surgery,ProceduresDim
+Diagnostic Imaging and Endoscopy,ProceduresDim
+Medical procedure Complication,ProceduresDim
+Reproductive Health Assessment,ProceduresDim
+Laminectomy,ProceduresDim
+Neurosurgery,ProceduresDim
+ENT Procedures,ProceduresDim
+Phenytoin,PatientMedicationDim
+Canagliflozin,PatientMedicationDim
+Invokamet,PatientMedicationDim
+Antibiotic Aminoglycoside test,ResultsDim
+Gentamicin,ResultsDim
+Antibiotic Level,ResultsDim
+Tobramycin Levels,ResultsDim
+APC Resistance Test,ResultsDim
+Coagulation test,ResultsDim
+Urine Albumin Creatinine Ratio Test,ResultsDim
+Hematuria,ResultsDim
+Coccidioidomycosis  Detection,ResultsDim
+Coccidioidomycosis Tests,ResultsDim
+HAV IgM,ResultsDim
+HepA IgM,ResultsDim
+HepA antibodies (IgM or IgG) Detection,ResultsDim
+Hepatitis A Quantitative Test,ResultsDim
+Hepatitis B HBeAb,ResultsDim
+Hepatitis B HBeAg,ResultsDim
+Diagnostic Testing for Active TB,ResultsDim
+Antibiotic Penicillin Sensitivity Testing,ResultsDim
+CephR Ceftriaxone Sensitivity Testing,ResultsDim
+Carbamazepine Level,ResultsDim
+Enzyme Test/ MS ENZYME. CARDIAC ENZYME,ResultsDim
+Lactate Dehydrogenase,ResultsDim
+Lactate Test,ResultsDim
+Metabolics investigation,ResultsDim
+Gonorrhea Tests NeisseriaGon Culture,ResultsDim
+Screening for Gonorrhea,ResultsDim
+Rabies Antibody Detection,ResultsDim
+Rabies Detection,ResultsDim
+Rabies Tests Antibody,ResultsDim
+Rabies Tests Antibody Serum,ResultsDim
+Referral for Depression Screening Adult,ResultsDim
+Haemophilus influenzae Detection,ResultsDim
+HBA15 Gene Mutations,ResultsDim
+Synovial Fluid Gram Stain,ResultsDim
+HBA12 Gene Mutations,ResultsDim
+Synovial Fluid Analysis For PMN Count,ResultsDim
+Cefuroxime Testing,ResultsDim
+Sputum  Culture,ResultsDim
+Sputum Culture,ResultsDim
+Sputum Examination,ResultsDim
+Chlamydia Sp Culture,ResultsDim
+Chlamydia Trachomatis Ag dia,ResultsDim
+Diphtheria Detection,ResultsDim
+Neutrophils Dysplastic,ResultsDim
+Throat or Nasopharyngeal Swab and Culture,ResultsDim
+Bilirubin Mol,ResultsDim
+Bilirubin Quantitation,ResultsDim
+HBA9 Gene Mutations,ResultsDim
+Synovial Fluid Analysis For Color,ResultsDim
+Erythocyte CD 60  Detection,ResultsDim
+Erythropoietin test,ResultsDim
+Blood Iron Studies,ResultsDim
+Serum Ferritin Level,ResultsDim
+RBC & Folate Level,ResultsDim
+RBC Folate level,ResultsDim
+LDH Activity,ResultsDim
+LDH Test / Enzyme Test,ResultsDim
+Chemotherpeutic Agent test/ antineoplastic agent test,ResultsDim
+Methotrexate Serum Test (MTHX),ResultsDim
+Phenytoin Level,ResultsDim
+Bronchodilators/ Methylxanthine,ResultsDim
+Theophylline Levels,ResultsDim
+Valproate Levels,ResultsDim
+Valproic Acid  Level,ResultsDim
+Valproic Acid Level,ResultsDim
+HBA13 Gene Mutations,ResultsDim
+Synovial Fluid Analysis For Viscosity,ResultsDim
+Cyclosporinelevel Level,ResultsDim
+Immunosuppressant levels,ResultsDim
+Glucose Urine,ResultsDim
+Serum Amikacin,ResultsDim
+Serum Aminogylcosides,ResultsDim
+Anaplasmosis Tests,ResultsDim
+Candida Antibodies Detection,ResultsDim
+Candida Panel,ResultsDim
+Cephalothin Sensitivity Testing,ResultsDim
+Legionella Detection,ResultsDim
+Legionella Immunofluorescence (IF) Stain,ResultsDim
+Beta-2 glycoprotein 1 antibody tests,ResultsDim
+Beta2 GLY1 IgG,ResultsDim
+Beta-2 glycoprotein 2 antibody tests,ResultsDim
+Beta2 GLYC1 IgM,ResultsDim
+Phenobarbital  Level,ResultsDim
+AST ALT,ResultsDim
+Alanine Transaminase (ALT),ResultsDim
+Alanineaminotransferase (ALT) test,ResultsDim
+Screening for Latent TB Infection (LTBI),ResultsDim
+Tuberculin Skin Test (TST) or Mantoux Test:,ResultsDim
+Campylobacter bacteria Detection,ResultsDim
+Campylobacteriosis Nucleic Acid,ResultsDim
+Polymerase Chain Reaction (PCR) (Nuclic acid detection) for Campylobacter bacteria Detection,ResultsDim
+HbA1c Test Result,ResultsDim
+Transferrin Saturation,ResultsDim
+Coombs Test,ResultsDim
+Direct Coombs Test,ResultsDim
+Chlamydia Trachomatis Tests Nucleic Acid,ResultsDim
+HAV,ResultsDim
+PSA Test Result Finding,ResultsDim
+PSA test,ResultsDim
+Calcium serum,ResultsDim
+pH urine,ResultsDim
+Dengue Tests,ResultsDim
+Fecal Occult Blood Test (FOBT)  Test Result Finding,ResultsDim
+Hepatitis B Quantitative Test,ResultsDim
+Asthma Assessment,ResultsDim
+Disease Asssessment,ResultsDim
+CD Markers,ResultsDim
+CD11a,ResultsDim
+flow cytometry/CD Markers,ResultsDim
+Adolescent depression screening,ResultsDim
+CD18,ResultsDim
+Antibiotic Amphenicol suscetibility testing,ResultsDim
+Chloramphenicol Susc Testing,ResultsDim
+ADA activity,ResultsDim
+ADA test,ResultsDim
+Adenosine deaminase Test,ResultsDim
+HBA14 Gene Mutations,ResultsDim
+Synovial Fluid Analysis For WBC Count,ResultsDim
+Parathyroid Hormone Test (PTH)/ Endocrinal Hormones test,ResultsDim
+Absolute Neutrophil Count (ANC),ResultsDim
+ALT Activity,ResultsDim
+Macroalbumin Test,ResultsDim
+Salmonella Detection,ResultsDim
+Shigella Test,ResultsDim
+Aldolase test,ResultsDim
+Alkaline Phosphatase (ALP) Bone,ResultsDim
+CD4  Percentage,ResultsDim
+CD8  Count,ResultsDim
+HbA2c Tests,ResultsDim
+HbA1c 8 9 Percent,ResultsDim
+HbA1c Tests,ResultsDim
+HbA3c Test,ResultsDim
+HbA3c Tests,ResultsDim
+HbA4c Tests,ResultsDim
+HbA7c Tests,ResultsDim
+HbA8c Tests,ResultsDim
+HbA9c Tests,ResultsDim
+Blood Culture,ResultsDim
+Culture,ResultsDim
+Microbiological Testing,ResultsDim
+Pancreatic Enzymes Measurement,ResultsDim
+Serum Amylase,ResultsDim
+Blood_Smear,ResultsDim
+ESR,ResultsDim
+Anticoagulants,PatientMedicationDim
+Heparin,PatientMedicationDim
+Warfarin,PatientMedicationDim
+Amlodipine Atorvastatin Moderate Intensity Medications,PatientMedicationDim
+Calcium Channel Blockers/Statins,PatientMedicationDim
+Amlodipine Atorvastatin High Intensity Medications,PatientMedicationDim
+Antiadrenergics,PatientMedicationDim
+Reserpine,PatientMedicationDim
+Fluvastatin,PatientMedicationDim
+Carbamazepine,PatientMedicationDim
+"Injuries, poisonings and toxic effects of drugs",ProblemsDim
+Trauma,ProblemsDim
+Diseases and disorders of the respiratory system,ProblemsDim
+Infectious Diseases,ProblemsDim
+Infection,ProblemsDim
+"Infectious and parasitic diseases, systemic or unspecified sites",ProblemsDim
+Typhoid,ProblemsDim
+Sepsis,ProblemsDim
+Central Nervous System (Cns) Infections,ProblemsDim
+Diseases and disorders of the nervous system,ProblemsDim
+Arthritis,ProblemsDim
+Diseases and disorders of the musculoskeletal system and connective tissue,ProblemsDim
+Acute Liver Failure,ProblemsDim
+Diseases and disorders of the hepatobiliary system and pancreas,ProblemsDim
+Human immunodeficiency virus infections,ProblemsDim
+Opportunistic Infections,ProblemsDim
+Tuberculosis,ProblemsDim
+Active Tuberculosis (TB),ProblemsDim
+Atrial Fibrillation,ProblemsDim
+Diseases and disorders of the circulatory system,ProblemsDim
+Cardiomyopathy,ProblemsDim
+Acute Pharyngitis,ProblemsDim
+Acute Pharyngitis And Tonsillitis,ProblemsDim
+"Diseases and disorders of the ear, nose, mouth and throat",ProblemsDim
+Pharyngitis,ProblemsDim
+Gangrene,ProblemsDim
+Acute Pancreatitis And Intestinal Malabsorption,ProblemsDim
+Chronic Malabsorption Syndromes,ProblemsDim
+Diseases and disorders of the digestive system,ProblemsDim
+Bacterial Infection,ProblemsDim
+"Allergy , Intolerance & Adverse Reactions",ProblemsDim
+"Diseases and disorders of blood, blood forming organs and immunologic disorders",ProblemsDim
+HIV,ProblemsDim
+Hematological Disorders/Blood Disorder,ProblemsDim
+Human Immunodeficiency Virus,ProblemsDim
+Immunocompromised States,ProblemsDim
+Immunocompromising Conditions,ProblemsDim
+Syphilis,ProblemsDim
+"Adverse Reactions Of These Vaccines (Mm, Vzv, And Flu)",ProblemsDim
+Vaccine Contraindications,ProblemsDim
+Insomnia,ProblemsDim
+Mental diseases and disorders,ProblemsDim
+Meningitis,ProblemsDim
+Varicella-Zoster Infection,ProblemsDim
+Varicella-Zoster Virus (Vzv),ProblemsDim
+Herpes Zoster,ProblemsDim
+Shingles,ProblemsDim
+Trigeminal Neuralgia,ProblemsDim
+Dermatitis,ProblemsDim
+"Diseases and disorders of the skin, subcutaneous tissue and breast",ProblemsDim
+Chlamydia,ProblemsDim
+Diseases and disorders of the male reproductive system / Diseases and disorders of the female reproductive system,ProblemsDim
+Genital Herpes,ProblemsDim
+Measles,ProblemsDim
+Rubella,ProblemsDim
+Stroke,ProblemsDim
+Hepatitis A,ProblemsDim
+Hepatic Coma / Hepatic encephalopathy (HE),ProblemsDim
+Hepatitis A Infection,ProblemsDim
+Hepatitis B,ProblemsDim
+Chronic Hepatitis B,ProblemsDim
+Chronic Hepatitis,ProblemsDim
+Acute Hepatitis C,ProblemsDim
+Chronic Hepatitis C,ProblemsDim
+Mumps,ProblemsDim
+Diseases and disorders of the eye,ProblemsDim
+Hemorrhagic Conjunctivitis,ProblemsDim
+Diseases and disorders of the female reproductive system,ProblemsDim
+Other Female Reproductive Conditions,ProblemsDim
+Diseases and disorders of the kidney and urinary tract,ProblemsDim
+Abdominal Aortic Aneurysm (Aaa),ProblemsDim
+Congenital Heart Defect,ProblemsDim
+Coronary Heart Disease (Chd),ProblemsDim
+Valvular Heart Disease,ProblemsDim
+Dementia,ProblemsDim
+Feeling Irritable,ProblemsDim
+Mental State Disorder,ProblemsDim
+Gonorrhea,ProblemsDim
+Gonococcal Infections,ProblemsDim
+Abnormal Ecg,ProblemsDim
+"Endocrine, nutritional and metabolic diseases and disorders",ProblemsDim
+Hypochloremia,ProblemsDim
+Myelodysplastic Syndrome (Mds),ProblemsDim
+"Myeloproliferative diseases and disorders, poorly differentiated neoplasms",ProblemsDim
+Leukocytosis,ProblemsDim
+Acne,ProblemsDim
+Hypoalbuminemia,ProblemsDim
+Cytopenia,ProblemsDim
+Epistaxis,ProblemsDim
+Bone Pain,ProblemsDim
+Autoimmune Thrombocytopenia,ProblemsDim
+Peptic Ulcer,ProblemsDim
+Left Ventricular Systolic Dysfunction,ProblemsDim
+Family History Of Premature Coronary Heart Disease,ProblemsDim
+Folliculitis,ProblemsDim
+Hypercholesterolemia,ProblemsDim
+Constipation,ProblemsDim
+Diseases and disorders of the ENT,ProblemsDim
+Earache,ProblemsDim
+Menopause,ProblemsDim
+Splenomegaly,ProblemsDim
+Dry Skin,ProblemsDim
+Neutropenia,ProblemsDim
+Esophagitis,ProblemsDim
+Mitochondrial Myopathy,ProblemsDim
+Pneumatosis Cystoides,ProblemsDim
+Jaundice,ProblemsDim
+Hypomagnesemia,ProblemsDim
+Henoch-Schoenlein Purpura (Hsp),ProblemsDim
+Meningococcal Disease,ProblemsDim
+Cranial Nerve Palsies,ProblemsDim
+Cystoid Macular Edema (Cme),ProblemsDim
+Conjunctival Hyperemia,ProblemsDim
+Epiphora,ProblemsDim
+Neurotoxicity,ProblemsDim
+Impaired Renal Tubular Function,ProblemsDim
+Seizures,ProblemsDim
+Mental And Behavioral Disorder,ProblemsDim
+Mental Behaviour Disorder,ProblemsDim
+Mental Health,ProblemsDim
+Mental Illness,ProblemsDim
+Mental diseases and disorders / Diseases and disorders of the nervous system,ProblemsDim
+Pulmonary_Embolism,ProblemsDim
+Alcohol And Drug Dependence,ProblemsDim
+Alcohol Drug Dependence,ProblemsDim
+Alcohol Use Disorder/Substance Use Disorder,ProblemsDim
+Alcohol or drug use or induced organic mental disorders,ProblemsDim
+Drug Abuse Dependence,ProblemsDim
+Substance Abuse,ProblemsDim
+Substance Use Disorder,ProblemsDim
+Fractures,ProblemsDim
+Complication Of Pregnancy,ProblemsDim
+Newborns and other neonates with conditions originating in perinatal period,ProblemsDim
+Non Live Birth,ProblemsDim
+Latent Tuberculosis,ProblemsDim
+Cancer,ProblemsDim
+Viral Disease,ProblemsDim
+Chronic Heart Disease,ProblemsDim
+Chronic Heart Failure,ProblemsDim
+Congestive Heart Failure,ProblemsDim
+Diabetes Mellitus Type 1,ProblemsDim
+Heart Failure,ProblemsDim
+Hypertension,ProblemsDim
+Ischemic Heart Disease,ProblemsDim
+Pleural Effusion,ProblemsDim
+Glaucoma,ProblemsDim
+Chronic Obstructive Pulmonary Disease (COPD)/ Asthma/ Bronchitis,ProblemsDim
+Arrhythmia,ProblemsDim
+Chronic Liver Disease,ProblemsDim
+Liver Cirrhosis,ProblemsDim
+Osteoarthritis,ProblemsDim
+Peripheral Artery Disease,ProblemsDim
+Peripheral Vascular Disease,ProblemsDim
+Diseases and disorders of the male reproductive system,ProblemsDim
+Sterility,ProblemsDim
+Congestive Heart Failure (Chf),ProblemsDim
+Pericardial Effusion,ProblemsDim
+Alzheimer Related Dementia,ProblemsDim
+COVID19 Fever,ProblemsDim
+Aspirin Contraindications,ProblemsDim
+Bleeding And Coagulation Abnormalities,ProblemsDim
+Bleeding And Coagulation Disorders Exclusions,ProblemsDim
+Coagulation Disorder,ProblemsDim
+Miscellaneous,ProblemsDim
+Glomerulonephritis And Nephrotic Syndrome,ProblemsDim
+Nephropathy Treatment,ProblemsDim
+Lung_Transplant,ProblemsDim
+COVID19,ProblemsDim
+Anemia,ProblemsDim
+Anemias And Bleeding Disorders,ProblemsDim
+Allergy To Egg Substance,ProblemsDim
+Osteoporosis,ProblemsDim
+Neurologic Impairment,ProblemsDim
+Contradiction To A Beta Blocker,ProblemsDim
+Hemorrhage,ProblemsDim
+"Parkinson Disease, Sclerosis, Huntington",ProblemsDim
+Frailty,ProblemsDim
+Live Birth / Outcome Of Delivery,ProblemsDim
+Limb Pain,ProblemsDim
+Chronic Obstructive Pulmonary Disease (COPD) /  Dyspnea,ProblemsDim
+Dyspnea,ProblemsDim
+Dyspnea Cough Wheezing Cough,ProblemsDim
+Bronchospasm,ProblemsDim
+Paresthesia,ProblemsDim
+Alcohol Use Disorder,ProblemsDim
+Abdominal Epigastric Pain,ProblemsDim
+Acute Myocardial Infarction,ProblemsDim
+Acute Myocardial Infarction / Ischemic Vascular Disease (Ivd) / Coronary Artery Disease (Cad ),ProblemsDim
+Cardiovascular Disease,ProblemsDim
+"Cardiovascular Disease, Coronary Artery Disease",ProblemsDim
+Coronary Artery Disease,ProblemsDim
+Coronary Artery Disease/Myocardial Infarction,ProblemsDim
+Myocardial Infarction,ProblemsDim
+Vascular Disease,ProblemsDim
+"Chronic Kidney Disease, Cerebrovascular Accident, Heart Failure",ProblemsDim
+Diseases and disorders of the circulatory system / Diseases and disorders of the kidney and urinary tract,ProblemsDim
+Diseases and disorders of the circulatory system / Diseases and disorders of the musculoskeletal system and connective tissue,ProblemsDim
+Uric Acid Crystalluria,ProblemsDim
+Urine Color,ProblemsDim
+Hypothyroidism,ProblemsDim
+Atypical Pregnancy Situations,ProblemsDim
+Pregnancy,ProblemsDim
+Multigravida/Pregnancy,ProblemsDim
+Live Birth Or Delivery,ProblemsDim
+Cognitive Impairment,ProblemsDim
+Catatonic Behaviour,ProblemsDim
+HIV Behavior,ProblemsDim
+Liver Disease,ProblemsDim
+Disorders Of The Immune System,ProblemsDim
+Immunodeficiency,ProblemsDim
+"Fractures Involving The Hip, Spine, And Distal Radius (Wrist)",ProblemsDim
+Bursitis And Tendinitis,ProblemsDim
+Bursitis Tendinitis,ProblemsDim
+Intolerance To Tamoxifen Or Aromatase Inhibitor Therapy Allergen,ProblemsDim
+Right Sided Heart Failure,ProblemsDim
+Respiratory Disease,ProblemsDim
+Coronary Artery Disease And No Myocardial Infarction,ProblemsDim
+Ischemic Vascular Disease,ProblemsDim
+Factors influencing health status and other contacts with health services,ProblemsDim
+Non-Tobacco User,ProblemsDim
+Intermittent Asthma,ProblemsDim
+Hepatic Encephalopathy,ProblemsDim
+Retinopathy,ProblemsDim
+Hoarseness Sore Throat,ProblemsDim
+Immune System Management,ProceduresDim
+Oncological Assessment,ProceduresDim
+Barbiturates,PatientMedicationDim
+Phenobarbitol,PatientMedicationDim
+"Lung, And Brain Cancer",ProblemsDim
+Cancers except NonMelanoma,ProblemsDim
+Colorectal Cancer,ProblemsDim
+Hepatocellular Carcinoma,ProblemsDim
+Esophageal Varicies With Bleeding,ProblemsDim
+Liver Cancer,ProblemsDim
+Lymphatic Tissue Cancer,ProblemsDim
+Head And Neck Cancer,ProblemsDim
+Lung Cancer,ProblemsDim
+Non Hodgkin Lymphoma,ProblemsDim
+Breast And Prostate Cancer,ProblemsDim
+Melanoma,ProblemsDim
+Thyroid Cancer,ProblemsDim
+"Thyroid, Melanoma  And Neurofibromatosis",ProblemsDim
+Skin Cancer,ProblemsDim
+Peritoneal Cancer,ProblemsDim
+Breast Cancer,ProblemsDim
+Smoking Cessation Agents,PatientMedicationDim
+Alpha-1 Adrenergic Receptor Antagonists,PatientMedicationDim
+Antihypertensives,PatientMedicationDim
+Cardiovascular Agents,PatientMedicationDim
+Nifedipine Medications,PatientMedicationDim
+Opioids,PatientMedicationDim
+Topical Agents,PatientMedicationDim
+Platelet Satellitism,ResultsDim
+Referral for Depression Screening Adolescent,ResultsDim
+Cervical Smear,ResultsDim
+Gleason Score,ResultsDim
+Prostate Cancer Grading,ResultsDim
+HER2 Testing,ResultsDim
+QT interval,ResultsDim
+Antibiotic Macrolide Sensitivity Testing,ResultsDim
+Clarithromycin Sensitivity Testing,ResultsDim
+Anthropometric measurements,ResultsDim
+Weight,ResultsDim
+Amoxicillin Clavulanic Sensitivity Testing,ResultsDim
+Serum Antibiotic Penicillin,ResultsDim
+Ampicillin Sensitivity Testing,ResultsDim
+Azithromycin Sensitivity Testing,ResultsDim
+Antibiotic Monobactam Sensitivity testing,ResultsDim
+Aztreonam Sensitivity Testing,ResultsDim
+Cefazolin Sensitivity Testing,ResultsDim
+CephR Cefepime Sensitivity Testing,ResultsDim
+Antibiotic Lincomycin Sensitivity Testing,ResultsDim
+Clindamycin Sensitivity Testing,ResultsDim
+Antibiotic Polymyxin Sensitivity Testing,ResultsDim
+Colistin Sensitivity Testing,ResultsDim
+Doxycycline Sensitivity Testing,ResultsDim
+Erythromycin Sensitivity Testing,ResultsDim
+Antibiotic Sensitivity Test Carbapenem,ResultsDim
+Imipenem Sensitivity Testing,ResultsDim
+Meropenem Sensitivity Testing,ResultsDim
+Polymyxin B Sensitivity Testing/ Polymyxin B Level,ResultsDim
+Antibiotic Rifamycin Sensitivity testing,ResultsDim
+Rifampin Sensitivity Testing,ResultsDim
+Antibiotic Aminoglycoside Sensitivity Testing,ResultsDim
+Streptomycin Sensitivity Testing,ResultsDim
+Tetracycline Sensitivity Testing,ResultsDim
+Antibiotic Penicillin + Clavulanic Acid Sensitivity Testing,ResultsDim
+Ticarcillin-Clavulanate Sensitivity Testing,ResultsDim
+Antibiotic Diaminopyrimidines Sulfonamide Sensitivity Testing,ResultsDim
+Trimethoprim Sulfameth Sensitivity Testing,ResultsDim
+Antibiotic Glycopeptide Sensitivity testing,ResultsDim
+VRE Vancomycin Sensitivity Testing,ResultsDim
+HBA17 Gene Mutations,ResultsDim
+Human chorionic gonadotropin (HCG) levels,ResultsDim
+Magnesium,ResultsDim
+AST Activity,ResultsDim
+COPD PaO2,ResultsDim
+PaO2 (Partial Pressure of Oxygen),ResultsDim
+Eye Examination,ResultsDim
+Macular Edema Findings,ResultsDim
+Macular Examination,ResultsDim
+Bilirubin Urine,ResultsDim
+Bilirubin,ResultsDim
+Plethysmography Test,ResultsDim
+Pulmonary Function Test,ResultsDim
+COPD ABG,ResultsDim
+FVC,ResultsDim
+FEV1 FVC Ratio,ResultsDim
+FiO2 (Fraction of Inspired Oxygen),ResultsDim
+Mechanical Ventilation,ResultsDim
+FEV1,ResultsDim
+FEV1 Predicted,ResultsDim
+CO Poisoning Tests Blood Quantitative,ResultsDim
+CO poisoning test,ResultsDim
+Urinary Erythrocytes,ResultsDim
+Cardiolipin Antibody Test,ResultsDim
+Cardiolipin IgG,ResultsDim
+Cardiolipin IgM,ResultsDim
+HIV Viral Load,ResultsDim
+Proteinuria,ResultsDim
+Urine Albumin Test (Macroalbumin),ResultsDim
+Urine Protein Test,ResultsDim
+CD3 Count,ResultsDim
+Urine Creatinine Lab Test,ResultsDim
+Electrolyte Test Electrolytes/ Chloride,ResultsDim
+Culture for Brucellosis Detection,ResultsDim
+CDiff Stool Culture,ResultsDim
+Clostridium Difficile CDiff POS Stool Culture,ResultsDim
+Cryptosporidium Dection,ResultsDim
+Parasitic infection Screening,ResultsDim
+HDL High Density Lipoprotein  C Lab Test,ResultsDim
+HDL High Density Lipoprotein C Laboratory Test,ResultsDim
+Mycobacterium tuberculosis Detected,ResultsDim
+very low-density lipoprotein VLDLC Level,ResultsDim
+Arbovirus testing,ResultsDim
+Babesia PCR Screen,ResultsDim
+DMD  Gene Mutations,ResultsDim
+DMD Gene Mutations Detection,ResultsDim
+Lab Test Mumps Test,ResultsDim
+Measles Antigen Test,ResultsDim
+Serology Test for Mumps,ResultsDim
+Rubella Ab Detection,ResultsDim
+Serology Test for Varicella Zoster,ResultsDim
+GFR investigation,ResultsDim
+BRCA1  Gene Mutation,ResultsDim
+r BRCA1/BRCA2 Mutation Detection,ResultsDim
+EGFR Mutation,ResultsDim
+F5 Gene Mutations,ResultsDim
+F5 Gene Mutations Detection,ResultsDim
+Clotting Factor assays,ResultsDim
+factor VIII Assay,ResultsDim
+HBA1 Gene Mutations,ResultsDim
+HBA1 Mutations Detection,ResultsDim
+KRAS NRAS Mutation,ResultsDim
+r KRAS/NRAS Mutations Detection,ResultsDim
+Philadelphia Chromosome Detection,ResultsDim
+chromosomal translocation Detection,ResultsDim
+Hepatitis A  Antigen,ResultsDim
+Hepatitis D Antibody,ResultsDim
+BMI,ResultsDim
+BMI Percentile,ResultsDim
+Gentamicin Level,ResultsDim
+Tobramycin Trough,ResultsDim
+Anthrax Antibody Detection Test,ResultsDim
+Anthrax Tests Antibody Qualitative,ResultsDim
+Anthrax Antigen Detection Test,ResultsDim
+Campylobacter serology test,ResultsDim
+Antibiotic Macrolide-Lincosamide-Streptogramin Sensitivity Testing,ResultsDim
+Quinupristin Dalfopristin Sensitivity Testing,ResultsDim
+Glutathione levels,ResultsDim
+HBA11 Gene Mutations,ResultsDim
+Synovial Fluid Analysis For Gonorrhoea,ResultsDim
+Glucophage,PatientMedicationDim
+Metformin Monotherapy,PatientMedicationDim
+Pioglitazone,PatientMedicationDim
+Glipizide,PatientMedicationDim
+Excessive Daytime Sleepiness (Eds),ProblemsDim
+Sleep Disorder,ProblemsDim
+Chronic Obstructive Pulmonary Disease (COPD),ProblemsDim
+Emphysema,ProblemsDim
+Ischemic Vascular Disease (Ivd),ProblemsDim
+Intracranial Hemorrhage,ProblemsDim
+Paralysis,ProblemsDim
+Nausea Vomiting,ProblemsDim
+Psychotic Disorders,ProblemsDim
+Schizophrenia,ProblemsDim
+Mood Disorders,ProblemsDim
+Adverse Reactions Of Influenza Vaccine,ProblemsDim
+Allergy To Eggs,ProblemsDim
+Vaccine Causing Adverse Effect,ProblemsDim
+Tendinitis,ProblemsDim
+Alcoholism,ProblemsDim
+Intolerance To Antineoplastic Therapy,ProblemsDim
+Adverse Reaction To Tamoxifen,ProblemsDim
+"Intolerance To Tamoxifen, Aromatase Therapy",ProblemsDim
+Tamoxifen Allergy,ProblemsDim
+Adverse Effect Of Beta-Adrenoreceptor Antagonists,ProblemsDim
+Allergy To Intolerance,ProblemsDim
+Intolerance To Beta Blocker Therapy,ProblemsDim
+Chelation Therapy,ProblemsDim
+Antibiotic Allergy In Cardiovascular Disease,ProblemsDim
+Anaphylactic Reaction,ProblemsDim
+Neomycin Allergy,ProblemsDim
+Bruising,ProblemsDim
+Polymyxin B Allergy,ProblemsDim
+Attention Deficit Disorder (ADD),ProblemsDim
+Confusion,ProblemsDim
+Medication Allergy,ProblemsDim
+Anaphylactic Reaction Hep B,ProblemsDim
+Anaphylactic Reaction To Hep B Vaccine,ProblemsDim
+Anaphylaxis,ProblemsDim
+Intolerance To Influence Vaccine,ProblemsDim
+Intolerance To Influenza Vaccine,ProblemsDim
+"Vaccine Allergy To Measles, Mumps And Rubella",ProblemsDim
+Pneumococcal Vaccine Allergy,ProblemsDim
+Chronic Bronchitis,ProblemsDim
+Obstructive Chronic Bronchitis,ProblemsDim
+Hematologic Disorders,ProblemsDim
+Contraindications To Ace Inhibitors (Aceis) And Angiotensin II Receptor Blockers (Arbs) In Heart Failure (Hf),ProblemsDim
+"End-Stage Kidney Disease, Hypertension",ProblemsDim
+Hypersensitive Reaction Towards Angiotensive Converting Enzyme Inhibitors And Angiotensive Receptor Blockers,ProblemsDim
+Inability To Tolerate Ace Inhibitors (Angiotensin-Converting Enzyme Inhibitors) Or Arbs (Angiotensin II Receptor Blockers),ProblemsDim
+Intolerance To Ace Inhibitor,ProblemsDim
+Allergy To Medication,ProblemsDim
+Allergy To Antineoplastic Therapy,ProblemsDim
+Beta Blocker Therapy,ProblemsDim
+Alzheimer Disease,ProblemsDim
+Influenza Vaccine Allergy,ProblemsDim
+Vaccine Allergy,ProblemsDim
+Prediabetes,ProblemsDim
+Adverse Reactions Associated With The Use Of Ace Inhibitors (ACEi) And Angiotensin Ii Receptor Blockers (Arbs),ProblemsDim
+Foot Deformity,ProblemsDim
+Drug Overuse,ProblemsDim
+Cataract,ProblemsDim
+Bipolar And Unipolar Depression,ProblemsDim
+Bipolar Disorder,ProblemsDim
+Bipolar Disorder/Unipolar Disorder,ProblemsDim
+Bipolar Disorder/Unipolar Disorder/Depression,ProblemsDim
+Depression,ProblemsDim
+Mania,ProblemsDim
+Major Depressive Disorder (Mdd),ProblemsDim
+Antigout Agents,PatientMedicationDim
+Physical examination,ProceduresDim
+Obstetrics,ProceduresDim
+Pacemaker surgery,ProceduresDim
+"Bile duct, liver or pancreatic surgery",ProceduresDim
+General Surgery,ProceduresDim
+Ulcer,ProblemsDim
+Myopathy,ProblemsDim
+Sleep Apnea,ProblemsDim
+Sleep Studies,ProblemsDim
+Prostate Cancer,ProblemsDim
+Chronic Kidney Disease,ProblemsDim
+"Chronic Kidney Disease (Ckd) , End-Stage Kidney Disease",ProblemsDim
+Acute Bronchitis,ProblemsDim
+Alzheimer's Disease,ProblemsDim
+Drug Abuse,ProblemsDim
+Liver System,ProblemsDim
+Generalized Anxiety Disorder,ProblemsDim
+Pneumonia,ProblemsDim
+Respiratory And Pulmonary Disease,ProblemsDim
+Language Problem,ProblemsDim
+Haemophilus Influenzae Disease,ProblemsDim
+Tonsillitis,ProblemsDim
+Pressure Ulcer,ProblemsDim
+Varicella-Zoster Virus Infection,ProblemsDim
+Tuberculosis (TB),ProblemsDim
+Rheumatoid Arthritis,ProblemsDim
+Rheumatoid Arthritis (Ra),ProblemsDim
+"Cardiovascular Disease, Hypertension",ProblemsDim
+Essential Hypertension,ProblemsDim
+Xeroderma,ProblemsDim
+Absence Of Cervix,ProblemsDim
+Alcohol Abuse,ProblemsDim
+Delivery,ProblemsDim
+"HIVs, Aids",ProblemsDim
+Gestational Diabetes Mellitus,ProblemsDim
+Vitreomacular Traction,ProblemsDim
+Thalassemia,ProblemsDim
+Opioid Abuse,ProblemsDim
+Hip Fracture,ProblemsDim
+Dialysis,ProblemsDim
+Skin Infection,ProblemsDim
+Gastrointestinal Hemorrhage,ProblemsDim
+Diphtheria,ProblemsDim
+Hemophilia,ProblemsDim
+Anxiety,ProblemsDim
+Coccidioidomycosis,ProblemsDim
+Gastrointestinal System,ProblemsDim
+Mucositis,ProblemsDim
+Muscular Pian And Disease,ProblemsDim
+Seborrhea,ProblemsDim
+Ovarian Cancer,ProblemsDim
+Kidney Cancer,ProblemsDim
+Bladder Cancer,ProblemsDim
+Lung And Brain Cancer,ProblemsDim
+Aminoglycosides,PatientMedicationDim
+Glycopeptide Antibiotics,PatientMedicationDim
+Vancomycin,PatientMedicationDim
+Gonadotropin Releasing Hormones,PatientMedicationDim
+BCR-ABL Tyrosine Kinase Inhibitors,PatientMedicationDim
+Dasatinib,PatientMedicationDim
+Imatinib/Dasatinib,PatientMedicationDim
+Tyrosine Kinase Inhibitors,PatientMedicationDim
+Systemic/Oral Steroids,PatientMedicationDim
+Retinoids,PatientMedicationDim
+Potassium Sparing Diuretics,PatientMedicationDim
+Bisphosphonate,PatientMedicationDim
+Inhaled Steroids,PatientMedicationDim
+Antiparkinsonism Agents,PatientMedicationDim
+Glumetza,PatientMedicationDim
+Anti Thrombotics,PatientMedicationDim
+Alcohol Consumption Rec,ResultsDim
+ETOH Consumption,ResultsDim
+Moderation of ETOH Consumption Rec,ResultsDim
+Fasting Lipid Profile,ResultsDim
+Arterial Blood Gas (ABG),ResultsDim
+SaO3 (Oxygen Saturation),ResultsDim
+CD4  Count,ResultsDim
+CD5  Count,ResultsDim
+CD6  Count,ResultsDim
+F2 Gene Mutations,ResultsDim
+F2 Mutations Detection,ResultsDim
+IgA Quantitation,ResultsDim
+IgG Quantitation,ResultsDim
+IgG1 Quantitation,ResultsDim
+XRay Lower Spine,ResultsDim
+IgG2 Quantitation,ResultsDim
+IgG3 Quantitation,ResultsDim
+Lower Spine CT,ResultsDim
+MRI  Lower Spine,ResultsDim
+Bone scan,ResultsDim
+Albumin Creatinine Ratio,ResultsDim
+Haptoglobin,ResultsDim
+Haptoglobin (HP) Level,ResultsDim
+Liver protein test,ResultsDim
+Hematology Leukocyte_count,ResultsDim
+Leukocyte Count,ResultsDim
+White Blood Count,ResultsDim
+Platelets Count,ResultsDim
+Leukocyte Esterase Urine,ResultsDim
+Anxiety Assessment,ResultsDim
+Antithrombin Activity,ResultsDim
+Antithrombin testing,ResultsDim
+Antithrombin_Activity,ResultsDim
+Protein C,ResultsDim
+Proten C & Protein S Assay,ResultsDim
+Proten C Test,ResultsDim
+Proetin S,ResultsDim
+Proten S Test,ResultsDim
+Physical Activity Recommendation,ResultsDim
+LTBI Detection,ResultsDim
+Screening Test,ResultsDim
+HBA10 Gene Mutations,ResultsDim
+Synovial Fluid Analysis For Crystals,ResultsDim
+PK Enzyme Activity,ResultsDim
+Urine Specific Gravity Test,ResultsDim
+Iron studies/ Liver Biopsy,ResultsDim
+Heart Rate,ResultsDim
+Folic Acid Level,ResultsDim
+ALAS4 Mutation Detection,ResultsDim
+ALAS4 mutation test,ResultsDim
+HCV Genotyping,ResultsDim
+t Nucleic Acid Test HIV NAT,ResultsDim
+Lipid Panel Result,ResultsDim
+Breast Cancer Screening,ResultsDim
+Granulocytes percentage,ResultsDim
+HbA1c Less than 7,ResultsDim
+HbA1c Level Less Than 9,ResultsDim
+HbA2c Test,ResultsDim
+HbA1c 7 to 9,ResultsDim
+HbA1c Level Between 7 and 10,ResultsDim
+HbA1c Level Between 7 and 9,ResultsDim
+HbA1c Greater Than 8,ResultsDim
+HbA1c Greater Than 9,ResultsDim
+HbA1c Level Greater Than 9,ResultsDim
+Free Low Density Lipoprotein LDLC < 100,ResultsDim
+Free Low Density Lipoprotein LDLC < 102,ResultsDim
+LDL-C 100 to 129,ResultsDim
+LDL-C > 100,ResultsDim
+Free Low Density Lipoprotein LDLC >= 130,ResultsDim
+HbA1c Level Greater Equal to 7 and Less Than 8,ResultsDim
+Positive Macroalbuminuria Test Result,ResultsDim
+Negative Microalbuminuria Test Result,ResultsDim
+Urinary Uric Acid,ResultsDim
+Antibiotic Fluoroquinolones Sensitivity Testing,ResultsDim
+Moxifloxacin Sensitivity Testing,ResultsDim
+Urine Cytology,ResultsDim
+Gentamicin  Level,ResultsDim
+Serum Amikacin Peak,ResultsDim
+Amikacin Trough,ResultsDim
+Serum Amikacin Troughlevel,ResultsDim
+Fish Analysis,ResultsDim
+Height,ResultsDim
+Euphoria,ProblemsDim
+Mood Swings,ProblemsDim
+Delusion,ProblemsDim
+Thrombosis,ProblemsDim
+Neoplasm related pain,ProblemsDim
+Tricuspid Regurgitation,ProblemsDim
+Proteinuria,ProblemsDim
+Conjunctivitis,ProblemsDim
+Bleeding Complications,ProblemsDim
+Neurological Conditions,ProblemsDim
+End-Stage Kidney Disease,ProblemsDim
+End-Stage Renal Disease,ProblemsDim
+End-Stage Renal Disease (Esrd) And Renal Failure,ProblemsDim
+Unilateral Amputation,ProblemsDim
+Weakness,ProblemsDim
+Paresis,ProblemsDim
+Obesity,ProblemsDim
+Neck And Backaches,ProblemsDim
+Bradycardia,ProblemsDim
+Autism And Related Disorder,ProblemsDim
+Autism,ProblemsDim
+Autism Spectrum Disorders (Asd),ProblemsDim
+Pervasive Developmental Disorder,ProblemsDim
+Hip Pain,ProblemsDim
+Hyperlipidemia,ProblemsDim
+Respiratory Signs,ProblemsDim
+Hypertriglyceridemia,ProblemsDim
+Keratoconjunctivitis Sicca,ProblemsDim
+Barretts Eesophagus,ProblemsDim
+Barretts Esophagus,ProblemsDim
+Aplastic Anemia,ProblemsDim
+Glossodynia,ProblemsDim
+Diverticulitis,ProblemsDim
+Myelosuppression/ Bone Marrow Dysfunction,ProblemsDim
+Decompensated Cirrhosis,ProblemsDim
+Aids,ProblemsDim
+Endocarditis,ProblemsDim
+Bronchitis,ProblemsDim
+Erythema Nodosum,ProblemsDim
+Restless Leg Syndrome,ProblemsDim
+Anaphylactoid Reactions,ProblemsDim
+Hyperuricemia,ProblemsDim
+Erythema,ProblemsDim
+Malaise,ProblemsDim
+Atypical Hyperplasia,ProblemsDim
+Myelosuppression,ProblemsDim
+Acute Chest Syndrome,ProblemsDim
+Gastrointestinal Fistula,ProblemsDim
+Neuropathy,ProblemsDim
+Fever,ProblemsDim
+Menorrhagia,ProblemsDim
+Cystitis,ProblemsDim
+Ascites,ProblemsDim
+Hypoxia,ProblemsDim
+Celiac Disease,ProblemsDim
+Exfoliative Dermatitis,ProblemsDim
+Growth Hormone Deficiency,ProblemsDim
+Loose Stools,ProblemsDim
+Falling Injury,ProblemsDim
+Hirsutism,ProblemsDim
+Personality Disorders,ProblemsDim
+Dysthymia,ProblemsDim
+Spleen Disorders,ProblemsDim
+Gestational Sac Absent,ProblemsDim
+Fracture,ProblemsDim
+"Depression, Dysthymia",ProblemsDim
+Epididmytitis,ProblemsDim
+Vascular And Ischemic Disorders,ProblemsDim
+Ischemic Stroke,ProblemsDim
+Skin Ulcer,ProblemsDim
+Angina,ProblemsDim
+Angina Pectoris,ProblemsDim
+Atrial Fibrillation/Atrial Flutter,ProblemsDim
+Personality Disorder,ProblemsDim
+Urinary Tract Infection,ProblemsDim
+Coughing Wheezing,ProblemsDim
+Chronic Hemolytic Anemia,ProblemsDim
+Hemolytic Anemia,ProblemsDim
+Toxic Megacolon,ProblemsDim
+Deafness,ProblemsDim
+Cellulitis,ProblemsDim
+Hematoma,ProblemsDim
+Mass Lesion Brain,ProblemsDim
+Acute Renal Insufficiency /Acute Kidney Injury,ProblemsDim
+Acute Renal Insufficiency/Acute Kidney Injury,ProblemsDim
+Renal Failure,ProblemsDim
+Thrombocytopenia,ProblemsDim
+Thoracic Aortic Aneurysm,ProblemsDim
+Exophthalmos,ProblemsDim
+Sexual Dysfunction,ProblemsDim
+Erectile Dysfunction (Ed),ProblemsDim
+Renal Artery Stenosis,ProblemsDim
+Sexually Transmitted Infection (STI) /Papillomavirus Infection,ProblemsDim
+Infertility,ProblemsDim
+Acute Sinusitis,ProblemsDim
+Hematologic Malignancies,ProblemsDim
+Lymphomas,ProblemsDim
+Lymphoreticular Cancer,ProblemsDim
+Leukemia,ProblemsDim
+Hypoglycemia,ProblemsDim
+Acute Tonsillitis,ProblemsDim
+Atrioventricular (Av) Block,ProblemsDim
+Atrioventricular Block,ProblemsDim
+Cardiac Conduction Disorders,ProblemsDim
+Glucosuria,ProblemsDim
+Transfusion Reaction,ProblemsDim
+Asthma,ProblemsDim
+Asthma Assessment,ProblemsDim
+Gout,ProblemsDim
+Drug Dependence,ProblemsDim
+Traumatic Injury,ProblemsDim
+Inflammatory Diseases Of Female Reproductive Organs,ProblemsDim
+Periodontal Disease,ProblemsDim
+Ophthalmological Assessment,ProceduresDim
+Congenital Syphilis,ProblemsDim
+Neck And Back Ache,ProblemsDim
+Dental Caries,ProblemsDim
+Pulmonary Hypertension,ProblemsDim
+Pulmonary_Hypertension,ProblemsDim
+Multiple Myeloma,ProblemsDim
+Thrombocythemia,ProblemsDim
+Babesiosis,ProblemsDim
+"Encephalitis, Meningitis",ProblemsDim
+Thromboembolism,ProblemsDim
+Peripheral Neuropathy,ProblemsDim
+Arthropathy,ProblemsDim
+Left Sided Heart Failure,ProblemsDim
+Thrombocytosis,ProblemsDim
+Thrombosis Embolism,ProblemsDim
+Thrombotic Complications,ProblemsDim
+Venous Thrombosis,ProblemsDim
+Cerebral Ischemia,ProblemsDim
+Hearing Loss,ProblemsDim
+Liver Disorders,ProblemsDim
+Hemolytic Uremic Syndrome,ProblemsDim
+Chronic Kidney Disease (Ckd) Caused Or Exacerbated By Hypertension,ProblemsDim
+Ckd (Chronic Kidney Disease) With Proteinuria,ProblemsDim
+Diseases and disorders of the kidney and urinary tract / Diseases and disorders of the circulatory system,ProblemsDim
+Hypertensive Chronic Kidney Disease,ProblemsDim
+Primary Open Angle Glaucoma,ProblemsDim
+Primary Open-Angle Glaucoma (Poag),ProblemsDim
+Ovarian Failure,ProblemsDim
+Type1 Diabetes Mellitus without Complications,ProblemsDim
+Type2 Diabetes Mellitus,ProblemsDim
+Ketoacidosis,ProblemsDim
+Severe Combined Immunodeficiency,ProblemsDim
+Hepatitis C Chronic infection,ProblemsDim
+Anthrax,ProblemsDim
+"Diseases and disorders of the skin, subcutaneous tissue and breast / Diseases and disorders of the digestive system",ProblemsDim
+Cerebral Ischemia Infarction,ProblemsDim
+Hepatic System,ProblemsDim
+Fungal Infection,ProblemsDim
+Intracerebral Sarcoidosis,ProblemsDim
+Sarcoidosis,ProblemsDim
+Candidal Infection,ProblemsDim
+Anorexic Damage,ProblemsDim
+Coma,ProblemsDim
+Raised Intraocular Pressure,ProblemsDim
+Joint Pain,ProblemsDim
+Metastatic Cancer,ProblemsDim
+Secondary Malignancy/ Metastatic Cancer,ProblemsDim
+Secondary Malignancy,ProblemsDim
+Immunocompromised System,ProblemsDim
+Lymphoid Malignancy/ Lymphoma,ProblemsDim
+Immunological Disorders,ProblemsDim
+Antineoplastics,PatientMedicationDim
+Daunorubicin,PatientMedicationDim
+Sulfonylureas,PatientMedicationDim
+Actoplus Met,PatientMedicationDim
+Kazano,PatientMedicationDim
+Vibrio cholerae Detection,ResultsDim
+factor IX Assay,ResultsDim
+factor VII Assay,ResultsDim
+Hepatitis B Antigen,ResultsDim
+Platelets Size,ResultsDim
+factor XI Assay,ResultsDim
+ALAS3 Mutation Detection,ResultsDim
+ALAS3 mutation test,ResultsDim
+HEXA Gene Mutation,ResultsDim
+HEXA Mutation Detection,ResultsDim
+Hemoglobin  S,ResultsDim
+Potassium Blood,ResultsDim
+Chlamydia Trachomatis Infec DNA RNA NAA    mydia,ResultsDim
+Falls  Screening,ResultsDim
+Autoantibody testing,ResultsDim
+EMA (Endomysial antibody),ResultsDim
+Ethrocytes CD59 Deficient,ResultsDim
+RBC Assay Test,ResultsDim
+Culture for Clostridium botulinum Detection,ResultsDim
+Creatinine Clearence CrCl,ResultsDim
+GFR,ResultsDim
+COVID-19 Serology Test,ResultsDim
+SARS-CoV-2,ResultsDim
+Blood Smear,ResultsDim
+Immature Granulocytes,ResultsDim
+Methadone  Level,ResultsDim
+Serum Benzodiazepine,ResultsDim
+Serum Chlordiazpoxide,ResultsDim
+Anti HDV IgM,ResultsDim
+MCOLN1 Gene Mutations,ResultsDim
+MCOLN1 Mutations Detection,ResultsDim
+Hemoglobin  A2,ResultsDim
+HgbA2 Quantitation,ResultsDim
+Coagulation Disorder Diagnostics,ResultsDim
+PF4 Heparin cmplx IgG,ResultsDim
+international normalised ratio,ResultsDim
+DMPK Gene Mutations,ResultsDim
+DMPK Mutations Detection,ResultsDim
+Consultations,ResultsDim
+Optometry Consultation,ResultsDim
+Congenital Myopathies Gene Mutations,ResultsDim
+Congenital Myopathies Mutations Detection,ResultsDim
+Anticonvulsant Level/ Benzodiazepine,ResultsDim
+Nordiazepam  Level,ResultsDim
+Benzodiazepines Level,ResultsDim
+Lorazepam Level,ResultsDim
+Antibiotic Cyclic Lipopeptide Sensitivity testing,ResultsDim
+Daptomycin Sensitivity Testing,ResultsDim
+Antibiotic Carbapenem Sensitivity Testing,ResultsDim
+Ertapenem Sensitivity Testing,ResultsDim
+Influenza viruses,ResultsDim
+Novel Influenza A Tests,ResultsDim
+Culture of Respiratory Secretions/ Legionella Culture,ResultsDim
+Sideroblasts,ResultsDim
+Interferon-Gamma Release Assays (IGRAs):,ResultsDim
+HBA18 Gene Mutations,ResultsDim
+Avandamet,PatientMedicationDim
+Rosiglitazone,PatientMedicationDim
+Eating Disorder,ProblemsDim
+Bone Marrow Failure,ProblemsDim
+Anorexia,ProblemsDim
+Anorexia Nervosa,ProblemsDim
+Bulimia Nervosa,ProblemsDim
+Induced Vomit,ProblemsDim
+Appetite Loss,ProblemsDim
+Decrease Appetite,ProblemsDim
+Urinary Incontinence,ProblemsDim
+Illicit Drug Use,ProblemsDim
+Non-St-Elevation Myocardial Infarction (Nstemi),ProblemsDim
+Nerve Pain,ProblemsDim
+Sciatica,ProblemsDim
+Hyponatremia,ProblemsDim
+Short-Term Memory Deficits,ProblemsDim
+Renal Impairment,ProblemsDim
+Hypertensive Encephalopathy,ProblemsDim
+Cardiac Arrhythmia,ProblemsDim
+Right Unilateral Amputation,ProblemsDim
+Foot Ulcer,ProblemsDim
+Alcohol Withdrawal,ProblemsDim
+Dysplasia,ProblemsDim
+Postprocedural Hemorrhage,ProblemsDim
+"Hematemesis, Melena",ProblemsDim
+Chronic Resp Fumes Vapors,ProblemsDim
+Leg Weakness,ProblemsDim
+Weight Loss,ProblemsDim
+Vomiting,ProblemsDim
+Kidney Complications,ProblemsDim
+Hiatal Hernia,ProblemsDim
+"Wandering, In Disease",ProblemsDim
+Dysthymic Disorder,ProblemsDim
+Attention Deficit Hyperactivity Disorder,ProblemsDim
+Diabetic Retinopathy,ProblemsDim
+Retinal Detachment,ProblemsDim
+Aggressive Behaviour,ProblemsDim
+Impulse Control Disorder,ProblemsDim
+Lower Respiratory Tract Infection,ProblemsDim
+Neurological Disturbance,ProblemsDim
+Osteopenia,ProblemsDim
+"Myopia, Hyperopia",ProblemsDim
+Macular Edema,ProblemsDim
+Albuminuria,ProblemsDim
+Blindness,ProblemsDim
+Diabetes Mellitus 1 Excluding,ProblemsDim
+Diabetes Mellitus 1 Excluding Angiopathy,ProblemsDim
+Diabetes Mellitus 1 Excluding Coma,ProblemsDim
+Diabetes Mellitus 1 Excluding Dermatitis,ProblemsDim
+Diabetes Mellitus 1 Excluding Gangrene Angiopathy,ProblemsDim
+Diabetes Mellitus 1 Excluding Hyperglycemia,ProblemsDim
+Diabetes Mellitus 1 Excluding Hyperosmolar Coma,ProblemsDim
+Diabetes Mellitus 1 Excluding Hypoglycemia,ProblemsDim
+Hyperglycemia,ProblemsDim
+Anorexiants,PatientMedicationDim
+Malaise And Fatigue,ProblemsDim
+Visual Defects,ProblemsDim
+Hypertensive Renal Disease With Renal Failure,ProblemsDim
+Parkinsonism,ProblemsDim
+Sickle Cell Anemia,ProblemsDim
+Sickle Cell System,ProblemsDim
+Aspergillosis,ProblemsDim
+Nervosa,ProblemsDim
+COVID19 Cough,ProblemsDim
+Dry Cough,ProblemsDim
+Cholera,ProblemsDim
+Cryptosporidiosis,ProblemsDim
+Hepatitis C,ProblemsDim
+Advance Stage Of Congestive Heart Failure,ProblemsDim
+Systolic Heart Failure,ProblemsDim
+Diastolic Heart Failure,ProblemsDim
+Disorders Of Immune System,ProblemsDim
+Immune System Disorders,ProblemsDim
+Heart Transplant,ProblemsDim
+Postmastectomy Lymphedema Syndrome,ProblemsDim
+Leukopenia,ProblemsDim
+Aortic Stenosis,ProblemsDim
+Mitral Insufficiency,ProblemsDim
+Migraine,ProblemsDim
+Urticaria,ProblemsDim
+Diabetic Nephropathy,ProblemsDim
+Kidney Disease,ProblemsDim
+Peripheral Arterial Occlusive Disease,ProblemsDim
+Pancytopenia,ProblemsDim
+Cardiac Disease,ProblemsDim
+Normal Retina,ResultsDim
+BMI Above 40,ResultsDim
+MRI Abdomen,ResultsDim
+Visual Acuity,ResultsDim
+Colon Cancer Primary Tumor Size T4b,ResultsDim
+Colon Cancer Staging,ResultsDim
+Colon Cancer Regi Lymph Node Status N2,ResultsDim
+Colon Distant Metastasis Status,ResultsDim
+Negative Finding,ResultsDim
+Specimen from Respiratory Secretion,ResultsDim
+Specimen from Specimen Brush,ResultsDim
+Prothrombin Time,ResultsDim
+Falls Screening,ResultsDim
+Platelet Clump,ResultsDim
+CNBP Genetic testing,ResultsDim
+CNBP Mutations Detection,ResultsDim
+SH2D1A Mutation,ResultsDim
+SH2D1A Mutation Detection,ResultsDim
+Anthrax Nucleic Acid  Detection Test,ResultsDim
+Clostridium botulinum Nuclic acid Detection,ResultsDim
+Colon Cancer Primary Tumor Size T1 4b,ResultsDim
+Colon Cancer Reg Lymph Node Status N1 N2b,ResultsDim
+Colon Cancer Regional Lymph Node N1 N2b,ResultsDim
+Gonorrhea Tests NeisseriaSp Culture,ResultsDim
+JAK2 Gene Mutation,ResultsDim
+JAK2 Mutation Detection,ResultsDim
+Diabetes Mellitus,ProblemsDim
+Diabetes Mellitus 2 Excluding Angiopathy,ProblemsDim
+Diabetes Mellitus 2 Excluding Cataract,ProblemsDim
+Diabetes Mellitus 2 Excluding Dermatitis,ProblemsDim
+Diabetes Mellitus 2 Excluding Hyperglycemia,ProblemsDim
+Diabetes Mellitus 2 Excluding Hyperosmolar Coma,ProblemsDim
+Diabetes Mellitus 2 Excluding Hyperosmolarity,ProblemsDim
+Diabetes Mellitus 2 Excluding Hypoglycemia,ProblemsDim
+Diabetes Mellitus 2 Excluding Macular Edema,ProblemsDim
+Diabetes Mellitus 2 Excluding Nephropathy,ProblemsDim
+Diabetes Mellitus 2 Excluding Skin Ulcer,ProblemsDim
+Diabetes Mellitus 2 Without Retinopathy,ProblemsDim
+Encephalopathy,ProblemsDim
+Hematuria,ProblemsDim
+Diastolic Blood Pressure,ProblemsDim
+Systolic Blood Pressure (Sbp),ProblemsDim
+Optic Neuritis,ProblemsDim
+Wound Dehiscence,ProblemsDim
+Tumor Recurrence,ProblemsDim
+Myocardial Ischemia,ProblemsDim
+Abscess,ProblemsDim
+Torsade'S De Pointes,ProblemsDim
+Myasthenia Gravis,ProblemsDim
+Postoperative Complications,ProblemsDim
+Vasculitis,ProblemsDim
+Bacterial Meningitis,ProblemsDim
+Cerebrospinal Fluid Leak,ProblemsDim
+Adverse Reactions Of Tetanus Vaccine,ProblemsDim
+Enterocolitis,ProblemsDim
+Digestive System,ProblemsDim
+Major Bowel,ProblemsDim
+Restless Legs Syndrome (Rls),ProblemsDim
+Epilepsy,ProblemsDim
+Huntington Disease,ProblemsDim
+"Hemiplegia/Paraplegia/Quadriplegia / 
+Upper Motor Neuron And Lower Motor Neurons Lesion / Traumatic Brain Injury",ProblemsDim
+Psoriatic Arthritis,ProblemsDim
+Paraplegia,ProblemsDim
+Amytrophic Lateral Sclerosis,ProblemsDim
+Motor Neuropathy,ProblemsDim
+Sclerosis,ProblemsDim
+Bulbar Onset Lateral Sclerosis,ProblemsDim
+Silicosis,ProblemsDim
+Aspiration Joint,ProblemsDim
+Lyme Disease,ProblemsDim
+Inflammatory Bowel Disease,ProblemsDim
+Dehydration,ProblemsDim
+Tachycardia,ProblemsDim
+Antiretrovirals,PatientMedicationDim
+Omeprazole,PatientMedicationDim
+Proton Pump Inhibitors,PatientMedicationDim
+Inhaled Corticosteriods,PatientMedicationDim
+Dexamethasone,PatientMedicationDim
+Ophthalmic Corticosteroids,PatientMedicationDim
+Cetuximab,PatientMedicationDim
+EGFR Inhibitors,PatientMedicationDim
+Antimetabolites,PatientMedicationDim
+Clofarabine,PatientMedicationDim
+Mouth Ulcer /Tongue Ulcer,ProblemsDim
+Peripheral Neuritis,ProblemsDim
+Right Heart Failure,ProblemsDim
+Muscle Spasm,ProblemsDim
+"Chronic Kidney Disease (Ckd) Stage 2, 3, 4",ProblemsDim
+Ankylosing Spondylitis,ProblemsDim
+Atherosclerotic Disease,ProblemsDim
+Ileus,ProblemsDim
+Corneal Edema,ProblemsDim
+Granulocytopenia,ProblemsDim
+Bilateral Amputee Feet And Legs,ProblemsDim
+Bilateral Amputees,ProblemsDim
+Bilateral Traumatic Amputation,ProblemsDim
+Foot Amputation,ProblemsDim
+Bleeding Disorders,ProblemsDim
+Reduced Visual Aucity,ProblemsDim
+Hep B Vaccine Administration,ProblemsDim
+Left Ventricular Dysfunction,ProblemsDim
+Pneumocystis,ProblemsDim
+History Of Bilateral Mastectomy,ProblemsDim
+Hypothermia,ProblemsDim
+Absence Of Left Breast,ProblemsDim
+Left Mastectomy,ProblemsDim
+Absence Of Right Breast,ProblemsDim
+Right Mastectomy,ProblemsDim
+Anaplasmosis,ProblemsDim
+Hyperkalemia,ProblemsDim
+Rabies,ProblemsDim
+Amenorrhea,ProblemsDim
+Hemochromatosis,ProblemsDim
+Long Qt Syndrome (Lqts),ProblemsDim
+Pulmonary Fibrosis,ProblemsDim
+Hyperbilirubinemia,ProblemsDim
+Esophageal GI Bleed,ProblemsDim
+Epstein-Barr Virus Disease,ProblemsDim
+Disorders Of Metabolism,ProblemsDim
+Nilotinib,PatientMedicationDim
+Elastography,ResultsDim
+Assessment tool,ResultsDim
+PHQ 9 Assessment,ResultsDim
+PHQ 9 Tool,ResultsDim
+PHQ9 Tool 15,ResultsDim
+Barthel Index Score,ResultsDim
+Nemaline Myopathy Gene Mutations,ResultsDim
+Nemaline Myopathy Mutations Detection,ResultsDim
+Diagnostic Tests,ResultsDim
+PCR,ResultsDim
+Renal System Tests,ResultsDim
+PKLR Gene Mutation,ResultsDim
+PKLR Mutations Detection,ResultsDim
+D Dimer,ResultsDim
+Spherocytes,ResultsDim
+Cyclosporine  Level,ResultsDim
+Carbapenem-Resistant Enterobacterales CPCRE Molecular Methods,ResultsDim
+Iron Profile,ResultsDim
+Infusion Related Reaction,ProblemsDim
+Pruritus,ProblemsDim
+Disseminated Intravascular Coagulation (Dic),ProblemsDim
+Narcolepsy,ProblemsDim
+Rhinorrhea,ProblemsDim
+Vaginal Bleeding,ProblemsDim
+Prostate Dysplasia,ProblemsDim
+Body Mass Index,ProblemsDim
+Charcot-Marie-Tooth (Cmt) Syndrome,ProblemsDim
+Sensory Neuropathy,ProblemsDim
+Raynaud Phenomenon,ProblemsDim
+Alcohol Dependence,ProblemsDim
+Guillain Barre Syndrome,ProblemsDim
+Diabetes And Its Complications,ProblemsDim
+Diabetes With Chronic Complications,ProblemsDim
+Muscular Atrophy,ProblemsDim
+Statin Muscle Symptoms,ProblemsDim
+Ehrlichiosis,ProblemsDim
+Hemophthalmias,ProblemsDim
+Benzodiazepine Withdrawal,ProblemsDim
+Hypertensive Retinopathy,ProblemsDim
+Transient Ischemic Attack,ProblemsDim
+Posterior Uveitis,ProblemsDim
+Anterior Uveitis,ProblemsDim
+Glaucoma glaucoma,ProblemsDim
+Ocular Hypertension,ProblemsDim
+Kombiglyze,PatientMedicationDim
+Saxagliptin,PatientMedicationDim
+Dapagliflozin,PatientMedicationDim
+Xigduo,PatientMedicationDim
+Immunizations for viral diseases,PatientMedicationDim
+Measles Vaccine,PatientMedicationDim
+Disease Diagnostic Procedures,ProceduresDim
+Immunization,ProceduresDim
+Psychological Assessment,ProceduresDim
+Laboratory Diagnostic Procedures,ProceduresDim
+Social Habit Education,ProceduresDim
+Wellness and Preventive Care,ProceduresDim
+Preventive Health Screening,ProceduresDim
+Palliative Care Services,ProceduresDim
+Geriatric Care Procedures,ProceduresDim
+Clinical Assessment,ProceduresDim
+Herniorrhaphy,ProceduresDim
+Fracture Management,ProceduresDim
+Respiratory Assessment,ProceduresDim
+Blood Transfusion Procedures,ProceduresDim
+Nutrition Assessment,ProceduresDim
+Breast surgery,ProceduresDim
+Biopsy,ProceduresDim
+Neurological Assessment,ProceduresDim
+Vital Signs Assessment,ProceduresDim
+Chlamydia Trachomatis Infection,ProblemsDim
+Sinusitis,ProblemsDim
+Restingangina,ProblemsDim
+Vitamin B12 Deficiency Anemia,ProblemsDim
+Kidney Transplant,ProblemsDim
+Weight Gain,ProblemsDim
+Recurrent Vomiting,ProblemsDim
+Urinary Retention,ProblemsDim
+Visual Symptoms,ProblemsDim
+Bilateral Deafness,ProblemsDim
+Carbohydrate Intake,ProblemsDim
+Overweight,ProblemsDim
+Underweight,ProblemsDim
+Wound Infection,ProblemsDim
+Hypotension,ProblemsDim
+Gingival Hemorrhage,ProblemsDim
+Skin Plaques,ProblemsDim
+Rash,ProblemsDim
+Cardiomegaly/Left Ventricular Hypertrophy,ProblemsDim
+Tuberculosis Screening Test,ProblemsDim
+Rh Negative,ProblemsDim
+Rh(D) Negative/Rhesus Isoimmunization,ProblemsDim
+Fasting Blood Glucose,ProblemsDim
+Renal Function Tests Outside Reference Range,ProblemsDim
+Impotence,ProblemsDim
+Allergy To Contraceptive Device,ProblemsDim
+Intrauterine Device (Iud) Monitoring,ProblemsDim
+Breast Feeding,ProblemsDim
+Multiple Pregnancies,ProblemsDim
+Antivirals,PatientMedicationDim
+NRTIs,PatientMedicationDim
+Telbivudine,PatientMedicationDim
+Panitumumab,PatientMedicationDim
+Hematological Diseases,ProblemsDim
+"Endocrine, nutritional and metabolic diseases/disorders",ProblemsDim
+PaO2/FiO2 ratio ( P/F ratio),ResultsDim
+Direct Antiglobulin Test,ResultsDim
+Rabies Tests Nucleic Acid,ResultsDim
+Fungus Culturing Test,ResultsDim
+Microbe Culturing Test,ResultsDim
+Hepatitis Test,ResultsDim
+Hepatitis inhibited,ResultsDim
+Autoimmune Disease Panel,ResultsDim
+Rheumatoid Factor,ResultsDim
+n Culture for cholera,ResultsDim
+Detection of Vibrio cholerae by Nucleic Acid,ResultsDim
+E Coli Stx1 Stx2 Genes Presence,ResultsDim
+E. coli Stx1/Stx2 Genes Detection,ResultsDim
+NPM1,ResultsDim
+NPM1 Mutations Detection,ResultsDim
+HBA2 alpha,ResultsDim
+CRE Doripenem Sensitivity Testing,ResultsDim
+Diabetic Cataract,ProblemsDim
+Irritation,ProblemsDim
+Visual Disturbances,ProblemsDim
+Vision Problem,ProblemsDim
+Chronic And Acute Health Conditions,ProblemsDim
+Bilateral Blindness,ProblemsDim
+Dyspepsia,ProblemsDim
+Rhinitis and Sinusitis,ProblemsDim
+Ulcerative Keratitis,ProblemsDim
+Nausea,ProblemsDim
+Somnolence,ProblemsDim
+Dyslipidemia,ProblemsDim
+Azotemia,ProblemsDim
+Conjunctival Hemorrhage,ProblemsDim
+Conjunctival Edema,ProblemsDim
+Catheter Placement Procedures,ProceduresDim
+Aspiration and injection procedure,ProceduresDim
+Cytopathology Procedures,ProceduresDim
+Thoracic surgery,ProceduresDim
+Exploratory laparotomy,ProceduresDim
+Genetic Testing,ProceduresDim
+Metabolic Disorders Management,ProceduresDim
+Spinal fusion,ProceduresDim
+Spine Procedure,ProceduresDim
+Stem Cell Transplantation,ProceduresDim
+Open reduction of fracture,ProceduresDim
+Orthopedic Surgery,ProceduresDim
+Thirst,ProblemsDim
+"Simple Pneumonia, Respiratory Infections",ProblemsDim
+Variceal Hemorrhage,ProblemsDim
+Aortic Insufficiency,ProblemsDim
+Renal Tubular Acidosis (Rta),ProblemsDim
+Cervical Cancer,ProblemsDim
+Spinal Stenosis,ProblemsDim
+Endophthalmitis,ProblemsDim
+Developmental Delay,ProblemsDim
+"Endocrine, nutritional and metabolic diseases and disorders / Diseases and disorders of the kidney and urinary tract",ProblemsDim
+Polycythemia,ProblemsDim
+Hematological Disorders,ProblemsDim
+Myelodysplastic Syndromes,ProblemsDim
+Hemostatic Disorders,ProblemsDim
+Dermatomyositis,ProblemsDim
+Anemic Disorder,ProblemsDim
+Nutritional Deficiency,ProblemsDim
+Nutritional Deficiency Anemias,ProblemsDim
+Dysphagia,ProblemsDim
+Beta Thalassemia,ProblemsDim
+Hemoglobin Disorders,ProblemsDim
+Splenic Sequestration Crisis,ProblemsDim
+Disorders Of Immunity,ProblemsDim
+Anemia Of Chronic Disease (Acd),ProblemsDim
+Hemorrhagic Disorder,ProblemsDim
+Intravascular Coagulation,ProblemsDim
+Congenital Thrombocytopenia,ProblemsDim
+Evans Syndrome,ProblemsDim
+Immune Disorders,ProblemsDim
+Lymphocytopenia,ProblemsDim
+Splenectomy,ProblemsDim
+Macrocytosis,ProblemsDim
+Accidental Puncture Laceration,ProblemsDim
+"Perioperative Hemorrhage, Hematoma",ProblemsDim
+Immune Deficiency,ProblemsDim
+"Amyloidosis, Porphyria",ProblemsDim
+Chronic Lung Disorders,ProblemsDim
+Lung_Disorder,ProblemsDim
+Restrictive Lung Disease,ProblemsDim
+Viral Meningitis,ProblemsDim
+Myoneural Disorders,ProblemsDim
+Heart Infection,ProblemsDim
+Stem Cell Transplant,ProblemsDim
+Diseases and disorders of the nervous system / Diseases and disorders of the circulatory system,ProblemsDim
+Diseases and disorders of the nervous system / Diseases and disorders of the musculoskeletal system and connective tissue,ProblemsDim
+ABO,ResultsDim
+Wiskott-Aldrich syndrome Mutation,ResultsDim
+Microorganism Testing,ResultsDim
+Wound Culture,ResultsDim
+Standardized Tools Assessment of Cognition,ResultsDim
+ALAS2 Mutation Detection,ResultsDim
+ALAS2 mutation test,ResultsDim
+Rabies Tests Culture,ResultsDim
+Bacteria In Synovial Fluid,ResultsDim
+Bacterial detection in synovial fluid,ResultsDim
+Sputum  Stain,ResultsDim
+Rabies Antigen Detection,ResultsDim
+Rabies Tests Antigen,ResultsDim
+Circulatory System Test,ResultsDim
+Coronary Heart Disease 10 year Risk,ResultsDim
+Coronary heart disease risk,ResultsDim
+COVID-20 Serology Test,ResultsDim
+COVID19 PCR RT,ResultsDim
+Low Virulence Bacteria Presence,ResultsDim
+FIT DNA,ResultsDim
+Peripheral Blood Basophils,ResultsDim
+Immune System,ResultsDim
+White Blood Cell Studies,ResultsDim
+Cup To Disc Ratio,ResultsDim
+Glucoma Assessment,ResultsDim
+Eye Tests,ResultsDim
+Ophthamological Examination Fundoscopy,ResultsDim
+Functional Status Assessment for HF,ResultsDim
+Assessment Hip Replacement,ResultsDim
+Assessment process,ResultsDim
+FSA for Knee Replacement,ResultsDim
+Functional Status Assessment for Prosthesis,ResultsDim
+FunctionalStatAssessmentHipReplacement,ResultsDim
+Nystagmus,ProblemsDim
+Eye Pain,ProblemsDim
+Hemorrhoids,ProblemsDim
+Chronic Otitis Media,ProblemsDim
+Otitis Media,ProblemsDim
+Dengue,ProblemsDim
+Fecal Incontinence,ProblemsDim
+Gastrointestinal Obstruction,ProblemsDim
+Tinnitus,ProblemsDim
+Chills,ProblemsDim
+Rigor,ProblemsDim
+Hypoxemia,ProblemsDim
+Chronic Sinusitis,ProblemsDim
+Control Of Hemorrhage,ProblemsDim
+Acute Pancreatitis,ProblemsDim
+Abnormal Gait,ProblemsDim
+Acute Respiratory Failure,ProblemsDim
+Respiratory Failure,ProblemsDim
+Botulism,ProblemsDim
+Vertigo,ProblemsDim
+Retinopathy With Macular Edema,ProblemsDim
+Taste Disorder,ProblemsDim
+Acneiform Eruption,ProblemsDim
+Dizziness,ProblemsDim
+Obstruction of Colon,ProblemsDim
+Autoimmune Hepatitis,ProblemsDim
+Febrile Neutropenia,ProblemsDim
+Cardiac Arrest,ProblemsDim
+Angioedema,ProblemsDim
+Acute Cerebellar Syndrome,ProblemsDim
+Hypersensitivity Reaction,ProblemsDim
+Bacterial disease,ProblemsDim
+Acute Exacerbation of Chronic obstructive pulmonary disease (COPD),ProblemsDim
+Thiazide Diuretics,PatientMedicationDim
+Glucocorticoids,PatientMedicationDim
+Limb amputation,ProceduresDim
+Musco-Skeletal Assessment,ProceduresDim
+Gastrointestinal Procedures,ProceduresDim
+Clinical Diagnostic Procedures,ProceduresDim
+Blood Transfusion,ProceduresDim
+Hip prosthesis,ProceduresDim
+Diabetes Mellitus Management,ProceduresDim
+Knee prosthesis,ProceduresDim
+Extramedullary Blastic Infiltrates,ProblemsDim
+Chronic Obstructive Pulmonary Disease (COPD) / Asthma,ProblemsDim
+Steroid Induced Diabetes,ProblemsDim
+Steroid-Induced Diabetes / Drug-Induced Diabetes Mellitus,ProblemsDim
+Cushing's Syndrome,ProblemsDim
+Acute Renal Failure,ProblemsDim
+Cystic Fibrosis,ProblemsDim
+Pituitary And Adrenal Gland Disorders,ProblemsDim
+Diabetes with Acute Complications,ProblemsDim
+Diabetes with Complications,ProblemsDim
+Vitreous Hemorrhage,ProblemsDim
+Atherosclerosis,ProblemsDim
+Atherosclerosis Of Extremity With Ulceration Or Gangrene,ProblemsDim
+Diabetes Type 1 With Kidney Complications,ProblemsDim
+Diabetes Type 2 With Kidney Complications,ProblemsDim
+Tobacco Status,ResultsDim
+Fracture Risk Assessment,ResultsDim
+Risk assessment,ResultsDim
+Bone Marrow Biopsy,ResultsDim
+Cellularity Assessment in Bone Marrow,ResultsDim
+Uniform Assessment System,ResultsDim
+Lupus Anticogulant Screen,ResultsDim
+HEXB Gene Mutation,ResultsDim
+HEXB Mutation Detection,ResultsDim
+DXA (Dexa) Scan,ResultsDim
+Dacrocytes Present,ResultsDim
+Peripheral blood smears RDI (,ResultsDim
+Hep A Test,ResultsDim
+Monitoring Lab Panel,ResultsDim
+Antinuclear Antibody Test,ResultsDim
+Urine Macroalbumin Test,ResultsDim
+Giant Platelets,ResultsDim
+Peripheral blood smears/ Platelets/ Platelet count,ResultsDim
+Anaphylactic Reaction To Rv Vaccine,ProblemsDim
+Fistula,ProblemsDim
+Hyperhidrosis,ProblemsDim
+Aneurysm,ProblemsDim
+Chronic Kidney Disease Stage 5,ProblemsDim
+Chronic Kidney Disease Stage 6,ProblemsDim
+Hypokalemia,ProblemsDim
+Post-Traumatic Seizures,ProblemsDim
+Numbness,ProblemsDim
+Cardiac Pacemaker,ProblemsDim
+Cardiac Pacer,ProblemsDim
+Consciousness,ProblemsDim
+Edema Of The Face,ProblemsDim
+Glycosuria,ProblemsDim
+Rales,ProblemsDim
+Peritonitis,ProblemsDim
+Diaphoresis,ProblemsDim
+Demoralization And Apathy,ProblemsDim
+Dysuria,ProblemsDim
+Cough,ProblemsDim
+Hyperpigmentation,ProblemsDim
+Skin Blister,ProblemsDim
+Hypertensive Emergency,ProblemsDim
+Herpes Simplex Infection,ProblemsDim
+Brucellosis,ProblemsDim
+Acanthosis Nigricans,ProblemsDim
+Gout Tophi/Gouty Tophus,ProblemsDim
+Cutaneous Vasculitis Ulcerations,ProblemsDim
+Chancoid,ProblemsDim
+Nephropathy,ProblemsDim
+Renal Disorders,ProblemsDim
+Chronic Renal Failure,ProblemsDim
+Alopecia / Scalp Diseases,ProblemsDim
+Skin Atrophy,ProblemsDim
+Pyoderma Gangrenosum (Pg),ProblemsDim
+Neck surgery,ProceduresDim
+Dental Procedure,ProceduresDim
+Coronary bypass with chest & donor incisions,ProceduresDim
+Coronary bypass graft with chest incision,ProceduresDim
+Peripheral vascular bypass surgery,ProceduresDim
+Vascular Surgery,ProceduresDim
+Heart transplant,ProceduresDim
+Abdominal aortic aneurysm repair,ProceduresDim
+Carotid endarterectomy,ProceduresDim
+AV shunt for dialysis,ProceduresDim
+Psychosis,ProblemsDim
+Pulmonary Edema,ProblemsDim
+Pulmonary_edema,ProblemsDim
+Encephalitis,ProblemsDim
+Diabetic Neuropathy,ProblemsDim
+Hepatitis B Antibody,ResultsDim
+Hepatitis B Screening,ResultsDim
+CO Poisoning Tests Pulse Oximetry,ResultsDim
+Microbilogical Testing,ResultsDim
+HBA3 Gene Mutations,ResultsDim
+Candida Auris Nucleic Acid,ResultsDim
+Fungus Nucleic Acid Test,ResultsDim
+COVID-26 Serology Test,ResultsDim
+COVID19 Detection,ResultsDim
+ABO and Rh typing,ResultsDim
+FPC ABO and Rh,ResultsDim
+Candida Auris Culture,ResultsDim
+CD14,ResultsDim
+CD24,ResultsDim
+Erythocyte CD 59  Detection,ResultsDim
+Erythrocytes CD59 Complete Loss,ResultsDim
+Bacterial Load,ResultsDim
+Exercise Tolerance Test,ResultsDim
+Hepatitis B virus HBV,ResultsDim
+COVID-25 Serology Test,ResultsDim
+COVID19 Nucleic Acid Detection,ResultsDim
+COVID-21 Serology Test,ResultsDim
+COVID19 Antibody Detection,ResultsDim
+COVID-22 Serology Test,ResultsDim
+COVID19 Antigen Detection,ResultsDim
+COVID-24 Serology Test,ResultsDim
+COVID19 InterferonGamma Culture,ResultsDim
+COVID-23 Serology Test,ResultsDim
+COVID19 GenSeq Detection,ResultsDim
+Invasive Mechanical Ventilation,ResultsDim
+Epstein-Barr Virus Infection,ProblemsDim
+Other Malaise,ProblemsDim
+Jentadueto,PatientMedicationDim
+Linagliptin,PatientMedicationDim
+Empagliflozin,PatientMedicationDim
+Synjardy,PatientMedicationDim
+Empagliflozin / Linagliptin,PatientMedicationDim
+Trijardy,PatientMedicationDim
+Antimalarials,PatientMedicationDim
+Hydroxychlorioquine,PatientMedicationDim
+Spleen surgery,ProceduresDim
+Medication Management,ProceduresDim
+Multiple Sclerosis,ProblemsDim
+Orthostatic Hypotension,ProblemsDim
+Retinal Round Hole Without Detachment,ProblemsDim
+Disorientation,ProblemsDim
+Mitral Valve Disease,ProblemsDim
+Nonrheumatic Mitral Valve Disorders,ProblemsDim
+Hemorrhagic Stroke,ProblemsDim
+Intracerebral Hemorrhage,ProblemsDim
+Upper Respiratory Infection,ProblemsDim
+Upper Respiratory Tract Infection,ProblemsDim
+Interstitial Lung Disease,ProblemsDim
+Hepatitis,ProblemsDim
+Enzyme Test,ResultsDim
+Dietry Intervention,ResultsDim
+Free Low Density Lipoprotein LDLC < 101,ResultsDim
+Free Low Density Lipoprotein LDLC >= 100,ResultsDim
+Mental Health,ResultsDim
+Fecal Occult Blood Test (FOBT) 18,ResultsDim
+Nutrition Counselling,ResultsDim
+Atherosclerosis / Ischemic Vascular Disease (Ivd),ProblemsDim
+Liver Damage,ProblemsDim
+Melena,ProblemsDim
+Pulmonary Embolism,ProblemsDim
+Pulmonary Embolism (Pe) And Deep Vein Thrombosis (Dvt),ProblemsDim
+Sleep Behavior Disorder,ProblemsDim
+Gastric surgery,ProceduresDim
+Small bowel surgery,ProceduresDim
+Colon surgery,ProceduresDim
+Traditional medicine,ProceduresDim
+Appendix surgery,ProceduresDim
+Rectal surgery,ProceduresDim
+Nephrotic Syndrome,ProblemsDim
+Bladder Diverticulum,ProblemsDim
+Hyperphosphatemia,ProblemsDim
+Bone Pelvic Pain,ProblemsDim
+Atresia And Stenosis Of The Aorta,ProblemsDim
+Epigastric_burning,ProblemsDim
+Injection Site Infection,ProblemsDim
+Lethargy,ProblemsDim
+Bowel infarction/ Intestinal ischemia,ProblemsDim
+Asbestosis,ProblemsDim
+Hypokalemic Alkalosis,ProblemsDim
+Progressive Neurologic Disorders,ProblemsDim
+Cerebrovascular Accident,ProblemsDim
+Gastroesophageal Reflux,ProblemsDim
+Acute interstitial pneumonia,ProblemsDim
+Decreased Intraocular Pressure,ProblemsDim
+Metabolic Syndrome,ProblemsDim
+Adrenal Cushing's Syndrome,ProblemsDim
+Overweight / Obesity,ProblemsDim
+Myalgia,ProblemsDim
+Esophageal Ulcer,ProblemsDim
+Adrenal Insufficiency/Adrenal Dysfunction,ProblemsDim
+Gastroesophageal reflux disease (GERD),ProblemsDim
+Hypersensitivity Pneumonitis,ProblemsDim
+Acute Cecitis,ProblemsDim
+Mouth Ulcers / Canker Sores,ProblemsDim
+Muscle Weakness And Neck Pain,ProblemsDim
+Flatulence,ProblemsDim
+Myositis,ProblemsDim
+Drowsy,ProblemsDim
+Peripheral Edema,ProblemsDim
+Petechiae,ProblemsDim
+COVID19 RESPDIS,ProblemsDim
+Respiratory Distress,ProblemsDim
+Hyperperistalsis,ProblemsDim
+Cerebral Hemorrhage,ProblemsDim
+Jaw Pain,ProblemsDim
+Post-Traumatic Amnesia (Pta),ProblemsDim
+Musculoskeletal Pain,ProblemsDim
+Dysesthesia,ProblemsDim
+Liver Abscess,ProblemsDim
+Polyuria,ProblemsDim
+Slurred Speech,ProblemsDim
+Anaphylactic Reaction To Ipv Vaccine,ProblemsDim
+Allergy To Tamoxifen And Aromatase Inhibitor Therapy,ProblemsDim
+Sulfonamides,PatientMedicationDim
+Immunosuppressants,PatientMedicationDim
+Pitting Edema,ProblemsDim
+Vitreous Opacities,ProblemsDim
+Ace Inhibitor-Induced Renal Failure,ProblemsDim
+Edema,ProblemsDim
+Immune globulins,PatientMedicationDim
+RhoDIg,PatientMedicationDim
+Ibuprofen,PatientMedicationDim
+Tricyclic Antidepressants,PatientMedicationDim
+Liver transplant,ProceduresDim
+Gallbladder surgery,ProceduresDim
+Kidney surgery,ProceduresDim
+Urological Surgery,ProceduresDim
+Kidney transplant,ProceduresDim
+Gynecological Surgery,ProceduresDim
+Vaginal hysterectomy,ProceduresDim
+Prostate surgery,ProceduresDim
+Ovarian surgery,ProceduresDim
+Cesarean section,ProceduresDim
+Abdominal hysterectomy,ProceduresDim
+Thyroid and/or parathyroid surgery,ProceduresDim
+Craniotomy,ProceduresDim
+Ventricular shunt,ProceduresDim
+Breathlessness,ProblemsDim
+Pain Of The Sternum,ProblemsDim
+Hypertrichosis,ProblemsDim
+Psoriasis_Vulgaris,ProblemsDim
+Skin Striae,ProblemsDim
+Sacroiliitis,ProblemsDim
+Complications Of Pregnancy,ProblemsDim
+Obstetric Trauma,ProblemsDim
+Shock Following Terminated Pregnancy,ProblemsDim
+Pancreatic And Gland Disorders,ProblemsDim
+Gland Disorders,ProblemsDim
+Hyperparathyroidism,ProblemsDim
+Hypothalamic-Pituitary-Adrenal (Hpa) Axis Suppression,ProblemsDim
+Polycystic Ovaries,ProblemsDim
+Malnutrition,ProblemsDim
+Hypocalcemia,ProblemsDim
+BMI,ProblemsDim
+Morbid Obesity,ProblemsDim
+Metabolic Disorder,ProblemsDim
+Metabolic Disorders,ProblemsDim
+"Lipidoses, Glycogenosis",ProblemsDim
+Neurodegenerative Disorder,ProblemsDim
+Neurological Disorder,ProblemsDim
+Mucopolysaccharidosis,ProblemsDim
+Hypoproteinemia,ProblemsDim
+Chromosomal Anomalies,ProblemsDim
+Hypophosphatemia,ProblemsDim
+Tumor Lysis Syndrome (Tls),ProblemsDim
+Degenerative Neurological Disorder,ProblemsDim
+Delirium And Other Psychoses,ProblemsDim
+Severe Dementia,ProblemsDim
+Neurodegenerative Disease,ProblemsDim
+Psychotic Complications Of Substance Abuse,ProblemsDim
+Alcohol Use Complications,ProblemsDim
+Contraindications To Use Of Beta-Blockers In Benign Prostatic Hyperplasia (Bph),ProblemsDim
+Genital Ulceration,ProblemsDim
+Persistent Asthma,ProblemsDim
+Supraventricular Disease,ProblemsDim
+Supraventricular Tachycardia,ProblemsDim
+Shock/Cardiac Arrest,ProblemsDim
+Myocarditis,ProblemsDim
+Cardiomegaly,ProblemsDim
+Estrogens/Progestins,PatientMedicationDim
+Calcium Supplements,PatientMedicationDim
+Multivitamins and Supplements,PatientMedicationDim
+Mood Stabilizers,PatientMedicationDim
+Folic Acid,PatientMedicationDim
+Rapid Acting Insulin,PatientMedicationDim
+Iron,PatientMedicationDim
+Antithrombotics,PatientMedicationDim
+Thrombolytics,PatientMedicationDim
+Anticholinergics,PatientMedicationDim
+Vasopressors,PatientMedicationDim
+Sulindac,PatientMedicationDim
+Thyroid Drugs,PatientMedicationDim
+Thyroxine,PatientMedicationDim
+Aspirin,PatientMedicationDim
+Alkylating Agents,PatientMedicationDim
+Cyclophosphamide,PatientMedicationDim
+Methotrexate,PatientMedicationDim
+Mercaptopurine,PatientMedicationDim
+Aromatase Inhibitors,PatientMedicationDim
+Tamoxifen,PatientMedicationDim
+Naproxen,PatientMedicationDim
+Antituberculars,PatientMedicationDim
+Hepatitis B Vaccine,PatientMedicationDim
+Progestins,PatientMedicationDim
+Ascorbic Acid,PatientMedicationDim
+Intralesional Corticosteroids,PatientMedicationDim
+Dapsone and pyrimethamine,PatientMedicationDim
+Prednisone,PatientMedicationDim
+Analgesics,PatientMedicationDim
+Skeletal Muscle Relaxants,PatientMedicationDim
+Capecitabine,PatientMedicationDim
+Indomethacin,PatientMedicationDim
+Entecavir,PatientMedicationDim
+Fibromyalgia,ProblemsDim
+Renal Artery Atherosclerosis,ProblemsDim
+Diminished Emotions,ProblemsDim
+Burning Sensation Of The Eyes,ProblemsDim
+Cardioselective beta blockers,PatientMedicationDim
+Septicemia,ProblemsDim
+"Septicemia, Sepsis, Sris",ProblemsDim
+Drug Use Disorders,ProblemsDim
+Neonatal Disorder,ProblemsDim
+Newborn,ProblemsDim
+Newborn Weight,ProblemsDim
+Nontraumatic Subarachnoid Hemorrhage,ProblemsDim
+Subarachnoid And Extradural Hemorrhages,ProblemsDim
+Spinal Injuries,ProblemsDim
+Cardiac Shock,ProblemsDim
+Diseases and disorders of the respiratory system / Diseases and disorders of the circulatory system,ProblemsDim
+Shock,ProblemsDim
+Tachypnea,ProblemsDim
+Lung Infections,ProblemsDim
+Pulmonary Hemorrhage,ProblemsDim
+Respiratory Arrest,ProblemsDim
+Heart Disease,ProblemsDim
+Opportunistic Infection,ProblemsDim
+Mouth Candidiasis,ProblemsDim
+HIV/Aids,ProblemsDim
+Chronic Liver Failure,ProblemsDim
+Peritonitis Perforation,ProblemsDim
+Cirrhosis,ProblemsDim
+Brain Damage,ProblemsDim
+Community Acquired Pneumonia,ProblemsDim
+Burns,ProblemsDim
+Diseases and disorders of the kidney and urinary tract / Diseases and disorders of the male reproductive system / Diseases and disorders of the female reproductive system,ProblemsDim
+Diseases and disorders of the hepatobiliary system and pancreas / Diseases and disorders of the kidney and urinary tract,ProblemsDim
+Diseases and disorders of the musculoskeletal system and connective tissue / Diseases and disorders of the nervous system,ProblemsDim
+Anomaly Of Central Nervous System,ProblemsDim
+Spinal Cord Disorders,ProblemsDim
+Hydrocephalus,ProblemsDim
+Truncus Arteriosus,ProblemsDim
+Heart Disorders,ProblemsDim
+Ventricular Septal Defect,ProblemsDim
+Tetrology Fallot,ProblemsDim
+"Congestive Heart Failure, Valve Disease",ProblemsDim
+Valve Disease,ProblemsDim
+Interruption Of Aortic Arch,ProblemsDim
+Steroid-Induced Diabetes Mellitus,ProblemsDim
+Arteriovenous Malformations,ProblemsDim
+Cleft Palate,ProblemsDim
+Congenital Anomalies,ProblemsDim
+Intestinal Obstruction,ProblemsDim
+Solitary Kidney Disease,ProblemsDim
+Congenital Disorders,ProblemsDim
+Bilateral Amputation,ProblemsDim
+Lower Limb Amputation,ProblemsDim
+Osteodystrophies,ProblemsDim
+Skin Burn (Major),ProblemsDim
+Pemphigus,ProblemsDim
+Nail Diseases,ProblemsDim
+Autosomal Deletion Syndrome,ProblemsDim
+Circulatory And Respiratory Disorders,ProblemsDim
+Mild Substance Use,ProblemsDim
+Drug Use Complication,ProblemsDim
+Bleeding Heparin,ProblemsDim
+Cognitive Decline,ProblemsDim
+Immune Thrombocytopenic Purpura (Itp),ProblemsDim
+Relaxation And Sleep Therapy,ProblemsDim
+Ulcerative Esophagitis,ProblemsDim
+Overeating,ProblemsDim
+Mitomycin,PatientMedicationDim
+Cytarabine,PatientMedicationDim
+Hydroxyurea,PatientMedicationDim
+Erythropoiesis-Stimulating Agents (ESAs),PatientMedicationDim
+Erythropoietin,PatientMedicationDim
+Riomet,PatientMedicationDim
+Isotretinoin,PatientMedicationDim
+Tolmetin,PatientMedicationDim
+Alpha adrenergic receptor agonists,PatientMedicationDim
+Alpha-2 Adrenergic Receptor Antagonists,PatientMedicationDim
+Oxaliplatin,PatientMedicationDim
+Calcineurin Inhibitors,PatientMedicationDim
+Cyclosporine,PatientMedicationDim
+Influenza Vaccine,PatientMedicationDim
+Antidotes,PatientMedicationDim
+Leucovorin,PatientMedicationDim
+Nasal Steroids,PatientMedicationDim
+Loop Diuretics,PatientMedicationDim
+Chelating Agents,PatientMedicationDim
+Chronic obstructive pulmonary disease (COPD) Cough,ProblemsDim
+Respiratory Sypmtoms,ProblemsDim
+Orthopnea,ProblemsDim
+Oxygen_Dependence,ProblemsDim
+Nutritional Intake Barrier,ProblemsDim
+Oropharyngeal Symptoms,ProblemsDim
+Functional Impairment,ProblemsDim
+Bowel Incontinence,ProblemsDim
+Hepatomegaly,ProblemsDim
+"Hepatomegaly, Splenomegaly",ProblemsDim
+Diarrhea,ProblemsDim
+Skin Disorders,ProblemsDim
+Hypoesthesia,ProblemsDim
+Maculopapular Rashes,ProblemsDim
+Pallor,ProblemsDim
+Gait Disturbance,ProblemsDim
+Muscoskeletal Disorders,ProblemsDim
+Muscle Pain And Cramp,ProblemsDim
+Spasticity And Neck Pain,ProblemsDim
+Fasciculation,ProblemsDim
+Urogenital Disorders,ProblemsDim
+Urinary Hesitancy,ProblemsDim
+Unconsciousness,ProblemsDim
+"Coma, Anorexic Damage",ProblemsDim
+Persistent Vegetative State,ProblemsDim
+Minimal Conscience,ProblemsDim
+Dysgeusia,ProblemsDim
+Hallucination,ProblemsDim
+Agitation,ProblemsDim
+"Depression, Paranoid Disorder",ProblemsDim
+Dysarthria,ProblemsDim
+Voice Disorder,ProblemsDim
+Infections,ProblemsDim
+Fatigue,ProblemsDim
+Quadriplegia,ProblemsDim
+Syncope,ProblemsDim
+"Seizures, Convulsions",ProblemsDim
+Cardiorespiratory Arrest,ProblemsDim
+Emaciation,ProblemsDim
+Xerostomia,ProblemsDim
+Abnormal Electrocardiogram,ProblemsDim
+Elevated Carcinoembryonic Antigen,ProblemsDim
+Infectious Disease And Sexually Transmitted Diseases,ProblemsDim
+Minor Blunt Head Trauma,ProblemsDim
+Acute Brain Spinal Injury,ProblemsDim
+Head Injury,ProblemsDim
+Vertebral Fractures Without Spinal Cord Injury,ProblemsDim
+Corneal Erosion/Corneal Abrasion/Corneal Ulcer,ProblemsDim
+Delusional Disorder,ProblemsDim
+Reactive Unspecified Psychosis,ProblemsDim
+Uncontrolled Diabetes,ProblemsDim
+Benign Prostatic Hyperplasia (Bph),ProblemsDim
+Hypersensitivity Angiitis,ProblemsDim
+Enlarged Prostate Gland,ProblemsDim
+Tenofovir,PatientMedicationDim
+Doxorubicin,PatientMedicationDim
+Interferons,PatientMedicationDim
+Peginterferon alfa-2a,PatientMedicationDim
+Vincristine,PatientMedicationDim
+Antifungals,PatientMedicationDim
+Aspergillosis treatment,PatientMedicationDim
+Candidiasis treatment,PatientMedicationDim
+Electrolytes,PatientMedicationDim
+IV Fluids,PatientMedicationDim
+Meclofenamate,PatientMedicationDim
+Patient Discharge Procedures,ProceduresDim
+Limb Ischemia,ProblemsDim
+Postherpetic Neuralgia,ProblemsDim
+Cardiac Defibrillator,ProblemsDim
+Unilateral Mastectomy,ProblemsDim
+Gynecological Examination,ProblemsDim
+Traumatic Hemotympanum,ProblemsDim
+Trauma-Related Neck Pain,ProblemsDim
+Fracture Of Hip And Spine,ProblemsDim
+Vertebra Fracture,ProblemsDim
+Stress Disorder,ProblemsDim
+Anorexia Bulimia,ProblemsDim
+Phlebitis,ProblemsDim
+Thrombophlebitis,ProblemsDim
+Spinal Fusion,ProblemsDim
+Deep Vein Thrombosis,ProblemsDim
+Gastritis,ProblemsDim
+End Stage Liver Disease,ProblemsDim
+Aasopharyngitis,ProblemsDim
+Acute Nasopharyngitis,ProblemsDim
+Nasopharyngitis,ProblemsDim
+Lower Extremity Effusion,ProblemsDim
+End Stage Renal Disease,ProblemsDim
+Respiratory Distress Syndrome (RDS),ProblemsDim
+Major Joint Lower Extremity,ProblemsDim
+Rhinitis,ProblemsDim
+Larynx Edema,ProblemsDim
+"Hip And Femur Bone, Excluding Major Joint-Related Concerns",ProblemsDim
+Major Joint Upper Extremity,ProblemsDim
+"Chronic obstructive pulmonary disease (COPD), Emphysema Chronic Bronchitis",ProblemsDim
+Benzodiazepines,PatientMedicationDim
+Vasodilators,PatientMedicationDim
+Lorcaserin,PatientMedicationDim
+Mitotic Inhibitors,PatientMedicationDim
+Bosutinib,PatientMedicationDim
+Herbal Products,PatientMedicationDim
+Antimigraine Agents,PatientMedicationDim
+TRIPTAN,PatientMedicationDim
+Beta2 Agonist,PatientMedicationDim
+Long Acting Inhaled Beta2 Agonist,PatientMedicationDim
+Anagrelide,PatientMedicationDim
+Nelarabine,PatientMedicationDim
+Coronary Artery Bypass Grafting,ProblemsDim
+Oculomotor Disorders/Ocular Motor Dysfunction,ProblemsDim
+Orlistat,PatientMedicationDim
+Peripherally acting antiobesity agents,PatientMedicationDim
+Potassium Channel Blockers,PatientMedicationDim
+Cervical Spinal Lesion,ProblemsDim
+Chest Trauma,ProblemsDim
+Autistic Disorder,ProblemsDim
+Neurodevelopmental Disorder,ProblemsDim
+Cns Infection,ProblemsDim
+Infection Of Central Nervous System,ProblemsDim
+"Parkinson , Huntington Disease",ProblemsDim
+Amyotrophic Lateral Sclerosis,ProblemsDim
+Sequelae After Cerebrovascular Accident,ProblemsDim
+Amputation Of Limb,ProblemsDim
+Amputation System,ProblemsDim
+Lumbosacral Radiculopathy,ProblemsDim
+Neuromuscular Disorder,ProblemsDim
+Cerebral Infarction And Occlusion/Stenosis Of The Vertebral Artery,ProblemsDim
+Cholinergic Crisis,ProblemsDim
+Muscular Dystrophy,ProblemsDim
+Ponatinib,PatientMedicationDim
+Arsenic Trioxide,PatientMedicationDim
+Long Acting Insulin,PatientMedicationDim
+Pneumocystis Jiroveci,PatientMedicationDim
+Serotonin-norepinephrine Reuptake Inhibitors,PatientMedicationDim
+Acute Asthma,ProblemsDim
+Acute Chronic obstructive pulmonary disease (COPD),ProblemsDim
+Acidosis,ProblemsDim
+Lung_Fibrosis,ProblemsDim
+Gastrointestinal Perforation,ProblemsDim
+Necrotizing Fasciitis,ProblemsDim
+Paralytic Ileus,ProblemsDim
+Chronic Respitory Condition Fumes Vapors,ProblemsDim
+Neuritis,ProblemsDim
+Tracheostomy,ProblemsDim
+Oral Mucosal System,ProblemsDim
+Cheilitis,ProblemsDim
+Esophagus Stomach Duodenum,ProblemsDim
+"Fracture Of Femur, Hip And Pelvis",ProblemsDim
+Gastrostomy,ProblemsDim
+Crizotinib,PatientMedicationDim
+Multikinase inhibitors,PatientMedicationDim
+Dorsal Spinal Lesion,ProblemsDim
+Cerebral Palsy,ProblemsDim
+Hemiplegia,ProblemsDim
+Hemiplegia Hemiparesis,ProblemsDim
+Monoplegia,ProblemsDim
+Monoplegia Paralytic Syndromes,ProblemsDim
+Anoxic Brain Damage / Ischemic Brain Injury / Anoxic Encephalopathy,ProblemsDim
+Eye Disorder,ProblemsDim
+Keratitis,ProblemsDim
+Macular Degeneration,ProblemsDim
+Exudative Macular Degeneration,ProblemsDim
+Vitreous Detachment,ProblemsDim
+Cladribine,PatientMedicationDim
+Lamivudine,PatientMedicationDim
+Anti Infectives,PatientMedicationDim
+Gastric Procedure Complication,ProblemsDim
+Peritoneal Dialysis,ProblemsDim
+Small intestinal bacterial overgrowth (SIBO),ProblemsDim
+Wheezing,ProblemsDim
+Rectal Pain,ProblemsDim
+Colostomy,ProblemsDim
+"Diseases & Disorders Of The Skin, Subcutaneous Tissue & Breast",ProblemsDim
+Cirrhosis of Liver,ProblemsDim
+Hepatic,ProblemsDim
+Cholelithiasis,ProblemsDim
+Bacteremia,ProblemsDim
+Chronic Pancreatitis,ProblemsDim
+Hemorrhagic Diarrhea,ProblemsDim
+Hep B Vaccine,PatientMedicationDim
+Ketoprofen,PatientMedicationDim
+Zituvimet,PatientMedicationDim
+Rhabdomyolysis,ProblemsDim
+Myelodysplasia,ProblemsDim
+Cyclosporiasis,ProblemsDim
+Fracture And Dislocation Of Hip,ProblemsDim
+Pelvic Fracture,ProblemsDim
+Bullous Blistering And Exfoliative Skin,ProblemsDim
+"Congestive Heart Failure, Chronic Obstructive Pulmonary Disease",ProblemsDim
+Coronary Heart Failure,ProblemsDim
+Chronic Kidney Disease 5,ProblemsDim
+Kidney Renal Failure,ProblemsDim
+Unstable Angina,ProblemsDim
+Acute Myocardial Infarction / Circulatory System,ProblemsDim
+Urolithiasis,ProblemsDim
+Lip Ulcer,ProblemsDim
+Colitis,ProblemsDim
+Gingivitis,ProblemsDim
+Hemoptysis,ProblemsDim
+Priapism,ProblemsDim
+Palpable Breast mass,ProblemsDim
+Hysterectomy,ProblemsDim
+Vaginal Hemorrhage,ProblemsDim
+Irregular Menstruation,ProblemsDim
+Non-Live Births / Complications Of Pregnancy Termination,ProblemsDim
+Neomycin,PatientMedicationDim
+Pacemaker/,ProblemsDim
+Gestational Diabetes Mellitus (Gdm) Or Steroid-Induced Diabetes,ProblemsDim
+Type1 Diabetes Mellitus without Renal Complications,ProblemsDim
+Diabetes With Renal Manifestations,ProblemsDim
+"Deep Vein Thrombosis, Pulmonary Embolism",ProblemsDim
+Respiratory And Pulmonary System,ProblemsDim
+Lung_Diseases,ProblemsDim
+Arrythmia,ProblemsDim
+Heart Arrythmias,ProblemsDim
+Abortion Complicated By Shock,ProblemsDim
+Shock Complications In Obstetrics And Gynecology,ProblemsDim
+Embolism In Obstetrics And Gynecology,ProblemsDim
+Pruritic Rash,ProblemsDim
+Intercranial Hemorrhage,ProblemsDim
+5-Alpha-Reductase Inhibitors,PatientMedicationDim
+Fluorouracil,PatientMedicationDim
+Valvular Heart Disease / Cardiovascular Disease,ProblemsDim
+Thrombolic Event,ProblemsDim
+Arthralgia,ProblemsDim
+Amputation Complication,ProblemsDim
+Traumatic Amputations,ProblemsDim
+Pegaspargase,PatientMedicationDim
+Intermediate Acting Insulin,PatientMedicationDim
+Opthalmic Steroids,PatientMedicationDim
+Ppc (Perinatal Periods Of Care) Live Births,ProblemsDim
+Circulatory System Disorders,ProblemsDim
+Capecitabine/Oxaliplatin,PatientMedicationDim
+Angiopathy,ProblemsDim
+Capillary Leak Syndrome,ProblemsDim
+Selective Serotonin Reuptake Inhibitors,PatientMedicationDim
+HiB Vaccine,PatientMedicationDim
+Imatinib,PatientMedicationDim
+Pregnancy Circumstances And Planning,ProblemsDim
+Varied Pregnancy Presentations,ProblemsDim
+Coagulation Disorder/ Bleeding Disorders,ProblemsDim
+Pregnancy Complication,ProblemsDim
+Pregnancy Diagnosis,ProblemsDim
+Pregnancy-Related Complications/Live Birth,ProblemsDim
+Autoimmune hemolytic anemia,ProblemsDim
+Allergy and Intolerance to Medication,ProblemsDim
+Nutritional Anemia,ProblemsDim
+Primigravida,ProblemsDim
+Acquired Hemolytic Anemia,ProblemsDim
+Simple pneumonia and respiratory infections,ProblemsDim
+Sickle-cell anaemia,ProblemsDim
+COPD and bronchitis/asthma,ProblemsDim
+Cardiac valve,ProblemsDim
+Coronary artery bypass graft,ProblemsDim
+Repaglinide,PatientMedicationDim
+Tendon Rupture,ProblemsDim
+Esophageal Varices,ProblemsDim
+"Hemorrhage, Acute Ulcer",ProblemsDim
+Intolerance To Ace Inhibitors (Angiotensin-Converting Enzyme Inhibitors) And Arbs (Angiotensin II Receptor Blockers),ProblemsDim
+Intolerance To Ace Inhibitors Or Arbs (Angiotensin Receptor Blockers),ProblemsDim
+Respiratory Infections,ProblemsDim
+Sore Throat,ProblemsDim
+"Viral Pneumonia, Influenza",ProblemsDim
+COVID19 CONFIRM CASE,ProblemsDim
+COVID19 Respiratory Illness,ProblemsDim
+Tracheal Stricture,ProblemsDim
+Bronchitis Unspecified,ProblemsDim
+Severe Asthma,ProblemsDim
+Short Acting Insulin,PatientMedicationDim
+Oxaprozin,PatientMedicationDim
+Pacemaker,ProblemsDim
+Percutaneous coronary intervention,ProblemsDim
+Autoimmune Thrombocytopenia/ITP,ProblemsDim
+Endovascular cardiac valve replacement,ProblemsDim
+Diseases and disorders of the GI system,ProblemsDim
+Major bowel procedure,ProblemsDim
+"Disorder of liver except malignancy, cirrhosis or alcoholic hepatitis",ProblemsDim
+Double joint replacement of the lower extremity,ProblemsDim
+Major joint replacement of the lower extremity,ProblemsDim
+Hip and femur procedures except major joint,ProblemsDim
+"Lower extremity and humerus procedure except hip, foot, femur",ProblemsDim
+Back and neck except spinal fusion,ProblemsDim
+Fractures femur and hip/pelvis,ProblemsDim
+Prenatal Bundled Services,ProblemsDim
+Intolerance,AllergyDim
+Intolerance to ACE inhibitor or ARB inhibitor,AllergyDim
+Intolerance to Medication,AllergyDim
+Allergies And Adverse Reactions,AllergyDim
+Egg Substance Allergy,AllergyDim
+Food Allergy,AllergyDim
+Intolerance Tamoxifen Aromatase Therapy,AllergyDim
+Intolerance to Leucovorin,AllergyDim
+Allergy to ARB Inhibitor,AllergyDim
+Allergy to Medication,AllergyDim
+Intolerance to Beta Blocker Therapy,AllergyDim
+Allergy to Eggs,AllergyDim
+Allergy to IUD,AllergyDim
+Medical Equipment Allergy,AllergyDim
+Intolerance to Capecitabine,AllergyDim
+Allergy to MMR Vaccine,AllergyDim
+Vaccine Allergy,AllergyDim
+Intolerance to Fluorouracil,AllergyDim
+Intolerance to Antineoplastic Therapy,AllergyDim
+Allergy to Tamoxifen Aromatase Inhibitor Therapy,AllergyDim
+Allergies And Intolerance,AllergyDim
+Allergy and Intolerance to Beta_Blocker,AllergyDim
+Allergy and Intolerance to Medication,AllergyDim
+Allergy to Streptomycin,AllergyDim
+Allergy to Neomycin,AllergyDim
+Allergy to PolymyxinB,AllergyDim
+Allergy to Varicella Zoster Vaccine,AllergyDim
+Intolerance to Influenza Vaccine,AllergyDim
+Vaccine Intolerance,AllergyDim
+Allergy to Pneumococcal Vaccine,AllergyDim
+Allergy to Anti Neoplastic Therapy,AllergyDim
+Allergy to Beta Blocker Therapy,AllergyDim
+Allergy to Streptomycin/Neomycin/PolymyxinB,AllergyDim
+Allergy to Flu Vaccine/Neomycin,AllergyDim
+Vaccine/Meds Allergy,AllergyDim
+Allergy to Influenza Vaccine,AllergyDim
+Allergy to ACE Inhibitor and ARB,AllergyDim
+Intolerance to Oxaliplatin,AllergyDim
+Intolerance to Warfarin Therapy,AllergyDim
+Hypertonic Medications,PatientMedicationDim
+Sodium Opthalmic Solution,PatientMedicationDim
+Varicella Zoster Vaccine,PatientMedicationDim
+Rubella Vaccine,PatientMedicationDim
+IPV Vaccine,PatientMedicationDim
+Hep A Vaccine,PatientMedicationDim
+Mumps Vaccine,PatientMedicationDim
+Current Smoker Tobacco User,SocialHistoryDim
+Social History,SocialHistoryDim
+Tabaco/Alcohal use,SocialHistoryDim
+Asthma Unspecified,ProblemsDim
+Tracheostomy status,ProblemsDim
+Respiratory Complications,ProblemsDim
+Oral Health Conditions,ProblemsDim
+Upper Gastrointestinal Bleeding,ProblemsDim
+Esophageal,ProblemsDim
+Intestinal Obstruction Perforation,ProblemsDim
+Biliary Disease,ProblemsDim
+Chronic_Hepatitis,ProblemsDim
+Portal Hypertension,ProblemsDim
+Hepatorenal Syndrome,ProblemsDim
+Paronychia,ProblemsDim
+Photosensitivity,ProblemsDim
+Stevens-Johnson Syndrome (Sjs),ProblemsDim
+Toxic Epidermal Necrolysis (Ten),ProblemsDim
+Kidney Transplantation,ProblemsDim
+Pancreatitis,ProblemsDim
+Eyelid Edema,ProblemsDim
+Bariatric surgery,ProblemsDim
+Pregnancy Related Conditions,ProblemsDim
+Pregnancy-Related Complications,ProblemsDim
+Preterm Premature Rupture Of Membranes (Pprom) Complicated Deliveries/Miscarriage,ProblemsDim
+Preterm Premature Rupture Of Membranes (Pprom) Complicated Deliveries,ProblemsDim
+Encounter,EncountersDim
+Inpatient Encounter,EncountersDim
+Non acute Inpatient Encounter,EncountersDim
+Acute Inpatient Encounter,EncountersDim
+Acute Inpatient or ED Encounter,EncountersDim
+Acute Inpatient or ED Visit,EncountersDim
+Acute Inpatient or Outpatient Encounter,EncountersDim
+Acute or Non-acute Inpatient Encounter,EncountersDim
+Non acute Inpatient or Outpatient Encounter,EncountersDim
+Outpatient Visits,EncountersDim
+Home Health/ Outpatient Visits,EncountersDim
+Emergency Department Visit,EncountersDim
+AWV,EncountersDim
+Psychotherapy/Home Health Visits/Office Visits/AWV,EncountersDim
+Depression Screening/ Annual Wellness Visits,EncountersDim
+Inpatient or Observation Encounter,EncountersDim
+Inpatient Visit or ED Visit,EncountersDim
+Inpatient or Emergency Encounter,EncountersDim
+Inpatient Discharge Services,EncountersDim
+IPPE Visit,EncountersDim
+Piroxicam,PatientMedicationDim
+Blood Pressure,VitalSignDim
+Systolic Blood Pressure,VitalSignDim
+Vital Signs,VitalSignDim
+Diastolic Blood Pressure,VitalSignDim
+Head Circumference,VitalSignDim
+Pulse Oximetry,VitalSignDim
+Height,VitalSignDim
+BMI,VitalSignDim
+Temperature,VitalSignDim
+Skin Burn,ProblemsDim
+Psoriasis,ProblemsDim
+Psoriasis / Autoimmune Disease,ProblemsDim
+Autoimmune Disease,ProblemsDim
+Rheumatoid Arthritis And Inflammatory Connective Tissue Disease,ProblemsDim
+Lichen Planus,ProblemsDim
+Nail Discoloration,ProblemsDim
+Acne Vulgaris,ProblemsDim
+Poikiloderma,ProblemsDim
+Skin Loss,ProblemsDim
+Morphea,ProblemsDim
+Diclofenac,PatientMedicationDim
+Skin Fissure,ProblemsDim
+Skin Lesion,ProblemsDim
+Adolescents Immunization,ImmunizationDim
+Adults Immunization,ImmunizationDim
+COVID-19,ImmunizationDim
+COVID-19 vaccine,ImmunizationDim
+Combination Vaccines:,ImmunizationDim
+DTaP,ImmunizationDim
+HPV (Human Papillomavirus),ImmunizationDim
+HPV vaccine.,ImmunizationDim
+Hepatitis A,ImmunizationDim
+Hepatitis B,ImmunizationDim
+Hepatitis B vaccine.,ImmunizationDim
+Immunization/ Vaccine,ImmunizationDim
+Immunocompromised Individuals Vaccines,ImmunizationDim
+Influenza vaccine,ImmunizationDim
+Meningococcal vaccine.,ImmunizationDim
+Meningococcal vaccines,ImmunizationDim
+Mumps,ImmunizationDim
+Pneumococcal Vaccines,ImmunizationDim
+Pneumococcal vaccine.,ImmunizationDim
+Pregnant Women Vaccines / Vaccine during pregnancy,ImmunizationDim
+Td,ImmunizationDim
+TdaP,ImmunizationDim
+Tetanus,ImmunizationDim
+Toxoid Vaccine,ImmunizationDim
+Travel Vaccines:,ImmunizationDim
+VZV,ImmunizationDim
+HepB (hepatitis B),ImmunizationDim
+MMR,ImmunizationDim
+IPV,ImmunizationDim
+PCV (pneumococcal conjugate),ImmunizationDim
+HiB (haemophilus influenza type B),ImmunizationDim
+HepA (hepatitis A),ImmunizationDim
+DTaP_DT,ImmunizationDim
+Rotavirus,ImmunizationDim
+VZV (chicken pox),ImmunizationDim
+Measles and Rubella,ImmunizationDim
+Measles,ImmunizationDim
+Rubella,ImmunizationDim
+Sodium Channel Blockers,PatientMedicationDim
+Cytarabine Liposome,PatientMedicationDim
+Coverage,PatientPayerDim
+Medicare/Medicaid,PatientPayerDim
+Medicare/Medicaid/Commercial,PatientPayerDim
+Commercial Insurance,PatientPayerDim
+"Infection Of Bone, Joint And Muscle",ProblemsDim
+Osteonecrosis,ProblemsDim
+Arthritis/ Arthropathy,ProblemsDim
+Intolerance To Warfarin Therapy,ProblemsDim
+Anaphylactic Shocks,ProblemsDim
+HHS,ProblemsDim
+HHS 3,ProblemsDim
+HHS 135,ProblemsDim
+HCC v24,ProblemsDim
+HCC v24_ 115,ProblemsDim
+HCC v24_ 39,ProblemsDim
+HCC v28,ProblemsDim
+HCC v28_ 92,ProblemsDim
+HHS 55,ProblemsDim
+HCC v24_ 2,ProblemsDim
+HCC v28_ 2,ProblemsDim
+HHS 2,ProblemsDim
+HHS 35.1,ProblemsDim
+HCC v28_ 283,ProblemsDim
+HHS 163,ProblemsDim
+HCC v24_ 6,ProblemsDim
+HCC v28_ 6,ProblemsDim
+HHS 6,ProblemsDim
+HCC v24_ 85,ProblemsDim
+HCC v28_ 227,ProblemsDim
+HHS 130,ProblemsDim
+Polymyxin,PatientMedicationDim
+HIV (Type 2),ProblemsDim
+Muscle Atrophy And Neck Pain,ProblemsDim
+HCC v24_ 23,ProblemsDim
+HHS 30,ProblemsDim
+HCC v24_ 106,ProblemsDim
+HCC v28_ 263,ProblemsDim
+HHS 153,ProblemsDim
+HCC v24_ 114,ProblemsDim
+HCC v28_ 282,ProblemsDim
+HHS 149,ProblemsDim
+HCC v24_ 33,ProblemsDim
+HCC v28_ 78,ProblemsDim
+HHS 42,ProblemsDim
+HCC v24_ 52,ProblemsDim
+HCC v28_ 127,ProblemsDim
+HHS 4,ProblemsDim
+HCC v24_ 72,ProblemsDim
+HCC v28_ 182,ProblemsDim
+HHS 110,ProblemsDim
+HCC v24_ 29,ProblemsDim
+HCC v28_ 65,ProblemsDim
+HHS 37.2,ProblemsDim
+HHS 37.1,ProblemsDim
+HCC v24_ 1,ProblemsDim
+HCC v28_ 1,ProblemsDim
+HHS 1,ProblemsDim
+HHS 47,ProblemsDim
+HCC v24_ 112,ProblemsDim
+HCC v28_ 280,ProblemsDim
+HHS 162,ProblemsDim
+HCC v24_ 11,ProblemsDim
+HCC v28_ 21,ProblemsDim
+HHS 11,ProblemsDim
+HCC v24_ 9,ProblemsDim
+HCC v28_ 20,ProblemsDim
+HHS 9,ProblemsDim
+HCC v28_ 22,ProblemsDim
+HHS 10,ProblemsDim
+HCC v24_ 10,ProblemsDim
+HCC v24_ 12,ProblemsDim
+HCC v28_ 23,ProblemsDim
+HHS 13,ProblemsDim
+HCC v28_ 19,ProblemsDim
+HHS 12,ProblemsDim
+Acute Gout,ProblemsDim
+HCC v24_ 8,ProblemsDim
+HCC v28_ 18,ProblemsDim
+HHS 8,ProblemsDim
+HCC v28_ 17,ProblemsDim
+Birth Related Problems,ProblemsDim
+Heart Murmur,ProblemsDim
+Fenoprofen,PatientMedicationDim
+Fasciitis,ProblemsDim
+Hip Pelvic Fracture,ProblemsDim
+HCC v24_ 48,ProblemsDim
+HHS 75,ProblemsDim
+Bleeding Disorder,ProblemsDim
+HCC v24_ 46,ProblemsDim
+HHS 67,ProblemsDim
+HCC v28_ 108,ProblemsDim
+HHS 71,ProblemsDim
+HCC v28_ 107,ProblemsDim
+HHS 70,ProblemsDim
+HCC v24_ 47,ProblemsDim
+Immunosuppressive Therapy,ProblemsDim
+Candida Auris Infection,ProblemsDim
+"Trauma, Injury",ProblemsDim
+Hemorrhagic Cystitis,ProblemsDim
+Flurbiprofen,PatientMedicationDim
+Urinary Tract Infection (Uti),ProblemsDim
+Acute Kidney Failure,ProblemsDim
+Chronic Kidney Disease 4,ProblemsDim
+Renal Disease,ProblemsDim
+HHS 69,ProblemsDim
+HCC v28_ 109,ProblemsDim
+HHS 68,ProblemsDim
+HCC v28_ 111,ProblemsDim
+HHS 66,ProblemsDim
+HCC v28_ 112,ProblemsDim
+HCC v28_ 115,ProblemsDim
+HHS 74,ProblemsDim
+HCC v28_ 114,ProblemsDim
+HHS 73,ProblemsDim
+HHS 29,ProblemsDim
+HCC v28_ 387,ProblemsDim
+HCC v24_ 75,ProblemsDim
+HHS 115,ProblemsDim
+HCC v28_ 93,ProblemsDim
+HCC v28_ 454,ProblemsDim
+HHS 251,ProblemsDim
+Major joint replacement of upper extremity,ProblemsDim
+HCC v28_ 202,ProblemsDim
+HCC v24_ 17,ProblemsDim
+HCC v28_ 36,ProblemsDim
+HHS 19,ProblemsDim
+HCC v24_ 18,ProblemsDim
+HCC v28_ 37,ProblemsDim
+HHS 20,ProblemsDim
+HCC v28_ 298,ProblemsDim
+HCC v24_ 122,ProblemsDim
+HCC v24_ 108,ProblemsDim
+HCC v24_ 161,ProblemsDim
+HCC v28_ 383,ProblemsDim
+HCC v28_ 38,ProblemsDim
+HHS 21,ProblemsDim
+HCC v24_ 19,ProblemsDim
+Vaginal Stenosis,ProblemsDim
+Ectopic Pregnancy,ProblemsDim
+Miscarriage,ProblemsDim
+Miscarriage Complications,ProblemsDim
+Abortion Related Shock,ProblemsDim
+Gestational Hypertension,ProblemsDim
+Pre Eclampsia,ProblemsDim
+HCC v24_ 21,ProblemsDim
+HCC v28_ 51,ProblemsDim
+HHS 23,ProblemsDim
+HCC v24_ 22,ProblemsDim
+HCC v28_ 48,ProblemsDim
+HHS 28,ProblemsDim
+HCC v28_ 50,ProblemsDim
+HHS 27,ProblemsDim
+HCC v28_ 49,ProblemsDim
+HHS 119,ProblemsDim
+HHS 26,ProblemsDim
+HHS 97,ProblemsDim
+HCC v24_ 110,ProblemsDim
+HCC v28_ 277,ProblemsDim
+HHS 159,ProblemsDim
+HCC v24_ 51,ProblemsDim
+HCC v28_ 126,ProblemsDim
+HCC v28_ 125,ProblemsDim
+Hellp Syndrome,ProblemsDim
+HCC v24_ 55,ProblemsDim
+HCC v28_ 139,ProblemsDim
+HHS 84,ProblemsDim
+HCC v24_ 54,ProblemsDim
+HCC v28_ 136,ProblemsDim
+HHS 83,ProblemsDim
+HCC v24_ 56,ProblemsDim
+HCC v28_ 138,ProblemsDim
+HCC v28_ 137,ProblemsDim
+HHS 82,ProblemsDim
+HCC v28_ 135,ProblemsDim
+HHS 81,ProblemsDim
+HCC v24_ 57,ProblemsDim
+HCC v28_ 151,ProblemsDim
+HHS 87.1,ProblemsDim
+HCC v24_ 60,ProblemsDim
+HCC v28_ 153,ProblemsDim
+HHS 90,ProblemsDim
+HCC v24_ 59,ProblemsDim
+HCC v28_ 152,ProblemsDim
+HHS 87.2,ProblemsDim
+HCC v24_ 58,ProblemsDim
+HCC v28_ 154,ProblemsDim
+HHS 88,ProblemsDim
+HCC v28_ 155,ProblemsDim
+HHS 94,ProblemsDim
+HHS 102,ProblemsDim
+HHS 103,ProblemsDim
+HCC v24_ 78,ProblemsDim
+HCC v28_ 200,ProblemsDim
+HCC v28_ 190,ProblemsDim
+HHS 111,ProblemsDim
+HCC v24_ 73,ProblemsDim
+HCC v28_ 199,ProblemsDim
+HCC v24_ 77,ProblemsDim
+HCC v28_ 198,ProblemsDim
+HHS 118,ProblemsDim
+HCC v24_ 79,ProblemsDim
+HCC v28_ 201,ProblemsDim
+HHS 120,ProblemsDim
+HHS 123,ProblemsDim
+HCC v24_ 189,ProblemsDim
+HCC v28_ 409,ProblemsDim
+HHS 254,ProblemsDim
+HCC v28_ 193,ProblemsDim
+HCC v28_ 196,ProblemsDim
+HCC v28_ 195,ProblemsDim
+HCC v24_ 76,ProblemsDim
+HCC v28_ 197,ProblemsDim
+HHS 117,ProblemsDim
+HCC v24_ 74,ProblemsDim
+HCC v28_ 191,ProblemsDim
+HHS 112,ProblemsDim
+HCC v28_ 192,ProblemsDim
+HHS 113,ProblemsDim
+HCC v24_ 103,ProblemsDim
+HCC v28_ 253,ProblemsDim
+HHS 150,ProblemsDim
+HCC v24_ 71,ProblemsDim
+HCC v28_ 181,ProblemsDim
+HHS 109,ProblemsDim
+HCC v24_ 70,ProblemsDim
+HCC v28_ 180,ProblemsDim
+HHS 107,ProblemsDim
+HCC v24_ 104,ProblemsDim
+HCC v28_ 254,ProblemsDim
+HHS 151,ProblemsDim
+HHS 122,ProblemsDim
+HHS 114,ProblemsDim
+HHS 121,ProblemsDim
+HCC v24_ 80,ProblemsDim
+HCC v24_ 124,ProblemsDim
+HCC v28_ 300,ProblemsDim
+HHS 174,ProblemsDim
+HCC v28_ 226,ProblemsDim
+HCC v24_ 136,ProblemsDim
+HCC v28_ 326,ProblemsDim
+HHS 187,ProblemsDim
+HCC v24_ 87,ProblemsDim
+HCC v28_ 229,ProblemsDim
+HHS 132,ProblemsDim
+HCC v24_ 88,ProblemsDim
+HCC v24_ 86,ProblemsDim
+HCC v28_ 228,ProblemsDim
+HHS 131,ProblemsDim
+HCC v28_ 238,ProblemsDim
+HCC v24_ 107,ProblemsDim
+HCC v28_ 267,ProblemsDim
+HHS 156,ProblemsDim
+HCC v24_ 96,ProblemsDim
+HHS 142,ProblemsDim
+HCC v24_ 84,ProblemsDim
+HCC v28_ 213,ProblemsDim
+HHS 127,ProblemsDim
+HCC v28_ 225,ProblemsDim
+HCC v28_ 224,ProblemsDim
+HCC v28_ 222,ProblemsDim
+HCC v24_ 99,ProblemsDim
+HCC v28_ 248,ProblemsDim
+HHS 145,ProblemsDim
+HCC v24_ 100,ProblemsDim
+HCC v28_ 249,ProblemsDim
+HHS 146,ProblemsDim
+HHS 154,ProblemsDim
+HCC v28_ 264,ProblemsDim
+HCC v24_ 40,ProblemsDim
+HHS 217,ProblemsDim
+HCC v24_ 27,ProblemsDim
+HCC v28_ 63,ProblemsDim
+HHS 35.2,ProblemsDim
+HCC v24_ 111,ProblemsDim
+HHS 160,ProblemsDim
+HHS 161.1,ProblemsDim
+HHS 161.2,ProblemsDim
+HCC v28_ 279,ProblemsDim
+HCC v24_ 186,ProblemsDim
+HCC v28_ 276,ProblemsDim
+HCC v28_ 278,ProblemsDim
+HCC v24_ 82,ProblemsDim
+HCC v28_ 211,ProblemsDim
+HHS 125,ProblemsDim
+HHS 45,ProblemsDim
+HCC v24_ 35,ProblemsDim
+HCC v28_ 80,ProblemsDim
+HHS 48,ProblemsDim
+Moderate To Severe Left Ventricular Systolic Dysfunction (LSVD),ProblemsDim
+Liver Transplant Complications,ProblemsDim
+Hemopoietic Cell Transplant,ProblemsDim
+Pancreas Transplant,ProblemsDim
+Sexual Transmitted Infection,ProblemsDim
+Leukoencephalopathy,ProblemsDim
+HCC v28_ 81,ProblemsDim
+HCC v24_ 28,ProblemsDim
+HCC v28_ 64,ProblemsDim
+HHS 36,ProblemsDim
+HCC v28_ 68,ProblemsDim
+HCC v24_ 34,ProblemsDim
+HCC v28_ 79,ProblemsDim
+HHS 46,ProblemsDim
+HCC v24_ 188,ProblemsDim
+HCC v28_ 463,ProblemsDim
+HHS 253,ProblemsDim
+HHS 219,ProblemsDim
+HCC v24_ 162,ProblemsDim
+HHS 56,ProblemsDim
+HCC v24_ 158,ProblemsDim
+HCC v28_ 381,ProblemsDim
+HCC v24_ 159,ProblemsDim
+HCC v28_ 382,ProblemsDim
+HCC v24_ 157,ProblemsDim
+HCC v28_ 379,ProblemsDim
+HCC v28_ 380,ProblemsDim
+HIV/ Aids,ProblemsDim
+COVID19 Infection,ProblemsDim
+Bacterial Infectious Agent,ProblemsDim
+Intentional Self Harm,ProblemsDim
+Burns And Frostbite,ProblemsDim
+Burn,ProblemsDim
+Severe Burn,ProblemsDim
+Poisoning,ProblemsDim
+Poisoning By Drugs,ProblemsDim
+HCC v28_ 94,ProblemsDim
+HHS 57,ProblemsDim
+HHS 62,ProblemsDim
+HCC v24_ 169,ProblemsDim
+HCC v28_ 401,ProblemsDim
+HHS 228,ProblemsDim
+HHS 54,ProblemsDim
+HCC v24_ 170,ProblemsDim
+HCC v28_ 402,ProblemsDim
+HHS 226,ProblemsDim
+Central Venous Catheter Bloodstream Infection,ProblemsDim
+Dialysis System,ProblemsDim
+Complications Of The Arteriovenous Fistula,ProblemsDim
+Lung Transplan,ProblemsDim
+Intestinal Transplant Status,ProblemsDim
+Family History F Heart Disease,ProblemsDim
+Follow-Up Visit In Case Of Preterm Premature Rupture Of Membranes (Pprom) Complicated Deliveries,ProblemsDim
+Obstetric And Gynecological Encounters,ProblemsDim
+Multiple Births,ProblemsDim
+Cardiac Pacemaker In Situ,ProblemsDim
+Oxygen_Dependent,ProblemsDim
+Lower Extremity Amputation,ProblemsDim
+Dietary Counseling,ProblemsDim
+Exercise Counseling,ProblemsDim
+Exercise Counselling,ProblemsDim
+Physical Activity Counseling,ProblemsDim
+Breast Examination,ProblemsDim
+Mammogram Screening,ProblemsDim
+HCC v24_ 176,ProblemsDim
+HCC v24_ 135,ProblemsDim
+HCC v24_ 138,ProblemsDim
+HCC v28_ 329,ProblemsDim
+HCC v28_ 328,ProblemsDim
+HCC v24_ 137,ProblemsDim
+HCC v28_ 327,ProblemsDim
+HHS 188,ProblemsDim
+HHS 184,ProblemsDim
+HHS 203,ProblemsDim
+HHS 205,ProblemsDim
+HHS 204,ProblemsDim
+HHS 207,ProblemsDim
+"Pulmonary Embolism, Abortion",ProblemsDim
+HHS 212,ProblemsDim
+HHS 211,ProblemsDim
+Pregnancy Complications,ProblemsDim
+HHS 208,ProblemsDim
+Body Mass Index (Bmi),ProblemsDim
+Normal Bmi,ProblemsDim
+Bmi/Overweight/Obesity,ProblemsDim
+Physical Activity Counselling,ProblemsDim
+Genetic Diseases,ProblemsDim
+COVID19 Symptoms,ProblemsDim
+Dietary Recommendations,ProblemsDim
+Alcohol Counselling,ProblemsDim
+Physical Restraint,ProblemsDim
+Heart Damage,ProblemsDim
+HHS 209,ProblemsDim
+HHS 210,ProblemsDim
+HHS 248,ProblemsDim
+HHS 242,ProblemsDim
+HHS 243,ProblemsDim
+HHS 244,ProblemsDim
+HHS 245,ProblemsDim
+HHS 246,ProblemsDim
+HHS 247,ProblemsDim
+HHS 249,ProblemsDim
+HCC v28_ 399,ProblemsDim
+HCC v28_ 212,ProblemsDim
+HHS 126,ProblemsDim
+HHS 138,ProblemsDim
+HHS 137,ProblemsDim
+HHS 139,ProblemsDim
+HHS 63,ProblemsDim
+HHS 64,ProblemsDim
+HHS 61,ProblemsDim
+HHS 96,ProblemsDim
+HCC v24_ 83,ProblemsDim
+HCC v24_ 167,ProblemsDim
+HCC v28_ 398,ProblemsDim
+HCC v24_ 166,ProblemsDim
+HCC v28_ 397,ProblemsDim
+HHS 223,ProblemsDim
+HHS 106,ProblemsDim
+HHS 108,ProblemsDim
+HCC v24_ 173,ProblemsDim
+HCC v28_ 405,ProblemsDim
+HHS 234,ProblemsDim
+HCC v28_ 385,ProblemsDim
+HHS 218,ProblemsDim
+HCC v24_ 134,ProblemsDim
+HCC v28_ 223,ProblemsDim
+HHS 183,ProblemsDim
+HCC v28_ 221,ProblemsDim
+HHS 129,ProblemsDim
+HCC v28_ 62,ProblemsDim
+HHS 34,ProblemsDim
+HHS 158,ProblemsDim
+HCC v28_ 77,ProblemsDim
+HHS 41,ProblemsDim
+Reproductive Health Care,ProblemsDim
+HCC v28_ 35,ProblemsDim
+HHS 18,ProblemsDim
+HHS 128,ProblemsDim

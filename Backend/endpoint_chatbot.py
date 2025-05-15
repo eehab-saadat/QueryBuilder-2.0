@@ -123,12 +123,12 @@ def get_rag_examples(text_query: str) -> str:
 clickhouse_uri = "clickhouse://Platform:Platform@10.20.30.148:8123/demo_ml"
 
 
-db = SQLDatabase.from_uri(clickhouse_uri)
+# db = SQLDatabase.from_uri(clickhouse_uri)
 
-@function_tool
-def execute_sql(sql_query: str) -> str:
-    """Execute a SQL query against the database. Returns the result"""
-    return QuerySQLDataBaseTool(db=db).invoke(sql_query)
+# @function_tool
+# def execute_sql(sql_query: str) -> str:
+#     """Execute a SQL query against the database. Returns the result"""
+#     return QuerySQLDataBaseTool(db=db).invoke(sql_query)
 
 
 BASE_PROMPT = dedent(

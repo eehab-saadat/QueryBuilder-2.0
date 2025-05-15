@@ -2,6 +2,7 @@ import React from "react";
 import { Light as SyntaxHighlighter } from "react-syntax-highlighter";
 import sql from "react-syntax-highlighter/dist/esm/languages/hljs/sql";
 import docco from "react-syntax-highlighter/dist/esm/styles/hljs/docco";
+import TableColumnSelector from "./Filters";
 
 SyntaxHighlighter.registerLanguage("sql", sql);
 const renderWithSQLBlock = (text) => {
@@ -37,7 +38,9 @@ const renderWithSQLBlock = (text) => {
             textAlign: 'left',
           }}
         >
-          <button
+                <TableColumnSelector/>
+
+          {/* <button
             onClick={() => handleCopy(sqlContent)}
             style={{
               position: 'absolute',
@@ -53,10 +56,10 @@ const renderWithSQLBlock = (text) => {
             }}
           >
             Copy
-          </button>
-          <pre style={{ margin: 0 }}>
+          </button> */}
+          {/* <pre style={{ margin: 0 }}>
             <code>{sqlContent}</code>
-          </pre>
+          </pre> */}
         </div>
       );
       inSQLBlock = false;

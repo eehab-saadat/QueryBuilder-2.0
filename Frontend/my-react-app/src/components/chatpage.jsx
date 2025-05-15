@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 import renderWithSQLBlock from './blockRenderer';
 import { FiSend } from 'react-icons/fi'; // install react-icons if you haven't
 import { FiChevronLeft, FiChevronRight } from 'react-icons/fi';
+import TableColumnSelector from './Filters'; // adjust path if needed
 
 function ChatPage() {
   const [messages, setMessages] = useState([]);
@@ -129,7 +130,6 @@ function ChatPage() {
   flexDirection: 'column',
 }}>
   <div style={{ display: 'flex', justifyContent: 'flex-end' }}>
-
 <button
   onClick={() => setIsSidebarOpen(!isSidebarOpen)}
   style={{
@@ -218,6 +218,8 @@ function ChatPage() {
                 : message.content;
 
               return (
+                <>
+
                 <div
                   key={index}
                   style={{
@@ -241,7 +243,7 @@ function ChatPage() {
                     {renderWithSQLBlock(content)}
                   </div>
                 </div>
-              );
+              </>);
             })
           )}
         </div>
